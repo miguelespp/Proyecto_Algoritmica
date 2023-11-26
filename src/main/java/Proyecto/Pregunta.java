@@ -13,11 +13,15 @@ public class Pregunta {
     private String[] alternativas = new String[5];
     private char respuestaCorrecta;
     private String razonamiento;
+    private boolean respondida;
+    private boolean correctamenteRespondido;
     
     public Pregunta() {
         this.enunciado = "";
         this.respuestaCorrecta = ' ';
         this.razonamiento = "";
+        this.respondida = false;
+        this.correctamenteRespondido = false;
     }
 
     public Pregunta(String enunciado, String[] alternativas, char respuestaCorrecta, String razonamiento) {
@@ -25,6 +29,8 @@ public class Pregunta {
         this.alternativas = alternativas;
         this.respuestaCorrecta = respuestaCorrecta;
         this.razonamiento = razonamiento;
+        this.respondida = false;
+        this.correctamenteRespondido = false;
     }
 
     // Getters y setters para acceder a los atributos
@@ -58,5 +64,29 @@ public class Pregunta {
 
     public void setRazonamiento(String razonamiento) {
         this.razonamiento = razonamiento;
+    }
+    
+    //util para la clase estadistica
+    public boolean isRespondida() {
+        return respondida;
+    }
+    
+    //maracamos como respondida y se lo bloquea de la interfaz o alguna accion correspondiente
+    public void marcarRespondida() {
+        this.respondida = true;
+    }
+    
+    //util para la clase estadistica
+    public boolean isRespondidoCorrectamente() {
+        return correctamenteRespondido;
+    }
+    
+    //con esto validamos la respuesta seleccionada
+    public void comprobarRespuesta(char resptSeleccionada){
+        if (resptSeleccionada == respuestaCorrecta) {
+            correctamenteRespondido = true;
+        }else{
+            correctamenteRespondido = false;
+        }
     }
 }

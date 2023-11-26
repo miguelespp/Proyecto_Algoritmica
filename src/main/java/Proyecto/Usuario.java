@@ -36,6 +36,15 @@ public class Usuario implements Serializable{
             System.out.println("No se puede convertir a Date");
         }
     }
+     
+     public void mostrarTodo() {
+         SimpleDateFormat formatoFecha = new SimpleDateFormat("dd/MM/yyyy");
+         System.out.println("NombreUsuario: " + nombreUsuario +
+                 "\nContraseña: " + contraseña + 
+                 "\nNombre: " + nombres + " " + apellidos + 
+                 "\nFecha de Nacimiento: " + formatoFecha.format(fechaNacimiento)
+         );
+     }
     
 
     // Métodos

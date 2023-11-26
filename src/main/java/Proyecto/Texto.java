@@ -31,10 +31,6 @@ public class Texto {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public String getContenido() {
         return contenido;
     }
@@ -42,17 +38,42 @@ public class Texto {
     public void setContenido(String contenido) {
         this.contenido = contenido;
     }
-
-    public List<Pregunta> getPreguntas() {
-        return preguntas;
-    }
-
-    public void setPreguntas(ArrayList<Pregunta> preguntas) {
-        this.preguntas = preguntas;
-    }
     
     public boolean contienePalabraClave(String pClave) {
         ArrayList<String> composicion;
         return false;
     }
+    
+    public int getCantidadPreguntas() {
+        return preguntas.size();
+    }
+    
+    public int getCorrectamenteRespondido() {
+        int aux = 0;
+        for(Pregunta pregunta : preguntas) {
+            if(pregunta.isRespondidoCorrectamente()) {
+                aux++;
+            }
+        }
+        return aux;
+    }
+    
+    public boolean falloTodo() {
+        for(Pregunta pregunta : preguntas) {
+            if (pregunta.isRespondidoCorrectamente()) {
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    public boolean acertoTodo() {
+        for(Pregunta pregunta : preguntas) {
+            if (!pregunta.isRespondidoCorrectamente()) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
+

@@ -6,28 +6,53 @@ package Controlador;
 
 import java.io.*;
 import Proyecto.Usuario;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
  * @author esp15
  */
 public class AccesoUsuarios {
+    private String direccion = "src/main/java/Data/Usuarios/Users.ser";
     //"C:\Users\esp15\OneDrive\Documentos\NetBeansProjects\proyecto_Algoritmica\src\main\java\Data\Usuarios\Users.txt"
     public void leer() {
         FileInputStream fis = null;
-        Usuario user0;
+        //Object auxUser;
         try {
-            fis = new FileInputStream("src/main/java/Data/Usuarios/Users.txt");
+            fis = new FileInputStream(direccion);
             ObjectInputStream ois = new ObjectInputStream(fis);
-            user0 = (Usuario)ois.readObject();
-            System.out.println(user0.getNombreUsuario());
+            //user0 = (Usuario)ois.readObject();
+            List<Usuario> auxList = null;
+            Usuario auxUser = null;
+            try {
+                /**while (true) {
+                    auxUser = (Usuario)ois.readObject();
+                    //System.out.println( "UserName "+auxUser.getNombreUsuario()+"\nPassword: " + auxUser.getContraseña());
+                    auxUser.mostrarTodo();
+                }**/
+                auxList = new ArrayList<Usuario>();
+                auxUser = (Usuario)ois.readObject();
+                while (auxUser != null) {                    
+                    auxList.add(auxUser);
+                    System.out.println(auxList.size());
+                    auxUser = (Usuario)ois.readObject();
+                }
+            } catch (EOFException e) {
+                e.printStackTrace();
+                System.out.println("Final del archivo alcanzado");
+            } catch (IOException e) {
+                e.printStackTrace();
+                System.out.println("Error E/S del archivo");
+            }
             ois.close();
+            fis.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             System.out.println("Fichero no encontrado");
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Archivo no encontrado");
+            System.out.println("Error E/S");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
             System.out.println("Clase diferente");
@@ -35,7 +60,7 @@ public class AccesoUsuarios {
     }
     
     public boolean buscarUsuario(String nombreUsuario){
-        try {
+        /**try {
             FileReader fr = new FileReader("src/main/java/Data/Usuarios/Users.txt");
             BufferedReader br = new BufferedReader(fr);
             String linea;
@@ -50,6 +75,18 @@ public class AccesoUsuarios {
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Archivo no encontrado");
+        }
+        return false;**/
+        FileInputStream fis = null;
+        Usuario user;
+        try {
+            fis = new FileInputStream(direccion);
+            ObjectInputStream ois = new ObjectInputStream(fis);
+            
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
         return false;
     }
@@ -67,9 +104,10 @@ public class AccesoUsuarios {
         }**/
         FileOutputStream fos = null;
         try {
-            fos = new FileOutputStream("src/main/java/Data/Usuarios/Users.txt", true);
+            fos = new FileOutputStream(direccion, true);
             ObjectOutputStream oos = new ObjectOutputStream(fos);
             oos.writeObject(user);
+            System.out.println("Usuario Registrado");
         }catch (FileNotFoundException e){
             e.printStackTrace();
             System.out.println("Archivo no encontrado");

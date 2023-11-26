@@ -13,9 +13,9 @@ import Proyecto.Usuario;
 public class Prueba {
     public static void main(String[] args) throws ClassNotFoundException {
         AccesoUsuarios acces = new AccesoUsuarios();
-        Usuario user1 = new Usuario("Chuckiyauri1520", "wasa163512", 
-                "Wasaberto", "Osorio Wuisper", "25/11/1992");
-        acces.registrarUsuario(user1);
-        //acces.leer();
+        Usuario user1 = new Usuario("Ayudin1590", "casino2134", 
+                "juan", "Flurencio Sarmento", "15/07/2000");
+        //acces.registrarUsuario(user1);
+        acces.leer();
     }
 }
