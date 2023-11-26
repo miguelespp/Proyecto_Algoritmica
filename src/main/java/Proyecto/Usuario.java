@@ -8,11 +8,12 @@ package Proyecto;
  *
  * @author Anthony
  */
+import java.io.Serializable;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Usuario {
+public class Usuario implements Serializable{
   
     private String nombreUsuario;
     private String contraseña;
@@ -32,6 +33,7 @@ public class Usuario {
             this.fechaNacimiento = formatoFecha.parse(fechaNacimientoString);
         } catch (ParseException e) {
             e.printStackTrace();
+            System.out.println("No se puede convertir a Date");
         }
     }
     
