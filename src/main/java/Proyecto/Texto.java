@@ -15,11 +15,13 @@ public class Texto {
     private int id;
     private String contenido;
     private ArrayList<Pregunta> preguntas;
+    private boolean resuelto;
 
     public Texto(int id, String contenido) {
         this.id = id;
         this.contenido = contenido;
         this.preguntas = new ArrayList<>();
+        resuelto = false;
     }
 
     public void agregarPregunta(Pregunta pregunta) {

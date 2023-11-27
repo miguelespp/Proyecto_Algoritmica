@@ -15,21 +15,15 @@ public class Grupo {
     private String codigoGrupo;
     private String nombreGrupo;
     private List<Estudiante> estudiantes;
-    private List<Texto> textos;
 
     public Grupo(String codigoGrupo, String nombreGrupo) {
         this.codigoGrupo = codigoGrupo;
         this.nombreGrupo = nombreGrupo;
         this.estudiantes = new ArrayList<>();
-        this.textos = new ArrayList<>();
     }
 
     public void agregarEstudiante(Estudiante estudiante) {
         estudiantes.add(estudiante);
-    }
-
-    public void agregarTexto(Texto texto) {
-        textos.add(texto);
     }
     
     public String getCodigoGrupo() {
@@ -55,12 +49,24 @@ public class Grupo {
     public void setEstudiantes(List<Estudiante> estudiantes) {
         this.estudiantes = estudiantes;
     }
-
-    public List<Texto> getTextos() {
-        return textos;
+    
+    public int getCantidadTextosResueltos() {
+        int aux = 0;
+        for(Estudiante estudiante : estudiantes) {
+            aux += estudiante.getCantidadTextosLeidos();
+        }
+        if(aux ==0) {
+            return 0;
+        }else{
+            return aux;
+        }
     }
-
-    public void setTextos(List<Texto> textos) {
-        this.textos = textos;
+    
+    public Double getPorcPreguntasCorrectPorTexto() {
+        double aux = 0;
+        for(Estudiante estudiante : estudiantes){
+            aux += estudiante.getPorcPregCorrRespondidas();
+        }
+        return aux/estudiantes.size();
     }
 }
