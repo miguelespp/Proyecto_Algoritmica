@@ -26,18 +26,18 @@ public class AccesoUsuarios {
             List<Usuario> auxList = null;
             Usuario auxUser = null;
             try {
-                /**while (true) {
+                while (true) {
                     auxUser = (Usuario)ois.readObject();
                     //System.out.println( "UserName "+auxUser.getNombreUsuario()+"\nPassword: " + auxUser.getContraseña());
                     auxUser.mostrarTodo();
-                }**/
-                auxList = new ArrayList<Usuario>();
+                }
+                /**auxList = new ArrayList<Usuario>();
                 auxUser = (Usuario)ois.readObject();
                 while (auxUser != null) {                    
                     auxList.add(auxUser);
                     System.out.println(auxList.size());
                     auxUser = (Usuario)ois.readObject();
-                }
+                }**/
             } catch (EOFException e) {
                 e.printStackTrace();
                 System.out.println("Final del archivo alcanzado");
@@ -59,7 +59,7 @@ public class AccesoUsuarios {
         }
     }
     
-    public boolean buscarUsuario(String nombreUsuario){
+    public boolean buscarUsuario(String nombreUsuario, String contraseña) {
         /**try {
             FileReader fr = new FileReader("src/main/java/Data/Usuarios/Users.txt");
             BufferedReader br = new BufferedReader(fr);
