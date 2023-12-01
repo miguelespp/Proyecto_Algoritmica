@@ -9,5 +9,9 @@ package Prueba;
  * @author PC
  */
 public class Prueba3 {
-    
+    public static String obtenerFiltro() {
+        // Aquí debes implementar la lógica para obtener los datos 
+        String texto = "Este es un texto de prueba sin valor real, Este es un texto de prueba sin valor real 2, Este es un texto de prueba sin valor real 3";
+        return texto;
+    }
 }

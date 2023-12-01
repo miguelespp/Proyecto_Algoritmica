@@ -11,6 +11,7 @@ package interfaz;
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
+import Proyecto.Pregunta;
 
 public class ExamenGUI {
     private  String textoGeneral;

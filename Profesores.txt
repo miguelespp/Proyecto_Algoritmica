@@ -1,6 +1,6 @@
-Nombre de usuario: carlinhos
-Contraseña: wasa
-Nombres: frank
-Apellidos: suarez vertiz
-Fecha de nacimiento: Wed May 15 00:00:00 PET 1996
-Carrera Profesional: Ingeniero de Chistemas
+Nombre de usuario: carlos
+Contraseña: juan
+Nombres: gilbert
+Apellidos: espinoza
+Fecha de nacimiento: Sat Apr 15 00:00:00 PET 2000
+Carrera Profesional: Ingeniero

@@ -5,7 +5,11 @@
 package interfaz;
 
 import java.awt.Container;
-
+import static interfaz.NuevoEjercicio1.crearTexto;
+import javax.swing.JOptionPane;
+import Proyecto.Pregunta;
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
 /**
  *
  * @author PC
@@ -35,12 +39,12 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
         jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
+        preguntaText = new javax.swing.JTextField();
         jScrollPane1 = new javax.swing.JScrollPane();
-        jTextArea1 = new javax.swing.JTextArea();
-        jTextField2 = new javax.swing.JTextField();
+        alternativaText = new javax.swing.JTextArea();
+        respuestaText = new javax.swing.JTextField();
         jScrollPane2 = new javax.swing.JScrollPane();
-        jTextArea2 = new javax.swing.JTextArea();
+        razonamientoText = new javax.swing.JTextArea();
         jLabel1 = new javax.swing.JLabel();
         botonRegresar = new javax.swing.JButton();
         botonAgregar = new javax.swing.JButton();
@@ -64,13 +68,13 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
         jLabel5.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         jLabel5.setText("Razonamiento");
 
-        jTextArea1.setColumns(20);
-        jTextArea1.setRows(5);
-        jScrollPane1.setViewportView(jTextArea1);
+        alternativaText.setColumns(20);
+        alternativaText.setRows(5);
+        jScrollPane1.setViewportView(alternativaText);
 
-        jTextArea2.setColumns(20);
-        jTextArea2.setRows(5);
-        jScrollPane2.setViewportView(jTextArea2);
+        razonamientoText.setColumns(20);
+        razonamientoText.setRows(5);
+        jScrollPane2.setViewportView(razonamientoText);
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -85,7 +89,7 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
                             .addComponent(jLabel3))
                         .addGap(74, 74, 74)
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jTextField1)
+                            .addComponent(preguntaText)
                             .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 374, Short.MAX_VALUE)))
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -93,7 +97,7 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
                             .addComponent(jLabel5))
                         .addGap(18, 18, 18)
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jTextField2)
+                            .addComponent(respuestaText)
                             .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 373, Short.MAX_VALUE))))
                 .addContainerGap(113, Short.MAX_VALUE))
         );
@@ -103,7 +107,7 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
                 .addGap(18, 18, 18)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
-                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(preguntaText, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
@@ -114,7 +118,7 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
                 .addGap(18, 18, 18)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel4)
-                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(respuestaText, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, 18)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel5)
@@ -140,6 +144,11 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
         });
 
         botonFinalizar.setText("Finalizar");
+        botonFinalizar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonFinalizarActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -204,11 +213,30 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
     }//GEN-LAST:event_botonRegresarActionPerformed
 
     private void botonAgregarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonAgregarActionPerformed
-        // TODO add your handling code here:
+        if(preguntaText.getText() == "" || alternativaText.getText() == "" || respuestaText.getText() == "" ||
+                razonamientoText.getText() == "") {
+            JOptionPane.showMessageDialog(preguntaText, "Llene los campos vacios");
+        }else{
+            Pregunta nuevaPregunta = new Pregunta(preguntaText.getText(), alternativaText.getText().split("\n"), respuestaText.getText(), razonamientoText.getText());
+            crearTexto.agregarPregunta(nuevaPregunta);
+            preguntaText.setText("");
+            alternativaText.setText("");
+            respuestaText.setText("");
+            razonamientoText.setText("");
+        }
     }//GEN-LAST:event_botonAgregarActionPerformed
+
+    private void botonFinalizarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonFinalizarActionPerformed
+        crearTexto.guardarEnArchivo();
+        JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);
+        frame.dispose();
+        Principal_Profesor newframe = new Principal_Profesor();
+        newframe.setVisible(true);
+    }//GEN-LAST:event_botonFinalizarActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JTextArea alternativaText;
     private javax.swing.JButton botonAgregar;
     private javax.swing.JButton botonFinalizar;
     private javax.swing.JButton botonRegresar;
@@ -221,10 +249,9 @@ public class NuevoEjercicio2 extends javax.swing.JPanel {
     private javax.swing.JPanel jPanel2;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JTextArea jTextArea1;
-    private javax.swing.JTextArea jTextArea2;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextField jTextField2;
     private javax.swing.JTextField jTextField3;
+    private javax.swing.JTextField preguntaText;
+    private javax.swing.JTextArea razonamientoText;
+    private javax.swing.JTextField respuestaText;
     // End of variables declaration//GEN-END:variables
 }

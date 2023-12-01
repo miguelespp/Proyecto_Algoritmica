@@ -4,6 +4,10 @@
  */
 package Proyecto;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,8 +21,7 @@ public class Texto {
     private ArrayList<Pregunta> preguntas;
     private boolean resuelto;
 
-    public Texto(int id, String contenido) {
-        this.id = id;
+    public Texto( String contenido) {
         this.contenido = contenido;
         this.preguntas = new ArrayList<>();
         resuelto = false;
@@ -90,5 +93,62 @@ public class Texto {
         }
         return true;
     }
+    
+    public void guardarEnArchivo() {
+        String directorioActual = "Data/Texts/Hoy/";
+        File carpeta = new File(directorioActual);
+            File[] archivos = carpeta.listFiles();
+            if (!carpeta.exists()) {
+                if (carpeta.mkdirs()) {
+                    System.out.println("Directorio creado con éxito.");
+                } else {
+                    System.out.println("Error al crear el directorio.");
+                    return;
+                }
+            }
+            int cantidadArchivos = archivos != null ? archivos.length : 0;
+            this.id = cantidadArchivos + 1;
+            String nombreArchivo = id +".txt";
+            System.out.println(nombreArchivo);
+            File archivo = new File(carpeta,nombreArchivo);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(archivo))) {
+            // Escribir ID y Contenido
+            writer.write("ID: " + id);
+            writer.newLine();
+            writer.write("=====================TEXTO======================");
+            writer.newLine();
+            writer.write(contenido);
+            writer.newLine();
+
+
+            // Escribir preguntas
+            for (Pregunta pregunta : preguntas) {
+                writer.write("=====================PREGUNTAS======================");
+                writer.newLine();
+                writer.write(pregunta.getEnunciado());
+                writer.newLine();
+                writer.write("=====================ALTERNATIVAS======================");
+                writer.newLine();
+                for (int i = 0; i < 5; i++) {
+                    writer.write(pregunta.getAlternativas(i+1));
+                    writer.newLine();
+                }
+                writer.write("=====================RESPUESTA CORRECTA======================");
+                writer.newLine();
+                writer.write(pregunta.getRespuestaCorrecta());
+                writer.newLine();
+                writer.write("=====================RAZONAMIENTO======================");
+                writer.newLine();
+                writer.write(pregunta.getRazonamiento());
+                writer.newLine();
+            }
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
+
+  
+
 

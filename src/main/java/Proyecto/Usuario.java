@@ -10,6 +10,7 @@ package Proyecto;
  */
 import Data.Usuarios.ManejadorArchivosUsuarios;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Serializable;
@@ -63,6 +64,8 @@ public class Usuario implements Serializable{
     // Supongamos que ya tienes un objeto 'profesor' creado entonces se llama asi a la funcion : "profesor.guardarEnArchivo("Profesores");"
     
     // Método para buscar un usuario en el archivo y devolver su información
+
+
     public Usuario buscarUsuario(String tipoUsuario, String nombreUsuarioABuscar, String contraseña) {
         String nombreArchivo = tipoUsuario + ".txt";
 
@@ -100,7 +103,11 @@ public class Usuario implements Serializable{
         }
 
         return null; // Devolver null si no se encuentra el usuario
-    }
+    }               
+
+    
+
+
     
 
     // Métodos

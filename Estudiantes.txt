@@ -1,10 +1,5 @@
-Nombre de usuario: wasa
-Contraseña: sasadad
-Nombres: asadoooo
-Apellidos: fernandez
-Fecha de nacimiento: Thu Jun 15 00:00:00 PET 1995
-Nombre de usuario: Javier1511
-Contraseña: 123456
-Nombres: Javier
-Apellidos: Maylle Wasa
-Fecha de nacimiento: Sun Oct 15 00:00:00 PET 2000
+Nombre de usuario: juan
+Contraseña: wasa
+Nombres: migue
+Apellidos: espp
+Fecha de nacimiento: Tue Aug 15 00:00:00 PET 1989

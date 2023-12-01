@@ -4,6 +4,7 @@
  */
 package interfaz;
 
+import Proyecto.Texto;
 import java.awt.Container;
 import javax.swing.SwingUtilities;
 
@@ -12,7 +13,8 @@ import javax.swing.SwingUtilities;
  * @author PC
  */
 public class NuevoEjercicio1 extends javax.swing.JPanel {
-
+    
+    public static Texto crearTexto = null;
     /**
      * Creates new form NuevoEjercicio1
      */
@@ -119,6 +121,7 @@ public class NuevoEjercicio1 extends javax.swing.JPanel {
     }// </editor-fold>//GEN-END:initComponents
 
     private void botonSiguienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonSiguienteActionPerformed
+    crearTexto = new Texto(jTextArea1.getText());
     NuevoEjercicio2 p2 = new NuevoEjercicio2();
     p2.setSize(750, 450);
     p2.setLocation(0, 0);

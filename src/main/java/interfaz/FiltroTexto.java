@@ -4,12 +4,22 @@
  */
 package interfaz;
 
+import Prueba.Prueba3;
+import java.awt.Component;
 import java.awt.Container;
 import java.awt.event.ActionListener;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JTable;
+import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
+import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
+import javax.swing.table.TableCellRenderer;
 
 /**
  *
@@ -24,7 +34,6 @@ public class FiltroTexto extends javax.swing.JPanel {
 
         initComponents();
         //actualizarTablaDatos();
-        configurarTabla();        
     }
 
     /**
@@ -199,12 +208,58 @@ public class FiltroTexto extends javax.swing.JPanel {
      // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
 
 
-    private void configurarTabla() {
+    public void actualizarTablaDatos() {
+            String obtenerFiltro = Prueba3.obtenerFiltro();
+            DefaultTableModel model = (DefaultTableModel) tablaFiltro.getModel();
+            model.setRowCount(0);
+
+            Object[] rowData = {obtenerFiltro, "Ingresar"};
+            model.addRow(rowData);
+
+            // Ajusta automáticamente la altura de las filas según el contenido
+            ajustarAlturaFilas();
+        }
+
+
+    private void ajustarAlturaFilas() {
+        for (int row = 0; row < tablaFiltro.getRowCount(); row++) {
+            int rowHeight = tablaFiltro.getRowHeight();
+
+            Component comp = tablaFiltro.prepareRenderer(tablaFiltro.getCellRenderer(row, 0), row, 0);
+            rowHeight = Math.max(rowHeight, comp.getPreferredSize().height);
+
+            tablaFiltro.setRowHeight(row, rowHeight);
+        }
+    }
+
+
+private void configurarTabla() {
         tablaFiltro.setDefaultEditor(Object.class, null); // Hace que todas las celdas no sean editables
 
         // Desactiva la reorganización de columnas
         tablaFiltro.getTableHeader().setReorderingAllowed(false);
+
+        // Configura el renderizador de celdas para permitir saltos de línea
+        DefaultTableCellRenderer renderer = new DefaultTableCellRenderer() {
+            JTextArea textArea = new JTextArea();
+
+            @Override
+            public Component getTableCellRendererComponent(JTable table, Object value,
+                    boolean isSelected, boolean hasFocus, int row, int column) {
+                textArea.setText(String.valueOf(value));
+                textArea.setLineWrap(true);
+                textArea.setWrapStyleWord(true);
+                // Divide el texto en líneas si es muy largo
+                textArea.setSize(tablaFiltro.getColumnModel().getColumn(column).getWidth(), Short.MAX_VALUE);
+                return textArea;
+            }
+        };
+
+        tablaFiltro.getColumnModel().getColumn(0).setCellRenderer(renderer);
+        ajustarAlturaFilas();
+
     }
+    
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField2ActionPerformed
@@ -268,4 +323,19 @@ public class FiltroTexto extends javax.swing.JPanel {
     private javax.swing.JTextField jTextField2;
     private javax.swing.JTable tablaFiltro;
     // End of variables declaration//GEN-END:variables
+}
+
+
+class TextAreaRenderer extends JTextArea implements TableCellRenderer {
+
+    public TextAreaRenderer() {
+        setLineWrap(true);
+        setWrapStyleWord(true);
+    }
+
+    @Override
+    public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
+        setText(value != null ? value.toString() : "");
+        return this;
+    }
 }

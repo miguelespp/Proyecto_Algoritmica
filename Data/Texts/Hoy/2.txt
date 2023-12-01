@@ -1,0 +1,15 @@
+ID: 2
+=====================TEXTO======================
+nadknsdkandkasndklankdnasklda
+=====================PREGUNTAS======================
+akdaskdkasmdkasmd
+=====================ALTERNATIVAS======================
+sndkaskdnaksdn
+sandjnaskdnas
+sandkansdknaskd
+sndknksadnaa
+skndakndaksd
+=====================RESPUESTA CORRECTA======================
+sandkansdknaskd
+=====================RAZONAMIENTO======================
+asi es

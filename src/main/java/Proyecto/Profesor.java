@@ -27,12 +27,11 @@ public class Profesor extends Usuario {
         super.mostrarTodo();
         System.out.println("Carrera Profesional: " + carreraProfesional);
     }
-    @Override
-    public void guardarEnArchivo(String tipoUsuario) {
-        String nombreArchivo = tipoUsuario + ".txt";
+    public void guardarEnArchivo() {
+        String nombreArchivo = "Profesores.txt";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(nombreArchivo, true))) {
-            super.guardarEnArchivo(tipoUsuario);
+            super.guardarEnArchivo("Profesor");
             writer.write("Carrera Profesional: " + carreraProfesional);
             writer.newLine();
 

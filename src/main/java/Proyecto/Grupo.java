@@ -4,6 +4,9 @@
  */
 package Proyecto;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -77,5 +80,60 @@ public class Grupo {
         return getPorcPreguntasCorrectPorAlumno()/estudiantes.size();
     }
     
+    public void crearDirectorio() {
+        String directorioBase = "Data/Groups/";
+        File carpeta = new File(directorioBase);
+        if (!carpeta.exists()) {
+            if (carpeta.mkdirs()) {
+                System.out.println("Directorio creado con éxito.");
+            } else {
+                System.out.println("Error al crear el directorio.");
+                return;
+            }
+        }
+        String rutadirectorioGrupo = directorioBase + File.separator + codigoGrupo;
+        File directorioGrupo = new File(rutadirectorioGrupo);
+        if (!directorioGrupo.exists()) {
+            if (directorioGrupo.mkdirs()) {
+                System.out.println("Directorio del grupo creado con éxito: " + rutadirectorioGrupo);
+            } else {
+                System.out.println("Error al crear el directorio del grupo.");
+                return;
+            }
+        }
+    }
     
+    /**public void guardarInformacionGrupo() {
+         String directorioBase = "Data/Groups/";
+         String ruta = directorioBase +  "";
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(ruta))) {
+            // Escribir información del grupo
+            writer.write("Código del Grupo: " + codigoGrupo);
+            writer.newLine();
+            writer.write("Nombre del Grupo: " + nombreGrupo);
+            writer.newLine();
+
+            // Escribir información de cada estudiante
+            for (Estudiante estudiante : estudiantes) {
+                writer.write("Estudiante:");
+                writer.newLine();
+                writer.write("Nombre: " + estudiante.getNombre());
+                writer.newLine();
+                writer.write("Apellido: " + estudiante.getApellido());
+                writer.newLine();
+                // Puedes agregar más información sobre el estudiante si es necesario
+                writer.newLine();
+            }
+
+            System.out.println("Información del grupo almacenada en: " + nombreArchivo);
+        } catch (IOException e) {
+            System.out.println("Error al guardar la información: " + e.getMessage());
+        }
+    }**/
+     
+
+    // Otras operaciones y métodos de la clase...
 }
+
+    
+

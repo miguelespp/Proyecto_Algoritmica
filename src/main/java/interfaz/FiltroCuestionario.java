@@ -20,6 +20,7 @@ import javax.swing.JRadioButton;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.SwingConstants;
+import Proyecto.Pregunta;
 
 /**
  *
@@ -228,7 +229,7 @@ public class FiltroCuestionario extends javax.swing.JPanel {
             preguntaPanel.setBackground(Color.white);
             preguntaPanel.setLayout(new BoxLayout(preguntaPanel, BoxLayout.Y_AXIS));
 
-            JLabel preguntaLabel = new JLabel(pregunta.getText());
+            JLabel preguntaLabel = new JLabel(pregunta.getEnunciado());
             preguntaPanel.add(preguntaLabel);
 
             ButtonGroup buttonGroup = new ButtonGroup();
@@ -277,7 +278,7 @@ public class FiltroCuestionario extends javax.swing.JPanel {
             respuestaPanel.setBackground(Color.white);
             respuestaPanel.setLayout(new BoxLayout(respuestaPanel, BoxLayout.Y_AXIS));
 
-            JLabel preguntaLabel = new JLabel(pregunta.getText());
+            JLabel preguntaLabel = new JLabel(pregunta.getEnunciado());
             respuestaPanel.add(preguntaLabel);
 
             ButtonGroup buttonGroup = new ButtonGroup();

@@ -4,6 +4,10 @@
  */
 package Proyecto;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,11 +20,27 @@ public class Estudiante extends Usuario{
     private List<Texto> textosLeidos;
     private Estadisticas estats;
     
+    
+    public Estudiante(String nombreUsuario, String contraseña, String nombres, 
+            String apellidos, String fechaNacimientoString) {
+        super(nombreUsuario, contraseña, nombres, apellidos, fechaNacimientoString);
+        this.grupo = null;
+        this.textosLeidos = new ArrayList<Texto>();
+    }
+    
     public Estudiante(String nombreUsuario, String contraseña, String nombres, 
             String apellidos, String fechaNacimientoString, Grupo grupo) {
         super(nombreUsuario, contraseña, nombres, apellidos, fechaNacimientoString);
         this.grupo = grupo;
         this.textosLeidos = new ArrayList<Texto>();
+    }
+    
+    public void setGrupo(Grupo grupo) {
+        this.grupo = grupo;
+    }
+    
+    public Grupo getGrupo() {
+        return grupo;
     }
     
     public void añadirTexto(Texto texto) {
@@ -83,5 +103,58 @@ public class Estudiante extends Usuario{
         }else{
             return (double)temp/getCantidadTextosLeidos();
         }
+    }
+    
+    public Usuario buscarUsuario( String nombreUsuarioABuscar, String contraseña) {
+        String directorioBase = "Data/Groups/";
+        File aux = new File(directorioBase);
+        File[] aux2 = aux.listFiles();
+        // String nombreArchivo =  "Estudiantes.txt";
+        if(!aux.exists()){
+            if (aux.mkdirs()) {
+                
+            }else{
+                return null;
+            }
+        }
+        
+        for(File carpeta : aux2) {
+            try (BufferedReader reader = new BufferedReader(new FileReader(carpeta))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                // Buscar la línea que contiene el nombre de usuario
+                if (line.equals("Nombre de usuario: "+nombreUsuarioABuscar)) {
+                    // Encontrado, leer las líneas siguientes para obtener la información completa
+                    String lineaSiguiente;
+                    if ((lineaSiguiente = reader.readLine()) != null) {
+                        if (lineaSiguiente.equals("Contraseña: "+contraseña)) {
+                            String nombres = reader.readLine().substring("Nombres: ".length());
+                            String apellidos = reader.readLine().substring("Apellidos: ".length());
+                            String fechaNacimientoStr = reader.readLine().substring("Fecha de nacimiento: ".length());
+                            Usuario temp =  new Usuario(nombreUsuarioABuscar, contraseña, nombres, apellidos, fechaNacimientoStr);
+                            return temp;
+                        }
+                    }
+                    
+
+                    // Convertir la cadena de fecha de nacimiento a un objeto Date (puedes utilizar un SimpleDateFormat)
+                    // Aquí se asume que la fecha está en el formato correcto
+                    // Date fechaNacimiento = parseFechaNacimiento(fechaNacimientoStr);
+
+                    // Crear y devolver un nuevo objeto Usuario con la información encontrada
+                    
+                }
+            }
+
+            // Si no se encuentra el usuario
+            System.out.println("Usuario no encontrado: " + nombreUsuarioABuscar);
+        } catch (IOException e) {
+            System.err.println("Error al buscar el usuario en el archivo: " + e.getMessage());
+        }
+        }
+
+        
+
+        return null; // Devolver null si no se encuentra el usuario
     }
 }
