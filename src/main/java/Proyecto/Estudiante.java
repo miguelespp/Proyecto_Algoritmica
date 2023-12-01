@@ -31,16 +31,8 @@ public class Estudiante extends Usuario{
         return textosLeidos.size();
     }
     
-    //Obtener la cantidad de todas las preguntas
-    /**private int getTotalPreguntas() {
-        int temp = 0;
-        for(Texto texto : textosLeidos) {
-            temp += texto.getCantidadPreguntas();
-        }
-        return temp;
-    }**/
-    
-    public double getPorcPregCorrRespondidas() {
+    // Porcentaje de preguntas correctamente respondidas en total
+    public double getPorcPregCorrResp() {
         int correctos = 0;
         int total = 0;
         for(Texto texto : textosLeidos) {
@@ -54,16 +46,16 @@ public class Estudiante extends Usuario{
         }
     }
     
-    public ArrayList<Double> getPorcPregCorrRespondidasPorTexto() {
-        ArrayList<Double> porcentajes = new ArrayList<>();
+    // Porcentaje promedio de preguntas correctamente respondidas por texto
+    public double getPorcPromPregCorrRespPorTexto() {
+        double aux = 0;
         for(Texto texto : textosLeidos) {
-            var correctos = (double)texto.getCorrectamenteRespondido();
-            var total = (double)texto.getCantidadPreguntas();
-            porcentajes.add(correctos/total);
+            aux += ((double)texto.getCorrectamenteRespondido()/ texto.getCantidadPreguntas());
         }
-        return porcentajes;
+        return aux/textosLeidos.size();
     }
     
+    // Porcentaje de textos en los que el estudiante acertó todas las preguntas
     public double getPorcAcertoTodo() {
         int temp = 0;
         for(Texto texto : textosLeidos) {
@@ -78,6 +70,7 @@ public class Estudiante extends Usuario{
         }
     }
     
+    // Porcentaje de textos en los que el estudiante falló todas las preguntas
     public double getPorcFallarTodo() {
         int temp = 0;
         for(Texto texto : textosLeidos) {
@@ -86,7 +79,7 @@ public class Estudiante extends Usuario{
             }
         }
         if (getCantidadTextosLeidos() == 0) {
-            return 0;
+            throw new ArithmeticException("No se puede dividir entre 0");
         }else{
             return (double)temp/getCantidadTextosLeidos();
         }

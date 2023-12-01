@@ -4,7 +4,10 @@
  */
 package interfaz;
 
+import Data.Usuarios.ManejadorArchivosUsuarios;
+import Proyecto.Profesor;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
 /**
@@ -43,7 +46,7 @@ public class Registrar_Profesor extends javax.swing.JPanel {
         jButton1 = new javax.swing.JButton();
         botonContinuar = new javax.swing.JButton();
         jLabel6 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
+        CarreraProfesional = new javax.swing.JTextField();
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -104,7 +107,7 @@ public class Registrar_Profesor extends javax.swing.JPanel {
                             .addComponent(textoApellidos)
                             .addComponent(textoFecha, javax.swing.GroupLayout.DEFAULT_SIZE, 280, Short.MAX_VALUE)
                             .addComponent(textoContrasena)
-                            .addComponent(jTextField1))))
+                            .addComponent(CarreraProfesional))))
                 .addContainerGap(94, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
@@ -133,7 +136,7 @@ public class Registrar_Profesor extends javax.swing.JPanel {
                 .addGap(5, 5, 5)
                 .addComponent(jLabel6)
                 .addGap(5, 5, 5)
-                .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(CarreraProfesional, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 54, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jButton1)
@@ -162,17 +165,31 @@ public class Registrar_Profesor extends javax.swing.JPanel {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void botonContinuarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonContinuarActionPerformed
-        JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);
-        frame.dispose();
-        Principal_Profesor newframe = new Principal_Profesor();
-        newframe.setVisible(true);
+        if(textoUsuario.getText() == "" || textoContrasena.getPassword().length == 0 
+                || textoNombres.getText() == "" || textoApellidos.getText() == "" 
+                || textoFecha.getText() == "" || CarreraProfesional.getText() == "") {
+            JOptionPane.showMessageDialog(botonContinuar, "Faltan datos para registrarse");
+        }else{
+            String nombreUsuario = textoUsuario.getText();
+            String contraseña = new String(textoContrasena.getPassword());
+            String nombres = textoNombres.getText();
+            String apellidos = textoApellidos.getText();
+            String fechaNacimiento = textoFecha.getText();
+            String carreraProfesional = CarreraProfesional.getText();
 
+            Profesor nuevoProfesor = new Profesor(nombreUsuario, contraseña, nombres, apellidos, fechaNacimiento, carreraProfesional);
+            ManejadorArchivosUsuarios.guardarUsuario(nuevoProfesor, "Profesores");
 
-        
+            JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);
+            frame.dispose();
+            Principal_Profesor newframe = new Principal_Profesor();
+            newframe.setVisible(true);
+        }
     }//GEN-LAST:event_botonContinuarActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JTextField CarreraProfesional;
     private javax.swing.JButton botonContinuar;
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
@@ -182,7 +199,6 @@ public class Registrar_Profesor extends javax.swing.JPanel {
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JPanel jPanel1;
-    private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField textoApellidos;
     private javax.swing.JPasswordField textoContrasena;
     private javax.swing.JTextField textoFecha;

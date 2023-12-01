@@ -60,6 +60,10 @@ public class Texto {
         return aux;
     }
     
+    public Double getPorcPregCorrectR(){
+        return ((double)getCorrectamenteRespondido())/getCantidadPreguntas();
+    }
+    
     public boolean falloTodo() {
         for(Pregunta pregunta : preguntas) {
             if (pregunta.isRespondidoCorrectamente()) {
@@ -72,6 +76,15 @@ public class Texto {
     public boolean acertoTodo() {
         for(Pregunta pregunta : preguntas) {
             if (!pregunta.isRespondidoCorrectamente()) {
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    public boolean isNingunaRespondida() {
+        for(Pregunta preguntita:preguntas) {
+            if (preguntita.isRespondida()) {
                 return false;
             }
         }

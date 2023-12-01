@@ -15,6 +15,7 @@ public class Principal_Profesor extends javax.swing.JFrame {
      */
     public Principal_Profesor() {
         initComponents();
+        this.setLocationRelativeTo(null);
         crear_Grupo c1 = new crear_Grupo();
         c1.setSize(750, 450);
         c1.setLocation(0, 0);
@@ -39,6 +40,7 @@ public class Principal_Profesor extends javax.swing.JFrame {
         botonEjercicio = new javax.swing.JButton();
         botonMisGrupos = new javax.swing.JButton();
         contenidoPanel = new javax.swing.JPanel();
+        botonCerrar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -100,22 +102,35 @@ public class Principal_Profesor extends javax.swing.JFrame {
             .addGap(0, 450, Short.MAX_VALUE)
         );
 
+        botonCerrar.setBackground(new java.awt.Color(255, 51, 51));
+        botonCerrar.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        botonCerrar.setForeground(new java.awt.Color(255, 255, 255));
+        botonCerrar.setText("Cerrar Sesión");
+        botonCerrar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonCerrarActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 468, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(botonCerrar, javax.swing.GroupLayout.PREFERRED_SIZE, 120, javax.swing.GroupLayout.PREFERRED_SIZE))
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(34, 34, 34)
                 .addComponent(contenidoPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(38, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(botonCerrar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGap(29, 29, 29)
                 .addComponent(contenidoPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(0, 21, Short.MAX_VALUE))
@@ -134,7 +149,15 @@ public class Principal_Profesor extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+    public void cambiarPanelEstadisticas() {
+        ProfesorGruposEstadisticas F3 = new ProfesorGruposEstadisticas();
+        F3.setSize(750, 450);
+        F3.setLocation(0, 0);
+        contenidoPanel.removeAll();
+        contenidoPanel.add(F3);
+        contenidoPanel.revalidate();
+        contenidoPanel.repaint();
+    }
     private void botonEjercicioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonEjercicioActionPerformed
         NuevoEjercicio1 p1 = new NuevoEjercicio1();
         p1.setSize(750, 450);
@@ -168,6 +191,14 @@ public class Principal_Profesor extends javax.swing.JFrame {
         contenidoPanel.repaint();
 
     }//GEN-LAST:event_botonMisGruposActionPerformed
+
+    private void botonCerrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonCerrarActionPerformed
+        Bienvenido newframe = new Bienvenido();
+        newframe.setVisible(true);
+        this.dispose();
+        
+
+    }//GEN-LAST:event_botonCerrarActionPerformed
 
     /**
      * @param args the command line arguments
@@ -205,6 +236,7 @@ public class Principal_Profesor extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton botonCerrar;
     private javax.swing.JButton botonEjercicio;
     private javax.swing.JButton botonGrupo;
     private javax.swing.JButton botonMisGrupos;

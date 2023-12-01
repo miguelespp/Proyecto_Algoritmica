@@ -4,6 +4,10 @@
  */
 package interfaz;
 
+import Prueba.Prueba1;  //Esto solo se puso para probar la tabla
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
@@ -18,9 +22,9 @@ public class selecciona_Grupo extends javax.swing.JFrame {
      */
     public selecciona_Grupo() {
         initComponents();
-        //this.setLocationRelativeTo(null);
-        //actualizarTablaDatos();
-        //configurarTabla();
+        this.setLocationRelativeTo(null);
+        actualizarTablaDatos();
+        configurarTabla();
     }
 
     /**
@@ -38,6 +42,7 @@ public class selecciona_Grupo extends javax.swing.JFrame {
         jPanel3 = new javax.swing.JPanel();
         jScrollPane1 = new javax.swing.JScrollPane();
         tablaGrupos = new javax.swing.JTable();
+        botonCerrar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -74,7 +79,15 @@ public class selecciona_Grupo extends javax.swing.JFrame {
             new String [] {
                 "Codigo de grupo", "Nombre de grupo", "Profesor", "# de alumno", ""
             }
-        ));
+        ) {
+            Class[] types = new Class [] {
+                java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.Integer.class, java.lang.Object.class
+            };
+
+            public Class getColumnClass(int columnIndex) {
+                return types [columnIndex];
+            }
+        });
         tablaGrupos.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 tablaGruposMouseClicked(evt);
@@ -99,6 +112,16 @@ public class selecciona_Grupo extends javax.swing.JFrame {
                 .addGap(41, 41, 41))
         );
 
+        botonCerrar.setBackground(new java.awt.Color(255, 51, 51));
+        botonCerrar.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        botonCerrar.setForeground(new java.awt.Color(255, 255, 255));
+        botonCerrar.setText("Cerrar sesión");
+        botonCerrar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonCerrarActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -112,11 +135,15 @@ public class selecciona_Grupo extends javax.swing.JFrame {
                         .addGap(196, 196, 196)
                         .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap(79, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(botonCerrar, javax.swing.GroupLayout.PREFERRED_SIZE, 133, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(42, 42, 42)
+                .addComponent(botonCerrar, javax.swing.GroupLayout.PREFERRED_SIZE, 36, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, 408, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -136,43 +163,54 @@ public class selecciona_Grupo extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-    /*public void actualizarTablaDatos() {
-        String[][] datosDeGrupos = obtenerDatosDegruposEnBaseNombre();
+    public void actualizarTablaDatos() {
+        String[][] datosDeGrupos = Prueba1.obtenerDatosDeGruposEnBaseNombre();
         DefaultTableModel model = (DefaultTableModel) tablaGrupos.getModel();
         model.setRowCount(0);
 
-        for (String[] datosProyecto : datosProyectos) {
-            Object[] rowData = {datosProyecto[0], datosProyecto[1], datosProyecto[2], "Eliminar", "Mod/Agr"};
+        for (String[] datosGrupo : datosDeGrupos) {
+            Object[] rowData = {datosGrupo[0], datosGrupo[1], datosGrupo[2], datosGrupo[3], "Ingresar"};
             model.addRow(rowData);
         }
-    }
-        
-     // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
 
+    }
 
     private void configurarTabla() {
         tablaGrupos.setDefaultEditor(Object.class, null); // Hace que todas las celdas no sean editables
 
         // Desactiva la reorganización de columnas
         tablaGrupos.getTableHeader().setReorderingAllowed(false);
-    }*/
+    }
     
     private void tablaGruposMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tablaGruposMouseClicked
-        /*int columnaBotonIngresar = 5; // La columna del botón "Modificar" en tu modelo de tabla
+        int columnaBotonIngresar = 4; // La columna del botón "Ingresar" en tu modelo de tabla
 
-        // Verificar si el clic se hizo en la columna del botón "Modificar"
         if (tablaGrupos.columnAtPoint(evt.getPoint()) == columnaBotonIngresar) {
             int fila = tablaGrupos.rowAtPoint(evt.getPoint());
             if (fila != -1) {
-                String nombreProyecto = (String) tablaGrupos.getValueAt(fila, 0);
-                Principal_Estudiante newframe = new Principal_Estudiante(datos del alumno);
+                String codigoGrupo = (String) tablaGrupos.getValueAt(fila, 0);
+                String nombreGrupo = (String) tablaGrupos.getValueAt(fila, 1);
+                String profesor = (String) tablaGrupos.getValueAt(fila, 2);
+                int numeroAlumno = Integer.parseInt((String) tablaGrupos.getValueAt(fila, 3));
+
+                // Crea una instancia de la ventana Principal_Estudiante y pásale los datos del grupo
+                Principal_Estudiante newframe = new Principal_Estudiante();
                 newframe.setVisible(true);
                 this.dispose();
             }
-        }*/
+        }
+
 
 
     }//GEN-LAST:event_tablaGruposMouseClicked
+
+    private void botonCerrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonCerrarActionPerformed
+        Bienvenido newframe = new Bienvenido();
+        newframe.setVisible(true);
+        this.dispose();
+        
+
+    }//GEN-LAST:event_botonCerrarActionPerformed
 
     /**
      * @param args the command line arguments
@@ -210,6 +248,7 @@ public class selecciona_Grupo extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton botonCerrar;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;

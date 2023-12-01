@@ -1,0 +1,6 @@
+Nombre de usuario: carlinhos
+Contraseña: wasa
+Nombres: frank
+Apellidos: suarez vertiz
+Fecha de nacimiento: Wed May 15 00:00:00 PET 1996
+Carrera Profesional: Ingeniero de Chistemas

@@ -4,17 +4,22 @@
  */
 package interfaz;
 
+import Proyecto.Usuario;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author PC
  */
 public class iniciar_Sesion extends javax.swing.JFrame {
-
+    private Usuario intentoSesion = new Usuario();
     /**
      * Creates new form iniciar_Sesion
      */
     public iniciar_Sesion() {
         initComponents();
+        this.setLocationRelativeTo(null);
+
     }
 
     /**
@@ -119,14 +124,21 @@ public class iniciar_Sesion extends javax.swing.JFrame {
         Bienvenido newframe = new Bienvenido();
         newframe.setVisible(true);
         this.dispose();
-        
-        
     }//GEN-LAST:event_botonRegresarActionPerformed
 
     private void botonContinuarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonContinuarActionPerformed
-        selecciona_Grupo newframe = new selecciona_Grupo();
-        newframe.setVisible(true);
-        this.dispose();
+        String pass = new String(textoContraseña.getPassword());
+        if (intentoSesion.buscarUsuario("Estudiantes",textoUsuario.getText(), pass ) == null ||
+                intentoSesion.buscarUsuario("Profesores",textoUsuario.getText(), pass ) == null) {
+            textoUsuario.setText("");
+            textoContraseña.setText("");
+            JOptionPane.showMessageDialog(rootPane, "Credenciales Invalidas");
+        }else{
+            Principal_Estudiante newframe = new Principal_Estudiante();
+            newframe.setVisible(true);
+            this.dispose();
+        }
+        
 
     }//GEN-LAST:event_botonContinuarActionPerformed
 

@@ -4,7 +4,9 @@
  */
 package interfaz;
 
+import Proyecto.Usuario;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
 /**
@@ -12,7 +14,16 @@ import javax.swing.SwingUtilities;
  * @author PC
  */
 public class Registrar_Estudiante extends javax.swing.JPanel {
+    
+    private Usuario obtenerInformacionUsuario() {
+    String nombreUsuario = textoUsuario.getText();
+    String contraseña = new String(textoContrasena.getPassword());
+    String nombres = textoNombres.getText();
+    String apellidos = textoApellidos.getText();
+    String fechaNacimiento = textoFecha.getText();
 
+    return new Usuario(nombreUsuario, contraseña, nombres, apellidos, fechaNacimiento);
+}
     /**
      * Creates new form Registrar_Estudiante
      */
@@ -153,11 +164,19 @@ public class Registrar_Estudiante extends javax.swing.JPanel {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void botonContinuarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonContinuarActionPerformed
-        JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);
-        frame.dispose();
-        Principal_Estudiante newframe = new Principal_Estudiante();
-        newframe.setVisible(true);
-
+        
+        if(textoUsuario.getText() == "" || textoContrasena.getPassword().length == 0 
+                || textoNombres.getText() == "" || textoApellidos.getText() == "" 
+                || textoFecha.getText() == "") {
+            JOptionPane.showMessageDialog(botonContinuar, "Faltan datos para registrarse");
+        }else{
+            Usuario nuevoEstudiante = obtenerInformacionUsuario();
+            nuevoEstudiante.guardarEnArchivo("Estudiantes");
+            JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);
+            frame.dispose();
+            Principal_Estudiante newframe = new Principal_Estudiante();
+            newframe.setVisible(true);
+        }
     }//GEN-LAST:event_botonContinuarActionPerformed
 
 

@@ -4,7 +4,11 @@
  */
 package interfaz;
 
+import java.awt.Container;
+import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
 
 /**
@@ -17,7 +21,10 @@ public class FiltroTexto extends javax.swing.JPanel {
      * Creates new form FiltroTexto
      */
     public FiltroTexto() {
+
         initComponents();
+        //actualizarTablaDatos();
+        configurarTabla();        
     }
 
     /**
@@ -38,6 +45,7 @@ public class FiltroTexto extends javax.swing.JPanel {
         jPanel3 = new javax.swing.JPanel();
         jScrollPane1 = new javax.swing.JScrollPane();
         tablaFiltro = new javax.swing.JTable();
+        botonExamen = new javax.swing.JButton();
 
         jTextField1.setText("jTextField1");
 
@@ -116,6 +124,13 @@ public class FiltroTexto extends javax.swing.JPanel {
                 .addContainerGap(25, Short.MAX_VALUE))
         );
 
+        botonExamen.setText("Prueba");
+        botonExamen.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonExamenActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -123,7 +138,10 @@ public class FiltroTexto extends javax.swing.JPanel {
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(38, 38, 38)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jLabel1)
+                    .addGroup(jPanel1Layout.createSequentialGroup()
+                        .addComponent(jLabel1)
+                        .addGap(18, 18, 18)
+                        .addComponent(botonExamen))
                     .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap(52, Short.MAX_VALUE))
@@ -132,12 +150,14 @@ public class FiltroTexto extends javax.swing.JPanel {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(29, 29, 29)
-                .addComponent(jLabel1)
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel1)
+                    .addComponent(botonExamen))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(35, 35, 35)
                 .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(53, Short.MAX_VALUE))
+                .addContainerGap(14, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
@@ -175,16 +195,16 @@ public class FiltroTexto extends javax.swing.JPanel {
             model.addRow(rowData);
         }
     }
-        
+        */
      // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
 
 
     private void configurarTabla() {
-        tablaDatos.setDefaultEditor(Object.class, null); // Hace que todas las celdas no sean editables
+        tablaFiltro.setDefaultEditor(Object.class, null); // Hace que todas las celdas no sean editables
 
         // Desactiva la reorganización de columnas
-        tablaDatos.getTableHeader().setReorderingAllowed(false);
-    }*/
+        tablaFiltro.getTableHeader().setReorderingAllowed(false);
+    }
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField2ActionPerformed
@@ -212,9 +232,33 @@ public class FiltroTexto extends javax.swing.JPanel {
 
     }//GEN-LAST:event_tablaFiltroMouseClicked
 
+    private void botonExamenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonExamenActionPerformed
+    System.out.println("Boton Examen Clicked");
+
+    // Traverse the hierarchy to find the instance of Principal_Estudiante
+    Container parent = getParent();
+    while (parent != null && !(parent instanceof Principal_Estudiante)) {
+        parent = parent.getParent();
+    }
+
+    if (parent instanceof Principal_Estudiante) {
+            Principal_Estudiante principalEstudiante = (Principal_Estudiante) parent;
+            principalEstudiante.cambiarPanelAFiltroCuestionario();
+        } /*else {
+            System.out.println("Principal_Estudiante not found in the hierarchy");
+        } */
+
+
+
+
+
+    }//GEN-LAST:event_botonExamenActionPerformed
+
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton botonBuscar;
+    private javax.swing.JButton botonExamen;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;

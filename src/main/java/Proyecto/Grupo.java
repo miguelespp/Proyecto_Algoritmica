@@ -62,11 +62,20 @@ public class Grupo {
         }
     }
     
-    public Double getPorcPreguntasCorrectPorTexto() {
+    // Porcentaje de preguntas correctamente respondidas por alumnos de su GRUPO
+    public double getPorcPreguntasCorrectPorAlumno() {
         double aux = 0;
         for(Estudiante estudiante : estudiantes){
-            aux += estudiante.getPorcPregCorrRespondidas();
+            aux += estudiante.getPorcPromPregCorrRespPorTexto();
         }
-        return aux/estudiantes.size();
+        return aux;
     }
+    
+    // Porcentaje promedio de preguntas correctamente respondidas por texto por alumnos de su GRUPO
+    public Double getPorcPromdPreguntasPorTexto(){
+        
+        return getPorcPreguntasCorrectPorAlumno()/estudiantes.size();
+    }
+    
+    
 }

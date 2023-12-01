@@ -14,7 +14,7 @@ public class Estadisticas {
     private Estudiante estudiante;
     private int cantidadTextosLeidos;
     private double porcentajePreguntasCorrectasTotal;
-    private ArrayList<Double> porcentajePromedioCorrectasPorTexto;
+    private double porcentajePromedioCorrectasPorTexto;
     private double porcentajeTextosFallados;
     private double porcentajeTextosAcertados;
 
@@ -22,7 +22,7 @@ public class Estadisticas {
         this.estudiante = estudiante;
         this.cantidadTextosLeidos = 0;
         this.porcentajePreguntasCorrectasTotal = 0;
-        this.porcentajePromedioCorrectasPorTexto = null;
+        this.porcentajePromedioCorrectasPorTexto = 0;
         this.porcentajeTextosFallados = 0;
         this.porcentajeTextosAcertados = 0;
     }
@@ -30,8 +30,8 @@ public class Estadisticas {
     public boolean actualizar() {
         try {
             this.cantidadTextosLeidos = estudiante.getCantidadTextosLeidos();
-            this.porcentajePreguntasCorrectasTotal = estudiante.getPorcPregCorrRespondidas();
-            this.porcentajePromedioCorrectasPorTexto = estudiante.getPorcPregCorrRespondidasPorTexto();
+            this.porcentajePreguntasCorrectasTotal = estudiante.getPorcPregCorrResp();
+            this.porcentajePromedioCorrectasPorTexto = estudiante.getPorcPromPregCorrRespPorTexto();
             this.porcentajeTextosFallados = estudiante.getPorcFallarTodo();
             this.porcentajeTextosAcertados = getPorcentajeTextosAcertados();
             return true;
@@ -50,7 +50,7 @@ public class Estadisticas {
         return porcentajePreguntasCorrectasTotal;
     }
 
-    public ArrayList<Double> getPorcentajePromedioCorrectasPorTexto() {
+    public double getPorcentajePromedioCorrectasPorTexto() {
         return porcentajePromedioCorrectasPorTexto;
     }
 

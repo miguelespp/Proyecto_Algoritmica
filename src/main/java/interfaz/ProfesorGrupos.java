@@ -4,6 +4,10 @@
  */
 package interfaz;
 
+import Prueba.Prueba2;
+import java.awt.Container;
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
 
 /**
@@ -14,8 +18,8 @@ public class ProfesorGrupos extends javax.swing.JPanel {
 
     public ProfesorGrupos() {
         initComponents();
-        //actualizarTablaDatos();
-        //configurarTabla();
+        actualizarTablaDatos();
+        configurarTabla();
     }
 
     @SuppressWarnings("unchecked")
@@ -40,7 +44,15 @@ public class ProfesorGrupos extends javax.swing.JPanel {
             new String [] {
                 "Codigo de grupo", "Nombre de grupo", "# de alumnos", ""
             }
-        ));
+        ) {
+            Class[] types = new Class [] {
+                java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.Object.class
+            };
+
+            public Class getColumnClass(int columnIndex) {
+                return types [columnIndex];
+            }
+        });
         tablaGrupos.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 tablaGruposMouseClicked(evt);
@@ -100,18 +112,16 @@ public class ProfesorGrupos extends javax.swing.JPanel {
             .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
     }// </editor-fold>//GEN-END:initComponents
-    /*public void actualizarTablaDatos() {
-        String[][] datos de la pregunta = "Logica para obtener los datos" 
+    public void actualizarTablaDatos() {
+        String[][] datosDeGrupos = Prueba2.obtenerDatosDeGrupos();
         DefaultTableModel model = (DefaultTableModel) tablaGrupos.getModel();
         model.setRowCount(0);
 
-        for (String[] 1 : preguntas) {
-            Object[] rowData = {datosProyecto[0],"ver"};
+        for (String[] datosGrupo : datosDeGrupos) {
+            Object[] rowData = {datosGrupo[0], datosGrupo[1], datosGrupo[2], "Ver"};
             model.addRow(rowData);
         }
     }
-        
-     // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
 
 
     private void configurarTabla() {
@@ -119,20 +129,39 @@ public class ProfesorGrupos extends javax.swing.JPanel {
 
         // Desactiva la reorganización de columnas
         tablaGrupos.getTableHeader().setReorderingAllowed(false);
-    }*/
+    }
     private void tablaGruposMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tablaGruposMouseClicked
-       /* int columnaBotonIngresar = 4; // La columna del botón "Eliminar" en tu modelo de tabla
+        int columnaBotonVer = 3; // La columna del botón "Ver" en tu modelo de tabla
 
-
-        if (tablaGrupos.columnAtPoint(evt.getPoint()) == columnaBotonVerr) {
+        if (tablaGrupos.columnAtPoint(evt.getPoint()) == columnaBotonVer) {
             int fila = tablaGrupos.rowAtPoint(evt.getPoint());
             if (fila != -1) {
-                String nombredeltexto = (String) tablaFiltro.getValueAt(fila, 0);
-                ventanaalaquese dirigue newframe = new ventanaalaquese(nombrePregunta);
-                newframe.setVisible(true);
-                this.dispose();
+                String codigoGrupo = (String) tablaGrupos.getValueAt(fila, 0);
+                String nombreGrupo = (String) tablaGrupos.getValueAt(fila, 1);
+                String numeroAlumnos = (String) tablaGrupos.getValueAt(fila, 2);
+
+                // Obtener el contenedor principal
+                Container contenedorPrincipal = SwingUtilities.getWindowAncestor(this);
+
+                if (contenedorPrincipal instanceof JFrame) {
+
+                    // Traverse the hierarchy to find the instance of Principal_Estudiante
+                    Container parent = getParent();
+                    while (parent != null && !(parent instanceof Principal_Profesor)) {
+                        parent = parent.getParent();
+                    }
+
+                    if (parent instanceof Principal_Profesor) {
+                            Principal_Profesor principalProfesor = (Principal_Profesor) parent;
+                            principalProfesor.cambiarPanelEstadisticas();
+                        } /*else {
+                            System.out.println("Principal_Estudiante not found in the hierarchy");
+                        } */
+
+
+                }
             }
-        }*/
+        }
 
     }//GEN-LAST:event_tablaGruposMouseClicked
 

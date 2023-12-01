@@ -28,4 +28,12 @@ public class EstadisticasGrupo {
         this.masFaciles = new ArrayList<>();
         this.masDificiles = new ArrayList<>();
     }
+    
+    public void actualizar() {
+        this.cantidadTextosResultos = grupo.getCantidadTextosResueltos();
+        this.porcPreguntasRespondidosCorrect = grupo.getPorcPreguntasCorrectPorAlumno();
+        
+    }
+    
+    
 }

@@ -5,6 +5,7 @@
 package interfaz;
 
 import java.awt.BorderLayout;
+import javax.swing.JPanel;
 
 /**
  *
@@ -15,15 +16,23 @@ public class Principal_Estudiante extends javax.swing.JFrame {
     /**
      * Creates new form Principal_Estudiante
      */
+    
+    private FiltroTexto filtroTextoPanel;
+
     public Principal_Estudiante() {
         initComponents();
-        FiltroTexto F1 = new FiltroTexto();
-        F1.setSize(650, 500);
-        F1.setLocation(0, 0);
+        this.setLocationRelativeTo(null);
+
+        // Crea una instancia de FiltroTexto
+        filtroTextoPanel = new FiltroTexto();
+
+        filtroTextoPanel.setSize(650, 500);
+        filtroTextoPanel.setLocation(0, 0);
         contenidoPrincipal.removeAll();
-        contenidoPrincipal.add(F1);
+        contenidoPrincipal.add(filtroTextoPanel);
         contenidoPrincipal.revalidate();
-        contenidoPrincipal.repaint();    }
+        contenidoPrincipal.repaint();
+  }
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -39,6 +48,7 @@ public class Principal_Estudiante extends javax.swing.JFrame {
         botonBuscar = new javax.swing.JButton();
         botonProgreso = new javax.swing.JButton();
         contenidoPrincipal = new javax.swing.JPanel();
+        botonCerrar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
@@ -93,22 +103,35 @@ public class Principal_Estudiante extends javax.swing.JFrame {
             .addGap(0, 500, Short.MAX_VALUE)
         );
 
+        botonCerrar.setBackground(new java.awt.Color(255, 51, 51));
+        botonCerrar.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        botonCerrar.setForeground(new java.awt.Color(255, 255, 255));
+        botonCerrar.setText("Cerrar sesión");
+        botonCerrar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonCerrarActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 534, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(botonCerrar, javax.swing.GroupLayout.PREFERRED_SIZE, 136, javax.swing.GroupLayout.PREFERRED_SIZE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap(48, Short.MAX_VALUE)
                 .addComponent(contenidoPrincipal, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(45, 45, 45))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(botonCerrar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGap(26, 26, 26)
                 .addComponent(contenidoPrincipal, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(31, Short.MAX_VALUE))
@@ -127,6 +150,27 @@ public class Principal_Estudiante extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+    
+    
+    public void cambiarPanelAFiltroCuestionario() {
+        FiltroCuestionario F3 = new FiltroCuestionario();
+        F3.setSize(650, 500);
+        F3.setLocation(0, 0);
+        contenidoPrincipal.removeAll();
+        contenidoPrincipal.add(F3);
+        contenidoPrincipal.revalidate();
+        contenidoPrincipal.repaint();
+    }
+
+ 
+    public void cambiarPanel(JPanel nuevoPanel) {
+        nuevoPanel.setSize(650, 500);
+        nuevoPanel.setLocation(0, 0);
+        contenidoPrincipal.removeAll();
+        contenidoPrincipal.add(nuevoPanel);
+        contenidoPrincipal.revalidate();
+        contenidoPrincipal.repaint();
+}
 
     private void botonBuscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonBuscarActionPerformed
         FiltroTexto F1 = new FiltroTexto();
@@ -149,6 +193,14 @@ public class Principal_Estudiante extends javax.swing.JFrame {
         contenidoPrincipal.repaint();
 
     }//GEN-LAST:event_botonProgresoActionPerformed
+
+    private void botonCerrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonCerrarActionPerformed
+        Bienvenido newframe = new Bienvenido();
+        newframe.setVisible(true);
+        this.dispose();
+        
+
+    }//GEN-LAST:event_botonCerrarActionPerformed
 
     /**
      * @param args the command line arguments
@@ -187,6 +239,7 @@ public class Principal_Estudiante extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton botonBuscar;
+    private javax.swing.JButton botonCerrar;
     private javax.swing.JButton botonProgreso;
     private javax.swing.JPanel contenidoPrincipal;
     private javax.swing.JPanel jPanel1;
