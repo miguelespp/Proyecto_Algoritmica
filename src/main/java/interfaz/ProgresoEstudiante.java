@@ -4,6 +4,8 @@
  */
 package interfaz;
 
+import java.io.File;
+
 /**
  *
  * @author PC
@@ -16,7 +18,17 @@ public class ProgresoEstudiante extends javax.swing.JPanel {
     public ProgresoEstudiante() {
         initComponents();
     }
-
+    
+    
+    public void actualizar(){
+        File carpeta = new File("Resueltos/");
+        File[] archivos = carpeta.listFiles();
+        if(archivos != null) {
+            jTextField2.setText(String.valueOf(archivos.length));
+        }else{
+            jTextField2.setText("-");
+        }
+    }
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always

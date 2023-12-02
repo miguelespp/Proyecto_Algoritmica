@@ -4,22 +4,27 @@
  */
 package interfaz;
 
+import Prueba.Prueba1;
 import Prueba.Prueba3;
+import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
+import java.awt.Font;
+import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
+import java.util.List;
 import javax.swing.JTable;
 import javax.swing.JTextArea;
+import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
-import javax.swing.table.TableCellRenderer;
 
 /**
  *
@@ -33,7 +38,10 @@ public class FiltroTexto extends javax.swing.JPanel {
     public FiltroTexto() {
 
         initComponents();
-        //actualizarTablaDatos();
+        tablaFiltro.setBackground(Color.WHITE); 
+        tablaFiltro.getColumnModel().getColumn(0).setPreferredWidth(500);
+
+
     }
 
     /**
@@ -54,7 +62,6 @@ public class FiltroTexto extends javax.swing.JPanel {
         jPanel3 = new javax.swing.JPanel();
         jScrollPane1 = new javax.swing.JScrollPane();
         tablaFiltro = new javax.swing.JTable();
-        botonExamen = new javax.swing.JButton();
 
         jTextField1.setText("jTextField1");
 
@@ -122,23 +129,16 @@ public class FiltroTexto extends javax.swing.JPanel {
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
                 .addContainerGap(23, Short.MAX_VALUE)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 512, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(25, 25, 25))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 509, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(28, 28, 28))
         );
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
                 .addGap(15, 15, 15)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 297, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(25, Short.MAX_VALUE))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 316, Short.MAX_VALUE)
+                .addContainerGap())
         );
-
-        botonExamen.setText("Prueba");
-        botonExamen.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                botonExamenActionPerformed(evt);
-            }
-        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -147,10 +147,7 @@ public class FiltroTexto extends javax.swing.JPanel {
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(38, 38, 38)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(jLabel1)
-                        .addGap(18, 18, 18)
-                        .addComponent(botonExamen))
+                    .addComponent(jLabel1)
                     .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap(52, Short.MAX_VALUE))
@@ -159,14 +156,12 @@ public class FiltroTexto extends javax.swing.JPanel {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(29, 29, 29)
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel1)
-                    .addComponent(botonExamen))
+                .addComponent(jLabel1)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(35, 35, 35)
                 .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(14, Short.MAX_VALUE))
+                .addContainerGap(15, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
@@ -180,34 +175,6 @@ public class FiltroTexto extends javax.swing.JPanel {
             .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
     }// </editor-fold>//GEN-END:initComponents
-    /*public void actualizarTablaDatos() {
-        String[][] estructura de grupos = lectura de datos();
-        DefaultTableModel model = (DefaultTableModel) tablaFiltro.getModel();
-        model.setRowCount(0);
-
-        for (String[] leer : datos) {
-            Object[] rowData = {contenido de pregunta, "Comenzar"};
-            model.addRow(rowData);
-        }
-    }*/
-        
-     // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
-
-/*
-    public void actualizarTablaDatos() {
-        String[][] datosProyectos = gestorFiltro.obtenerDatosProyectos();
-        DefaultTableModel model = (DefaultTableModel) tablaFiltro.getModel();
-        model.setRowCount(0);
-
-        for (String[] datosProyecto : datosProyectos) {
-            Object[] rowData = {datosProyecto[0]; "Empesar"};
-            model.addRow(rowData);
-        }
-    }
-        */
-     // Configuracion para que la tabla de proyectos no sea editable y desactiva la reorganización de columnas.
-
-
     public void actualizarTablaDatos() {
             String obtenerFiltro = Prueba3.obtenerFiltro();
             DefaultTableModel model = (DefaultTableModel) tablaFiltro.getModel();
@@ -231,89 +198,162 @@ public class FiltroTexto extends javax.swing.JPanel {
             tablaFiltro.setRowHeight(row, rowHeight);
         }
     }
+    private String obtenerContexto(BufferedReader br, String lineaCoincidente, int lineasAntes, int lineasDespues) throws IOException {
+    StringBuilder contexto = new StringBuilder();
+    contexto.append(lineaCoincidente).append(System.lineSeparator());
+
+    // Líneas antes
+    for (int i = 0; i < lineasAntes; i++) {
+        String lineaAntes = br.readLine();
+        if (lineaAntes != null) {
+            contexto.append(lineaAntes).append(System.lineSeparator());
+        }
+    }
+
+    // Líneas después
+    for (int i = 0; i < lineasDespues; i++) {
+        String lineaDespues = br.readLine();
+        if (lineaDespues != null) {
+            contexto.append(lineaDespues).append(System.lineSeparator());
+        }
+    }
+
+    return contexto.toString();
+}
+    private List<String> obtenerLineasInterseccion(File file, String filtroBusqueda) {
+    List<String> lines = new ArrayList<>();
+
+    try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+        String line;
+        boolean dentroDeInterseccion = false;
+        StringBuilder contexto = new StringBuilder();
+        int lineasAgregadas = 0;
+
+        while ((line = br.readLine()) != null) {
+            if (line.trim().equals("=====================TEXTO======================")) {
+                dentroDeInterseccion = true;
+                continue;
+            } else if (line.trim().equals("=====================PREGUNTA 1======================")) {
+                dentroDeInterseccion = false;
+                break;
+            }
+
+            if (dentroDeInterseccion) {
+                // Agrega la línea coincidente y hasta 6 líneas adicionales
+                if (line.contains(filtroBusqueda)) {
+                    contexto.append(line).append(System.lineSeparator());
+                    lineasAgregadas++;
+                } else if (lineasAgregadas > 0 && lineasAgregadas < 7) {
+                    contexto.append(line).append(System.lineSeparator());
+                    lineasAgregadas++;
+                }
+            }
+        }
+
+        // Agrega el contexto completo solo si contiene texto
+        String contextoFinal = contexto.toString().trim();
+        if (!contextoFinal.isEmpty()) {
+            lines.add(contextoFinal);
+        }
+        
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+    for(String line : lines) {
+            if(filtroBusqueda == line){
+                line = "<html><b>" + line + "</b></html>";
+            }
+        }
+    return lines;
+}
+    private void procesarDirectorio(File directory, String filtroBusqueda, DefaultTableModel model) {
+    File[] listOfFiles = directory.listFiles();
+
+    if (listOfFiles != null) {
+        for (File file : listOfFiles) {
+            if (file.isFile() && file.getName().endsWith(".txt")) {
+                List<String> lines = obtenerLineasInterseccion(file, filtroBusqueda);
+                if (!lines.isEmpty()) {
+                    for (String line : lines) {
+                        Object[] rowData = {line, "Ingresar"};
+                        model.addRow(rowData);
+                    }
+                }
+            } else if (file.isDirectory()) {
+                procesarDirectorio(file, filtroBusqueda, model);
+            }
+        }
+    }
+}
 
 
 private void configurarTabla() {
-        tablaFiltro.setDefaultEditor(Object.class, null); // Hace que todas las celdas no sean editables
+        tablaFiltro.setDefaultEditor(Object.class, null);
+    tablaFiltro.getTableHeader().setReorderingAllowed(false);
 
-        // Desactiva la reorganización de columnas
-        tablaFiltro.getTableHeader().setReorderingAllowed(false);
+    DefaultTableCellRenderer renderer = new DefaultTableCellRenderer() {
+        JTextArea textArea = new JTextArea();
 
-        // Configura el renderizador de celdas para permitir saltos de línea
-        DefaultTableCellRenderer renderer = new DefaultTableCellRenderer() {
-            JTextArea textArea = new JTextArea();
+        @Override
+        public Component getTableCellRendererComponent(JTable table, Object value,
+                boolean isSelected, boolean hasFocus, int row, int column) {
+            textArea.setText(String.valueOf(value));
+            textArea.setLineWrap(true);
+            textArea.setWrapStyleWord(true);
+            textArea.setSize(tablaFiltro.getColumnModel().getColumn(column).getWidth(), Short.MAX_VALUE);
 
-            @Override
-            public Component getTableCellRendererComponent(JTable table, Object value,
-                    boolean isSelected, boolean hasFocus, int row, int column) {
-                textArea.setText(String.valueOf(value));
-                textArea.setLineWrap(true);
-                textArea.setWrapStyleWord(true);
-                // Divide el texto en líneas si es muy largo
-                textArea.setSize(tablaFiltro.getColumnModel().getColumn(column).getWidth(), Short.MAX_VALUE);
-                return textArea;
-            }
-        };
+            // Ajusta la altura de la celda para mostrar más líneas de texto
+            int height = Math.max(50, 73);
+            table.setRowHeight(row, height);
 
-        tablaFiltro.getColumnModel().getColumn(0).setCellRenderer(renderer);
-        ajustarAlturaFilas();
+            return textArea;
+        }
+    };
 
-    }
-    
+    tablaFiltro.getColumnModel().getColumn(0).setCellRenderer(renderer);
+}
+
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField2ActionPerformed
 
     private void botonBuscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonBuscarActionPerformed
-        //actualizarTablaDatos();
-        //configurarTabla();
+        String filtroBusqueda = jTextField2.getText().trim();
+    DefaultTableModel model = (DefaultTableModel) tablaFiltro.getModel();
+    model.setRowCount(0);
 
+    File folder = new File("Textos-Grupo3/");
+    procesarDirectorio(folder, filtroBusqueda, model);
+
+    configurarTabla();
     }//GEN-LAST:event_botonBuscarActionPerformed
 
     private void tablaFiltroMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tablaFiltroMouseClicked
-       /* int columnaBotonIngresar = 2; // La columna del botón "Eliminar" en tu modelo de tabla
-
+        int columnaBotonIngresar = 1; // La columna del botón "Ingresar" en tu modelo de tabla
 
         if (tablaFiltro.columnAtPoint(evt.getPoint()) == columnaBotonIngresar) {
             int fila = tablaFiltro.rowAtPoint(evt.getPoint());
             if (fila != -1) {
-                String nombreProyecto = (String) tablaFiltro.getValueAt(fila, 0);
-                ventanaalaquese dirigue newframe = new ventanaalaquese(nombrePregunta);
-                newframe.setVisible(true);
-                this.dispose();
-            }
-        }*/
+                String contenido = (String) tablaFiltro.getValueAt(fila, 0);
+                // Traverse the hierarchy to find the instance of Principal_Estudiante
+                Container parent = getParent();
+                while (parent != null && !(parent instanceof Principal_Estudiante)) {
+                    parent = parent.getParent();
+                }
 
+                if (parent instanceof Principal_Estudiante) {
+                        Principal_Estudiante principalEstudiante = (Principal_Estudiante) parent;
+                        principalEstudiante.cambiarPanelAFiltroCuestionario();
+                    }
+            }
+        }
 
     }//GEN-LAST:event_tablaFiltroMouseClicked
-
-    private void botonExamenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonExamenActionPerformed
-    System.out.println("Boton Examen Clicked");
-
-    // Traverse the hierarchy to find the instance of Principal_Estudiante
-    Container parent = getParent();
-    while (parent != null && !(parent instanceof Principal_Estudiante)) {
-        parent = parent.getParent();
-    }
-
-    if (parent instanceof Principal_Estudiante) {
-            Principal_Estudiante principalEstudiante = (Principal_Estudiante) parent;
-            principalEstudiante.cambiarPanelAFiltroCuestionario();
-        } /*else {
-            System.out.println("Principal_Estudiante not found in the hierarchy");
-        } */
-
-
-
-
-
-    }//GEN-LAST:event_botonExamenActionPerformed
 
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton botonBuscar;
-    private javax.swing.JButton botonExamen;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
@@ -323,19 +363,4 @@ private void configurarTabla() {
     private javax.swing.JTextField jTextField2;
     private javax.swing.JTable tablaFiltro;
     // End of variables declaration//GEN-END:variables
-}
-
-
-class TextAreaRenderer extends JTextArea implements TableCellRenderer {
-
-    public TextAreaRenderer() {
-        setLineWrap(true);
-        setWrapStyleWord(true);
-    }
-
-    @Override
-    public Component getTableCellRendererComponent(JTable table, Object value, boolean isSelected, boolean hasFocus, int row, int column) {
-        setText(value != null ? value.toString() : "");
-        return this;
-    }
 }

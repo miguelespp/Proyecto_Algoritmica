@@ -1,0 +1,58 @@
+ID: 017
+=====================TEXTO======================
+Antoine -Laurent de Lavoisier (1743 -1794) es conocido en la historia de la ciencia
+como el gran gestor de una revolución sin precedentes en el campo de la química. Como
+acota I. Bernard Cohen en Revolution in Science, el rasgo central de esta revolución
+química fue la demolición de la vieja teoría del flogisto y su reemplazo por un nuevo
+esquema conceptual basado en el rol del oxígeno, es decir, la teoría de la oxidación. Por
+ello, la obra de Lavoisier es un ejemplo paradigmático de la revolución en la ciencia. Lavoisier estableció una armónica simbiosis entre teoría y medición, al llevar a cabo
+los primeros experimentos químicos realmente cuantitativos con el fin de evaluar las
+doctrinas químicas vigentes en la época. Fue plenamente consciente de la necesidad de
+hacer un viraje radical en el dominio de la química y, por ello, se suele decir que fue un
+científico en busca de una revolución: quería repetir uno por uno todos los experimentos
+llevados a cabo antes de él para corroborarlos o para demostrar la comisión de algún error.
+Brindó las primeras pruebas rigurosas y fehacientes para establecer la ley de la
+conservación de la materia. Algunos de los experimentos más importantes de Lavoisier
+examinaron la naturaleza de la combustión, así como el papel del oxígeno en la respiración
+de los animales y las plantas. En su monumental Trata do elemental de Química (1789),
+Lavoisier definió operativamente el concepto de elemento como una sustancia simple que
+no se puede dividir mediante ningún método de análisis químico conocido, y elaboró una
+teoría de la formación de compuestos a partir de los elementos. De esta manera, perfiló
+mejor una intuición de Robert Boyle avanzada en El químico escéptico.
+Se puede aquilatar la naturaleza revolucionaria del trabajo de Lavoisier si
+consideramos que los viejos teóricos del flogisto, como Joseph Priestley, sostenían el
+carácter compuesto de los metales, a la luz de la siguiente fórmula: cal + flogisto = metal.
+Lavoisier propuso correctamente que los metales eran elementos y que el oxígeno (noel inexistente flogisto) es el agente crucial en los procesos de combustión, calcinación y
+respiración.
+Quien hizo una gran revolución en la ciencia fue, más bien, conservador en la esfera
+de la política. Es más, dado que fue comisario del tesoro de la monarquía francesa, cuando
+triunfó la Revolución, fue arrestado y juzgado sumariamente por el Tribunal, y fue
+condenado a morir guillotinado el 8 de mayo de 1794. Como dijo flébilmente Lagrange,
+«bastó un segundo para cercenar esa noble testa y pasarán cientos de años antes de que
+nazca otra igual».
+
+=====================PREGUNTA 1======================
+¿Cuál es la mejor síntesis del texto?
+=====================ALTERNATIVAS======================
+A) Se puede calibrar el ingente peso de la revolución científica de Lavoisier si
+consideramos que los teóricos del flogisto sostenían que los metales eran
+sustancias compuestas y Lavoisier determinó correctamente que eran elementos
+químicos.
+B) Aunque conservador en la esfera política, Lavoisier es una figura paradigmática
+de la revolución científica porque refutó la teoría del flogisto y apuntaló una nueva
+visión basada en la oxidación, para lo cual recurrió a la combinación de teoría y medición.
+C) La gesta científica de Lavoisier consistió en llevar a cabo una verdadera simbiosis
+entre teoría y medición, con la cual pudo enterrar definitivamente una manera de
+hacer ciencia que consistía en apelar a la intuición y a la imaginación sin ningún
+basamento.
+D) Lavoisier ocupa un puesto de privilegio en la historia de la ciencia porque en su
+Tratado elemental de Química (1789) logró una verdadera definición operativa de
+elemento, con lo cual superó las limitaciones de un químico como Robert Boyle.
+E) Antoine de Lavoisier es considerado como un científico revolucionario porque fue
+el primero en descubrir el papel del oxígeno y sobre la base de tal magno
+descubrimiento pudo refutar definitivamente una vieja idea química conocida
+como teoría del flogisto.
+=====================ALTERNATIVA CORRECTA=====================
+B) Aunque conservador en la esfera política, Lavoisier es una figura paradigmática de la revolución científica porque refutó la teoría del flogisto y apuntaló una nueva visión basada en la oxidación, para lo cual recurrió a la combinación de teoría y medición.
+=====================RAZONAMIENTO======================
+Se explica centralmente el carácter revolucionario de Lavoisier y se hace un comentario marginal sobre su carácter conservador en la arena política.

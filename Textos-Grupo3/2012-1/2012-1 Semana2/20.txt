@@ -1,0 +1,52 @@
+ID: 020
+=====================TEXTO======================
+La pérdida de diversas capacidades lingüísticas, por parte de un adulto por lo demás
+normal, es un hecho trágico, de consecuencias tan devastadoras como la ceguera, la
+sordera ola parálisis (que a menudo la acompaña). Al estar privado de la posibilidad de
+comunicarse a través del lenguaje y otros canales relacionados con este, el individuo
+queda segregado del mundo de los significados. La pérdida del lenguaje es bastante
+infrecuente en personas jóvenes, que son menos susceptibles a muchas de las causas de
+las lesiones cerebrales, pero se vuelve cada vez más común con el avance de la edad.
+Alrededor de un cuarto de millón de individuos sufre deterioros lingüísticos cada año. El
+alcance y la duración de la incapacidad lingüística varía mucho, pero un porcentaje
+significativo de los individuos afectados queda con deficiencias permanentes. Los que
+sufren la pérdida del lenguaje como resultado de un daño cerebral son víctimas de una
+extraña afección llamada afasia.
+Los individuos afásicos no siempre son inmediatamente reconocibles. Un paciente a
+quien entrevisté hace poco parecía perfectamente normal cuando entró en la habitación:
+contador jubilado, de sesenta y dos años, bien vestido y de buen aspecto. Respondió a
+mis primeras preguntas en forma apropiada y con una rapidez que sugería que no tenía
+ningún problema. Solo cuando le di la oportunidad de hablar un poco más se pusieron en
+evidencia la intensidad y la índole de su afasia. Se llamaba Tomás Gómez y padecía un
+trastorno del lenguaje relativamente común, denominado afasia de Wernicke. Los
+pacientes con este trastorno no tienen ninguna dificultad para producir habla; por el contrario, sus palabras fluyen con demasiada libertad y a veces cuesta hacerlos callar.
+Tampoco tienen problemas para producir las palabras que estructuran y modulan el
+lenguaje: «si», «y», «de», etc. Pero cuando tratan de emplear determinadas palabras que
+se refieren a personas, objetos, hechos, propiedades (esto es, sustantivos, verbos,
+adjetivos), estos pacientes manifiestan una gran dificultad. Como observé varias veces en
+el caso del señor Gómez, estos afásicos suelen ser incapaces de emitir las palabras
+exactas que quieren decir y emiten enunciados incoherentes, casi carentes de sentido.
+=====================PREGUNTA 1======================
+Se infiere del texto que la afasia de Wernicke es un trastorno de índole
+=====================ALTERNATIVAS======================
+A) semántica. 
+B) fonética. 
+C) motora.
+D) auditiva. 
+E) emocional.
+=====================ALTERNATIVA CORRECTA=====================
+A) semántica.
+=====================RAZONAMIENTO======================
+El afásico de Wernicke tiene un gran problema respecto de las palabras lexicales; ergo, su problema es de índole semántica.
+=====================PREGUNTA 2======================
+Si el pensamiento dependiera esencialmente del lenguaje, entonces
+=====================ALTERNATIVAS======================
+A) el lenguaje sería una herramienta meramente formal.
+B) los afásicos solo podrían pensar de manera abstracta.
+C) solo pocos afásicos podrían reconocer rostros humanos.
+D) la comprensión musical sería imposible en los afásicos.
+E) una afasia grave implica ría un fuerte deterioro mental.
+=====================ALTERNATIVA CORRECTA=====================
+E) una afasia grave implica ría un fuerte deterioro mental.
+=====================RAZONAMIENTO======================
+Dada la hipótesis de la pregunta, la pérdida del lenguaje (esto es, la afasia) significaría la pérdida del pensamiento.

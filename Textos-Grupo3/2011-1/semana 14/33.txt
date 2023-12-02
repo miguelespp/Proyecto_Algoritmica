@@ -1,0 +1,97 @@
+ID: 33
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+1. I) La afinidad electrónica es la ene rgía liberada por un átomo, ion o molécula al
+captar un electrón. II) La afinidad electrónica funciona como una medida de la
+tendencia del átomo a ganar electrones y en el caso de los halógenos tal afinidad es
+superlativa. III) La afinidad electrónica de los metales puede ser positiva o negativa,
+pero es extremadamente pequeña. IV) Una afinidad electrónica de valor negativo
+indica que el átomo es forzado a capturar un electrón. V) La afinidad electrónica de
+los halógenos es mucho mayor que la de los metales .
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E. V
+=====================RAZONAMIENTO======================
+Redundancia, V se deduce de II y III.
+=====================PREGUNTA 2======================
+2. I) La adrenalina actúa como vaso constrictor y eleva la presión sanguínea. II) La
+adrenalina es secretada por la medula suprarrenal y actúa en la transmisión del
+impulso nervioso. III) La función de las glándulas que producen adrenalina es regular
+las respuestas al estrés. IV) La adrenalina moviliza las reservas de glucógeno y
+aumenta la glucosa de la sangre. V) La adrenalina es utilizada para combatir las
+crisis de asma y en los síncopes cardiacos por su efecto estimulante sobre el
+corazón.
+=====================ALTERNATIVAS======================
+A. I 
+B. II 
+C. III  
+D. IV 
+E. V
+=====================ALTERNATIVA CORRECTA======================
+C. III 
+=====================RAZONAMIENTO======================
+Impertinencia, el tema es la adrenalina, III no aborda ese tema.
+=====================PREGUNTA 3======================
+3. I) El aerosol tiene partículas coloidales que están por lo general ca rgadas
+eléctricamente. II) Los aerosoles pueden ser de origen natural o pueden deberse a la
+actividad humana. III) Los aerosoles pueden precipitarse por la acción de campos
+eléctricos y por acción de la filtración. IV) Si la precipitación del aerosol se da por la
+acción de campos eléctricos, las partículas de polvo pasan entre dos electrodos. V)
+Si el precipitado del aerosol se produce por filtración, interviene una almohadilla de
+fibras, la cual retiene las partículas por acción de fuerzas de atracción molecular o
+eléctrica.
+=====================ALTERNATIVAS======================
+A. III
+B. II 
+C. I 
+D. IV 
+E. V
+====================ALTERNATIVA CORRECTA======================
+A. III
+=====================RAZONAMIENTO======================
+Redundancia de III con IV y V.
+=====================PREGUNTA 4======================
+4. I) El síndrome de Lesch -Nyhan (LNS) es una enfermedad devastadora que
+comienza a manifestarse en bebés de 3 a 6 meses de edad. II) El LNS afecta solo a
+varones y es el resultado de la pérdida completa, o casi completa, de la actividad de
+una enzima esencial. III) El LNS tiene numerosos efectos, siendo los más graves el
+retraso mental y los ataques enérgicos que incluyen automutilaciones de los dedos y
+de los labios. IV) Los pacientes con retraso mental tienen serios problemas para
+velar por sí mismos y, por ello, necesitan de ayuda especializada. V) A pesar de los
+grandes esfuerzos en investigación, no se conoce curación para la enfermedad de
+Lesch -Nyhan.
+=====================ALTERNATIVAS======================
+A. III 
+B. V 
+C. II 
+D. I 
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+E. IV
+=====================RAZONAMIENTO======================
+El texto gira entorno al síndrome de LNS. El enunciado IV es impertinente.
+=====================PREGUNTA 5======================
+5. I) El médico belga Andreas Vesalius fue el primero en diseccionar cuerpos de
+criminales ejecutados en sus clases de anatomía. II) Vesaliu s imprimió un libro
+revolucionario para la medicina, De corporis humani fabrica, en 1543. III) De corporis
+humani fábrica fue el primer texto en demostrar que el aparato circulatorio
+comenzaba en el corazón y no en el hígado. IV) La publicación del libro e chó abajo
+muchas de las teorías del griego Galeno, vigentes durante 13 siglos. V) El último
+ejemplar completo lo resguarda la Universidad Palafoxiana de Puebla, México.
+=====================ALTERNATIVAS======================
+A. I 
+B. V 
+C. II 
+D. III 
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+A. I 
+=====================RAZONAMIENTO======================
+El texto gira entorno al libro publicado por Vesalius. El enunciado I es
+impertinente.

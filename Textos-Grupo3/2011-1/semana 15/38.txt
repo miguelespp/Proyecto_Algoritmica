@@ -1,0 +1,93 @@
+ID: 38
+=====================TEXTO======================
+El sistema filosófico de Immanuel Kant recibe el nombre general de «criticismo» o
+«filosofía crítica» y se halla expuesto en tres obras fundamentales: Crítica de la razón pura,
+Crítica de la razón práctica y Crítica del juicio. Los elementos introductorios de este sistema
+se denominan propiamente filosofía trascendental y los expone Kant, principalmente, en los
+Prolegómenos y en la primera de las tres críticas mencionadas. Por «filosofía
+trascendental», el pensador alemán entiende el examen a que hay que someter a la razón UNMSM – CENTRO PREUNIVERSITARIO Ciclo 2011 -I
+SOLUCIONARIO Nº 15 Pág. 20 humana para indagar las condiciones que hacen posible el conocimiento a priori: «¿cómo
+son posibles los juicios sintéticos a priori?», «¿cómo es posible la experiencia?».
+A fin de entender cualquiera de estas preguntas, expongamos las cosas como hace
+Kant en la introducción a sus Prolegómenos y en las primeras páginas de la Crítica de la
+razón pura. Hume sostuvo que, en lo tocante al conocimiento de las cosas, no era posible ir
+más allá de lo que nos dan a conocer los sentidos y la memoria. Kant supuso que esta
+manera de argumentar desproveía de todo fundamento no solo a las teorías físicas de
+Newton, sino a cualquier conocimiento de la experiencia.
+Hume centró su crítica entorno a la cuestión de si podemos pensar alguna relación
+necesaria y universal entre los sucesos de la naturaleza, esto es, entorno a la noción de
+«causa». No podemos fundamentar esta noción -argumenta- ni en la sola razón ni tampoco
+en la experiencia; se debe solo a una especie de fe i rracional basada en la costumbre. No
+es posible, en consecuencia, la metafísica. Sin embargo, según Kant, tampoco habría
+verdadera física, es decir, no podría haber ninguna ciencia de la naturaleza o de la
+experiencia en general, sino fuese posible fundar la en un conocimiento causal.
+A la afirmación de Hume de que no es posible un conocimiento universal y necesario
+de las cosas, porque tal necesidad y universalidad no se hallan en la experiencia, Kant
+opone el planteamiento de que sino se fundan en la experiencia, esta necesidad y
+universalidad deben ser condiciones necesarias de un verdadero conocimiento, esto es,
+deben ser elementos a priori. Hume tiene razón al sostener que la idea de causalidad no
+proviene de la experiencia, pero se equivoca al decir que es un mero hábito psicológico. La
+idea de la causalidad es a priori, proviene del entendimiento sin más, de la misma estructura
+del conocer.
+=====================PREGUNTA 1======================
+1. En el texto, el término AFIRMACIÓN se entiende como
+=====================ALTERNATIVAS======================
+A. especulación.
+B. crítica.
+C. tesis.
+D. come ntario.
+E. problema.
+=====================ALTERNATIVA CORRECTA======================
+C. tesis.
+=====================RAZONAMIENTO======================
+Hume postula la tesis escéptica de que no es posible un conocimiento universal y
+necesario de las cosas.
+=====================PREGUNTA 2======================
+2. Medularmente, el texto se puede describir como una exposición
+=====================ALTERNATIVAS======================
+A. de la posibilidad real de la experiencia, según Kant.
+B. del criticismo kantiano frente a las ideas humeanas.
+C. de la concepción de la causalidad en Immanuel Kant.
+D. del concepto del a priori en Hume y la filosofía de Kant.
+E. de Kant y la posibilidad de la ciencia física newtoniana.
+=====================ALTERNATIVA CORRECTA======================
+B. del criticismo kantiano frente a las ideas humeanas.
+=====================RAZONAMIENTO======================
+El texto se centra en el agudo contraste entre Hume y Kant.
+=====================PREGUNTA 3======================
+3. En el texto, el autor sostiene fundamentalmente que
+=====================ALTERNATIVAS======================
+A. para Hume la metafísica se puede fundar en la experiencia.
+B. la causalidad solo puede fundarse en la experiencia sensorial.
+C. Hume considera que es posible derivar la causalidad de la razón.
+D. para Kant la universalidad y la necesidad provienen de la razón.
+E. la física de Newton solo se puede fundar en la experiencia sensorial.
+=====================ALTERNATIVA CORRECTA======================
+D. para Kant la universalidad y la necesidad provienen de la razón.
+=====================RAZONAMIENTO======================
+En contra de Hume, Kant sostiene que el entendimiento puede captar las relaciones
+universales y necesarias.
+=====================PREGUNTA 4======================
+4. Es incompatible con lo planteado por Hume sostener que
+=====================ALTERNATIVAS======================
+A. es imposible conocer lo que cae fuera de la experiencia.
+B. el concepto de causalidad se apoya en una mera costumbre.
+C. la noción de causa lidad se sustenta en un soporte racional.
+D. la ligazón entre sucesos naturales se establece por hábito.
+E. es imposible el conocimiento universal y necesario de la causa.
+=====================ALTERNATIVA CORRECTA======================
+C. la noción de causa lidad se sustenta en un soporte racional.
+=====================RAZONAMIENTO======================
+Hume es un crítico del fundamento lógico de la causalidad.
+=====================PREGUNTA 5======================
+5. En franca oposición a Hume, Kant sostiene que el conocimiento físico se basa en
+=====================ALTERNATIVAS======================
+A. la experiencia.
+B. el a priori.
+C. la metafísica.
+D. el hábito.
+E. la memoria.
+=====================ALTERNATIVA CORRECTA======================
+B. el a priori.
+=====================RAZONAMIENTO======================
+Kant habla de los juicios sintéticos a priori.

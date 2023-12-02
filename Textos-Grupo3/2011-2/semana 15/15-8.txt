@@ -1,0 +1,87 @@
+SEMANA 15 B
+ELIMINACIÓN DE ORACIONES
+=====================TEXTO======================
+=====================PREGUNTA 1======================
+I) Con su hipótesis, Halley predijo que el cometa aparecería nuevamente; el día de
+Navidad de 1758 apareció efectivamente de nuevo un cometa en el cielo visible, que
+desde entonces lleva su nombre. II) Con la hipótesis de la órbita elíptica, Halley
+repasó los datos astronómicos disponibles de los 150 años anteriores, y se percató
+que al menos en dos casos (1530 y 1606) podría tratarse del mismo cometa. III) En
+1682 se produjo la visita de un cometa, Halley observó y anotó cuidadosamente lo s
+datos del mismo, él defendía la hipótesis de que al menos ese cometa era de órbita
+elíptica y, por tanto, recurrente. IV) La teoría newtoniana es compatible tanto con
+que los cometas describan elipses muy excéntricas como con que describan
+parábolas; en el primer caso el astro pasa varias veces por una misma región, en el
+segundo no. V) Halley pudo predecir la llegada de un cometa en el año 1758 gracias
+a sus conocimientos de la teoría de Newton y una revisión de datos astronómicas
+anteriores.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Tema: La hipótesis de la órbita elíptica de los cometas defendida por Halley. Se
+elimina la oración V por redundancia, pues está implícita en las demás oraciones.
+=====================PREGUNTA 2======================
+I) La primera clasificación que se impuso fue la de Aristóteles, quien clasificó los
+seres vivos en reino vegetal y reino animal. II) Los naturalistas, a lo largo del tiempo,
+han dado mucha importancia a la clasificación de los seres vivos. III) La clasificación
+de los seres vivos hecha por Aristóteles se mantuvo durante mucho tiempo. IV) La
+clasificación es una parte importante de la actividad científica, sobre todo en la
+biología. V) Fue Karl von Linné quien creó agrupaciones jerarquizadas (taxones), e
+inventó el sistema de nomenclatura binomial.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina la oración IV por inatingencia. El tema es la clasificación de los seres
+vivos.
+=====================PREGUNTA 3======================
+I) Stanley Prusiner, en la década de los noventa, bautizó un conjunto de proteínas
+con el nombre de priones. II) Stanley Prusiner, científico norteamericano, recibió el
+premio Nobel en Medicina en la década de los noventa. III) En 1992, Stanley
+Prusiner propuso que había un tipo de enfermedades que se transmitían por
+proteínas. IV) Los priones son más sencillos que los virus y pueden causar
+enfermedades en el cerebro. V) A diferencia del resto de los agentes infecciosos que
+contienen ácidos nucleicos, un prion sólo está compuesto por aminoácidos.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Se elimina la oración II por inatingencia. Tema central: Los priones.
+=====================PREGUNTA 4======================
+I) Arquímedes refutó la hipótesis aristotélica al mover con una sola mano, mediante
+un sistema de poleas, un barco totalmente cargado en el puerto de Siracusa. II) Para
+el filósofo griego Aristóteles, el movimiento sólo se producía ante la presencia de
+una fuerza actuante. III) Generalizando sobre efectos dinámicos cotidianos,
+principalmente sobre la tracción, Aristóteles formuló una especie de hipótesis
+mecánica general. IV) La hipótesis aristotélica fue que la velocidad es directamente
+proporcional a la fuerza actuante e inversamente proporcional a la cantidad de
+materia y a la resistencia o rozamiento del medio. V) La primera hipótesis aristotélica
+fue completada con otra: dados un cuerpo y un medio, por debajo de cierto umbral la
+fuerza no produce movimiento.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la oración I por inatingencia. Tema central: La hipótesis mecánica general
+de Aristóteles.

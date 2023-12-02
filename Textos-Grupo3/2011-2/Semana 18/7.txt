@@ -1,0 +1,64 @@
+ID: 007
+=====================TEXTO======================
+Ningún aspecto de la investigación biomédica parece más urgente hoy que el estudio de las enfermedades microbianas. Y la dinámica de estos microbios dentro del cuerpo humano solo puede entenderse en términos de evolución. Entre las terribles enfermedades causadas por microbios se encuentran las de tipo infeccioso (sida, ébola, síndrome respiratorio agudo grave) que se contagian directamente de persona a persona, así como las del tipo que nos trasmiten las picaduras de insectos u otros intermediarios (malaria, fiebre del Nilo). Lo que hace que estos microbios sean tan peligrosos para tanta gente, así como tan difíciles y caros de combatir, es su capacidad para mutar rápidamente. Pasan de la vida salvaje o de los animales domésticos a los humanos, adaptándose a las nuevas circunstancias. Su variabilidad inherente les permite encontrar nuevas maneras de evadir y derrotar los sistemas inmunológicos humanos. Mediante la selección natural, adquieren resistencia a los medicamentos que deberían matarlos. Evolucionan. No hay prueba mejor o más inmediata que apoye a la teoría de Darwin que este proceso de transformación forzada entre nuestros gérmenes hostiles. Tómese por ejemplo a Staphylococus aureus, bacteria común que merodea en hospitales y provoca infecciones graves, especialmente entre pacientes sometidos a cirugía. La penicilina, disponible desde 1943, resultó casi milagrosamente efectiva para combatir las infecciones por estafilococo. Su extenso uso marca una nueva fase en la antigua guerra entre humanos y microbios productores de enfermedades, una fase en que los humanos inventan nuevos medicamentos asesinos y los microbios encuentran nuevas maneras para no ser asesinados. La potencia suprema de la penicilina no duró mucho: en 1947 se informó de las primeras cepas de Staphilococcus aureus resistentes al antibiótico. En la década de 1960, comenzó a usarse otro fármaco para matar al estafilococo: la meticilina, pero pronto aparecieron cepas resistentes a esta y hacia la década de 1980, dichas cepas ya se habían diseminado. La vancomicina fue la siguiente gran arma contra el estafilococo, pero las primeras cepas resistentes a esta surgieron en 2002. Estas cepas resistentes a los antibióticos representan una serie evolutiva, no muy diferente en principio a los fósiles que determinan la evolución del caballo desde el Hyracotherium hasta el Equus; convierten la evolución en un problema muy práctico al agregar gastos, así como desgracias y peligros, al reto de hacer frente al estafilococo.
+
+=====================PREGUNTA 1======================
+En el texto, el autor sostiene fundamentalmente que
+=====================ALTERNATIVAS======================
+A) los microbios causan terribles enfermedades como el sida, ébola y la malaria.
+B) la peligrosidad de los microbios reside en su capacidad de mutar rápidamente. *
+C) la mutación acelerada de los microbios es la mejor prueba de la teoría de la evolución.
+D) la penicilina, en un principio, fue muy eficaz en el combate de la Staphylococus aureus.
+E) la mayor resistencia de los microbios causa a los hombres gastos, desgracias y peligros.
+=====================ALTERNATIVA CORRECTA=====================
+B) la peligrosidad de los microbios reside en su capacidad de mutar rápidamente. *
+=====================RAZONAMIENTO======================
+En el texto se desarrolla la idea de que “lo que hace que los microbios infecciosos sean tan peligrosos para tanta gente, así como tan difíciles y caros de combatir, es su capacidad para mutar rápidamente.”
+=====================PREGUNTA 2======================
+Si el Staphylococus aureus hubiera evolucionado muy lentamente, probablemente,
+=====================ALTERNATIVAS======================
+A) la penicilina habría tenido mayor tiempo de vigencia.
+B) la medicina habría perdido interés por esta bacteria.
+C) esta bacteria se habría diseminado muy limitadamente.
+D) la teoría de Charles Darwin habría carecido de pruebas.
+E) habría sido cada vez menos infeccioso y contagioso.
+=====================ALTERNATIVA CORRECTA=====================
+A) la penicilina habría tenido mayor tiempo de vigencia.
+=====================RAZONAMIENTO======================
+En este caso, al evolucionar muy lentamente la capacidad de resistencia del Staphylococus aureus, la penicilina habría tenido mayor tiempo de vigencia.
+=====================PREGUNTA 3======================
+Es incompatible con el texto aseverar que la acelerada evolución de los microbios infecciosos
+=====================ALTERNATIVAS======================
+A) implica una mayor resistencia a los medicamentos antibacterianos.
+B) es un eficiente mecanismo que garantiza la sobrevivencia de estos.
+C) corrobora, de manera objetiva, la teoría de la evolución de Darwin.
+D) espolea la investigación entorno a medicamentos antibacterianos.
+E) disminuye cuando la sustancia antibacteriana es muy potente.
+=====================ALTERNATIVA CORRECTA=====================
+E) disminuye cuando la sustancia antibacteriana es muy potente.
+=====================RAZONAMIENTO======================
+La acelerada evolución de los microbios es inherente.
+=====================PREGUNTA 4======================
+Se colige que, en la actualidad, el antibacteriano vancomicina
+=====================ALTERNATIVAS======================
+A) aún es utilizado en ambientes muy pulcros.
+B) ya ha sido reemplazado por otro más potente.
+C) solo se administra previa receta médica.
+D) puede provocar efectos contraproducentes.
+E) solo se usa con infantes infectados.
+=====================ALTERNATIVA CORRECTA=====================
+B) ya ha sido reemplazado por otro más potente.
+=====================RAZONAMIENTO======================
+Las primeras cepas resistentes a la vancomicina surgieron en 2002.
+=====================PREGUNTA 5======================
+En el texto, el vocablo INMEDIATA se puede reemplazar por
+=====================ALTERNATIVAS======================
+A) directa.
+B) instantánea. 
+C) elaborada. 
+D) sofisticada. 
+E) contigua
+=====================ALTERNATIVA CORRECTA=====================
+A) directa.
+=====================RAZONAMIENTO======================
+La evolución de los microbios se puede observar directamente; por ello, es la prueba más directa.

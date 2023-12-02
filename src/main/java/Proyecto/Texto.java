@@ -4,8 +4,10 @@
  */
 package Proyecto;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -15,12 +17,16 @@ import java.util.List;
  *
  * @author Anthony
  */
-public class Texto {
-    private int id;
-    private String contenido;
-    private ArrayList<Pregunta> preguntas;
-    private boolean resuelto;
-
+    public class Texto {
+        private int id;
+        private String contenido;
+        private ArrayList<Pregunta> preguntas;
+        private boolean resuelto;
+        
+    public Texto(){
+        
+    }    
+    
     public Texto( String contenido) {
         this.contenido = contenido;
         this.preguntas = new ArrayList<>();
@@ -34,6 +40,10 @@ public class Texto {
     // Getters y setters para acceder a los atributos
     public int getId() {
         return id;
+    }
+    
+    public void setId(int Id){
+        this.id = Id;
     }
 
     public String getContenido() {

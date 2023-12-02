@@ -3,7 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Data.Usuarios;
+import Proyecto.Pregunta;
 import Proyecto.Profesor;
+import Proyecto.Texto;
 import Proyecto.Usuario;
 import java.io.*;
 import java.util.ArrayList;
@@ -88,5 +90,58 @@ public class ManejadorArchivosUsuarios {
         } catch (IOException e) {
             System.err.println("Error al guardar los datos en el archivo: " + e.getMessage());
         }
+    }
+    
+    public Texto extraerDeArchivos() {
+        String rutaArchivo = "ruta/a/tu/archivo.txt";
+
+        try (BufferedReader br = new BufferedReader(new FileReader(rutaArchivo))) {
+            String line;
+            Texto textoActual = null; // Para mantener un seguimiento del texto actual
+
+            while ((line = br.readLine()) != null) {
+                if (line.startsWith("ID: ")) {
+                    // Comienza un nuevo texto
+                    textoActual = new Texto();
+                    textoActual.setId(Integer.parseInt(line.substring("ID: ".length())));
+                } else if (line.startsWith("=====================TEXTO======================")) {
+                    // Sección de texto
+                    textoActual.setContenido(br.readLine().trim());
+                } else if (line.startsWith("=====================PREGUNTA")) {
+                    // Sección de pregunta
+                    Pregunta pregunta = new Pregunta();
+                    pregunta.setEnunciado(br.readLine().trim());
+
+                    // Saltar líneas para llegar a las alternativas
+                    br.readLine(); // Saltar "=====================ALTERNATIVAS======================"
+
+                    // Leer alternativas
+                    String[] alternativas = new String[5];
+                    for (int i = 0; i < 5; i++) {
+                        pregunta.setAlternativas(i,br.readLine());
+                    }
+
+                    // Leer la alternativa correcta
+                    pregunta.setRespuestaCorrecta(br.readLine().trim());
+
+                    // Leer el razonamiento
+                    br.readLine(); // Saltar "=====================RAZONAMIENTO======================"
+                    pregunta.setRazonamiento(br.readLine().trim());
+
+                    // Agregar la pregunta al texto actual
+                    textoActual.agregarPregunta(pregunta);
+                } else if (line.startsWith("=====================ALTERNATIVAS======================")) {
+                    // Ignorar, ya se procesó en la sección de pregunta
+                } else if (line.startsWith("=====================ALTERNATIVA CORRECTA======================")) {
+                    // Ignorar, ya se procesó en la sección de pregunta
+                } else if (line.startsWith("=====================RAZONAMIENTO======================")) {
+                    // Ignorar, ya se procesó en la sección de pregunta
+                }
+            }
+            return textoActual;
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 }

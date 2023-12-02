@@ -1,0 +1,64 @@
+ID: 005
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) Las investigaciones de los sistemas de comunicación entre los animales son actualmente un dominio de estricta especialización. II) Una adecuada especialización en cualquier campo solo puede alcanzarse en centros de investigación de universidades de renombre mundial. III) Es recomendable servirse de estas investigaciones y de sus resultados para sacar conclusiones generales sobre la naturaleza de la comunicación entre animales. IV) Estas conclusiones contendrán interpretaciones diversas sobre la semiótica del mundo animal, aunque se apoyen en los mismos materiales. V) Además de los hechos comprobados empíricamente, en la interpretación de los resultados sobre comunicación animal intervienen factores como concepciones metodológicas y filosóficas del que emprende las correspondientes generalizaciones.
+=====================ALTERNATIVAS======================
+A) II
+B) IV 
+C) V 
+D) I 
+E) III
+=====================ALTERNATIVA CORRECTA=====================
+A) II
+=====================RAZONAMIENTO======================
+El tema del texto es las investigaciones de los sistemas de comunicación entre los animales. Se elimina II por ser ajeno a este tema.
+=====================PREGUNTA 2======================
+I) Es altamente recomendable que desde la edad preescolar se inicie un adiestramiento, progresivo y muy cauteloso, sobre la importante actividad de la lectura. II) Los niños en edad preescolar que van camino de volverse disléxicos a menudo tienen problemas para analizar los sonidos del lenguaje, como por ejemplo determinar si dos palabras riman o no. III) A medida que crecen, los niños disléxicos tienen dificultad al asociar sonidos con letras e interpretar las palabras escritas. IV) Sin embargo, aproximadamente entre el 25 y el 50 por ciento de los niños disléxicos acaban desarrollando estrategias de compensación que les permiten leer lo bastante bien como para poder hacer sus tareas escolares. V) Muchos niños disléxicos son capaces de realizar mejoras significativas en sus habilidades de lectura, pero no se sabe bien cómo lo consiguen, y los test de lectura estandarizados no pueden predecir qué niños son susceptibles de mejorar sus habilidades.
+=====================ALTERNATIVAS======================
+A) IV 
+B) II 
+C) I 
+D) V 
+E) III
+=====================ALTERNATIVA CORRECTA=====================
+C) I 
+=====================RAZONAMIENTO======================
+Los problemas que acarrea la dislexia en los niños y las mejoras significativas que estos alcanzan. Se elimina I por impertinente.
+=====================PREGUNTA 3======================
+I) Según un sorprendente descubrimiento científico, la cima de nuestra capacidad para memorizar y reconocer rostros se alcanza entre los 30 y los 34 años. II) Las investigaciones sobre la memoria de los seres humanos han alcanzado un sofisticado nivel en los últimos tiempos merced a los avances en las nuevas tecnologías de la neurología. III) Aunque los indicios previos ya sugerían que la capacidad de memorizar y reconocer rostros podría tener un desarrollo más lento que otras capacidades, pocos científicos sospechaban que podría continuar desarrollándose durante tantos años en la etapa adulta. IV) El tardío desarrollo pleno de la capacidad de memorizar y reconocer rostros podría ser simplemente un caso de eficiencia máxima lograda mediante la práctica y ayudada por la juventud. V) Es posible que las partes del cerebro que utilizamos para reconocer rostros, requieran este período prolongado de afinamiento para ayudarnos a aprender y recordar del mejor modo posible una amplia variedad de caras diferentes.
+=====================ALTERNATIVAS======================
+A) IV 
+B) II
+C) I 
+D) III 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+B) II
+=====================RAZONAMIENTO======================
+Descubrimiento de la capacidad de memorizar y reconocer rostros. Se elimina II por impertinente
+=====================PREGUNTA 4======================
+I) Pese a ser discípulo de Platón, Aristóteles se distanció de las posiciones idealistas y elaboró un pensamiento de carácter naturalista y realista. II) Frente a la separación radical entre el mundo sensible y el mundo inteligible planteada por las doctrinas platónicas, defendió la posibilidad de aprehender la realidad a partir de la experiencia. III) Contra de las tesis de su maestro, consideró que las ideas o conceptos universales no deben separarse de las cosas, sino que estaban inmersos ellas, como forma específica a la materia. IV) Por estos motivos, otorgó gran importancia a los estudios científicos y a la observación de la naturaleza. V) El pensamiento aristotélico, en oposición a las ideas de su maestro Platón, se puede describir como empirista y naturalista.
+=====================ALTERNATIVAS======================
+A) I 
+B) III 
+C) II 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+E) V
+=====================RAZONAMIENTO======================
+El pensamiento filosófico de Aristóteles. Se elimina V por redundancia.
+=====================PREGUNTA 5======================
+I) El Medioevo está comprendido entre el siglo V y el XV; su comienzo se sitúa convencionalmente en el año 476 con la caída del Imperio romano de Occidente y su fin en 1492 con el descubrimiento de América o en 1453 con la caída del Imperio bizantino. II) Actualmente los historiadores del periodo prefieren matizar esta ruptura entre Antigüedad y Edad Media, de manera que entre los siglos III y VIII se suele hablar de Antigüedad Tardía, que habría sido una gran etapa de transición en todos los ámbitos. III) Los cambios de esta bisagra histórica implican la sustitución del modo de producción esclavista por el modo de producción feudal y la desaparición del concepto de ciudadanía romana frente a la irrupción de los estamentos medievales. IV) Asimismo, hay transformaciones signadas por la descomposición de las estructuras centralizadas del Imperio romano y por la absorción y sustitución de la cultura clásica por las teocéntricas culturas cristiana o islámica. V) Los cambios que se dan en los albores del período histórico conocido como Edad Media alcanzan diversos órdenes como el económico, el social, el político y el cultural.
+=====================ALTERNATIVAS======================
+A) III 
+B) V
+C) I 
+D) I 
+E) IV
+=====================ALTERNATIVA CORRECTA=====================
+B) V
+=====================RAZONAMIENTO======================
+Se elimina la oración V porque está incluida en III y IV.
+

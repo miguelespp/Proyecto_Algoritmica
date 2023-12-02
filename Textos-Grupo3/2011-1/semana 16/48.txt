@@ -1,0 +1,124 @@
+ID: 48
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+1. Conspicuo, famoso, ínclito,
+=====================ALTERNATIVAS======================
+A. asertivo.
+B. apodíctico .
+C. inope.
+D. insigne.
+E. deleznable.
+=====================ALTERNATIVA CORRECTA======================
+D. insigne.
+=====================RAZONAMIENTO======================
+Serie verbal sinonímica que se proyecta coherentemente en insigne.
+=====================PREGUNTA 2======================
+2. Banal, insustancial, superfluo,
+=====================ALTERNATIVAS======================
+A. inane .
+B. melifluo.
+C. remilgado.
+D. sutil.
+E. consustancial.
+=====================ALTERNATIVA CORRECTA======================
+A. inane .
+=====================RAZONAMIENTO======================
+Palabras cuyo significado remite a lo inútil.
+=====================PREGUNTA 3======================
+3. Cuerdo, insano ; perspicaz ,torpe; diáfano, caliginoso;
+=====================ALTERNATIVAS======================
+A. yermo, apático.
+B. sórdido, límpido.
+C. veraz, mendaz
+D. lento , somero.
+E. cicatero, solemne.
+=====================ALTERNATIVA CORRECTA======================
+C. veraz, mendaz
+=====================RAZONAMIENTO======================
+Serie verbal antonímica. Se debe respetar el orden valorativo.
+=====================PREGUNTA 4======================
+4. Suspicaz, receloso, desconfiado,
+=====================ALTERNATIVAS======================
+A. ávido .
+B. bisoño .
+C. matrero .
+D. insipiente.
+E. tozudo.
+=====================ALTERNATIVA CORRECTA======================
+C. matrero .
+=====================RAZONAMIENTO======================
+Serie verbal sinon ímica que se proyecta en matrero.
+=====================PREGUNTA 5======================
+5. Talega, lienzo; odre, cuero; sillín, madera;
+=====================ALTERNATIVAS======================
+A. sinecura, trabajo.
+B. zarcillo, arete.
+C. caña, miel.
+D. cesta, mimbre.
+E. plástico, bolsa.
+=====================ALTERNATIVA CORRECTA======================
+D. cesta, mimbre.
+=====================RAZONAMIENTO======================
+Serie verbal basada en la analogía de producto -materia.
+=====================PREGUNTA 6======================
+6. Desaseado, sucio, sórdido,
+=====================ALTERNATIVAS======================
+A. tacaño.
+B. malévolo.
+C. impío.
+D. inope.
+E. roñoso.
+=====================ALTERNATIVA CORRECTA======================
+E. roñoso.
+=====================RAZONAMIENTO======================
+Campo semántico de la suciedad.
+=====================PREGUNTA 7======================
+7. Elija la tríada de sinónimos.
+=====================ALTERNATIVAS======================
+A. Crueldad, sevicia, murri a.
+B. Lendel, huella, fábula.
+C. Júbilo, exultación, regocijo.
+D. Nobleza, hidalguía, pobreza.
+E. Incuria, recato, decencia.
+=====================ALTERNATIVA CORRECTA======================
+C. Júbilo, exultación, regocijo.
+=====================RAZONAMIENTO======================
+Campo semántico de la alegría desbordante.
+=====================PREGUNTA 8======================
+8. Párvulo, infante ; pródigo, botarate ; tunante, taimado;
+=====================ALTERNATIVAS======================
+A. negligente, des idioso
+B. lunático, laberíntico
+C. simétrico, caótico
+D. nefasto, luminoso
+E. sicalíptico, ubérrimo
+=====================ALTERNATIVA CORRECTA======================
+A. negligente, des idioso
+=====================RAZONAMIENTO======================
+Serie verbal basada en la sinonimia.
+=====================PREGUNTA 9======================
+9. Diligencia, incuria; sapiencia, ignorancia; valentía, pavor;
+=====================ALTERNATIVAS======================
+A. estudio, método
+B. belleza , horridez
+C. azar, suerte
+D. celibato, s oltería
+E. beligerancia, guerra
+=====================ALTERNATIVA CORRECTA======================
+B. belleza , horridez
+=====================RAZONAMIENTO======================
+La serie verbal está conformada por pares de palabras que guardan la relación
+semántica de antonimia. Completan la serie las palabras BELLEZA y HORRIDEZ.
+=====================PREGUNTA 10======================
+10. Elija la serie más coherente, en virtud del campo semántico de la ciencia.
+=====================ALTERNATIVAS======================
+A. sesgo, rúbrica, indagación.
+B. réquiem, sumilla, bibliografía.
+C. sésamo, experimento, método.
+D. problema, informe, solaz.
+E. axioma, hipótesis, corolario.
+=====================ALTERNATIVA CORRECTA======================
+E. axioma, hipótesis, corolario.
+=====================RAZONAMIENTO======================
+Son términos que corresponden al campo de las teorías científicas.

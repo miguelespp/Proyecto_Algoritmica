@@ -9,6 +9,11 @@ import java.awt.Container;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
+import javax.swing.table.DefaultTableModel;
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.util.List;
 
 /**
  *
@@ -113,13 +118,32 @@ public class ProfesorGrupos extends javax.swing.JPanel {
         );
     }// </editor-fold>//GEN-END:initComponents
     public void actualizarTablaDatos() {
-        String[][] datosDeGrupos = Prueba2.obtenerDatosDeGrupos();
-        DefaultTableModel model = (DefaultTableModel) tablaGrupos.getModel();
-        model.setRowCount(0);
+        File carpetaGrupos = new File("grupos");
 
-        for (String[] datosGrupo : datosDeGrupos) {
-            Object[] rowData = {datosGrupo[0], datosGrupo[1], datosGrupo[2], "Ver"};
-            model.addRow(rowData);
+        if (carpetaGrupos.exists() && carpetaGrupos.isDirectory()) {
+            DefaultTableModel model = (DefaultTableModel) tablaGrupos.getModel();
+            model.setRowCount(0);
+
+            File[] archivosGrupos = carpetaGrupos.listFiles((dir, name) -> name.toLowerCase().endsWith(".txt"));
+
+            if (archivosGrupos != null) {
+                for (File archivo : archivosGrupos) {
+                    try {
+                        List<String> lineas = Files.readAllLines(archivo.toPath());
+
+                        if (lineas.size() >= 2) {  // Asegurarse de que hay al menos dos líneas
+                            String codigoGrupo = lineas.get(0).replace("Código de grupo: ", "");
+                            String nombreGrupo = lineas.get(1).replace("Nombre de grupo: ", "");
+                            String numeroAlumnos = "# de alumnos";  // No lees el número de alumnos del archivo
+
+                            Object[] rowData = {codigoGrupo, nombreGrupo, numeroAlumnos, "Ver"};
+                            model.addRow(rowData);
+                        }
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
         }
     }
 

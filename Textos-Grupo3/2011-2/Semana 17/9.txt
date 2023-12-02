@@ -1,0 +1,63 @@
+ID: 009
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) El aspecto y tipo de vida del alcaudón recuerda a las aves rapaces; el pico es curvo y dentado y las patas largas acaban en uñas robustas. II) Existen tres variedades del alcaudón, el alcaudón común, el alcaudón dorsirrojo y el alcaudón real. III) El alcaudón común, de 17 cm, tiene alas negras con manchas blancas, y el obispillo blanco; hábitat en el centro y sur de Europa y norte de África. IV) El alcaudón dorsirrojo es muy parecido al común en plumaje y envergadura y también en hábitat.
+V) El alcaudón real, gris por el dorso tiene las alas y la cola de color blanco y negro, y blancuzcas las partes inferiores.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA====================
+B) II 
+=====================RAZONAMIENTO======================
+Redundancia, II se deduce de III, IV y V.
+=====================PREGUNTA 2======================
+I) Ciro Alegría fue un novelista peruano que nació en 1909 y falleció en 1967. II) Alegría participó en la vida política del Perú como afiliado al movimiento aprista, que
+abandonó en 1948. III) Ciro Alegría fue encarcelado entre 1931 y 1933, y emigró a Chile en 1934; posteriormente, residió en EE.UU., Puerto Rico y Cuba. IV) Con su
+esposa Dora Varona, viajó por todo el Perú y dio conferencias en varias universidades y centros culturales, por lo que fue nombrado doctor honoris causa por la Universidad de Trujillo. V) Ciro Alegría fue un escritor criollista, su estilo es a
+menudo lírico en el tratamiento del paisaje, que encuadra la preocupación social de su narrativa que refleja la trágica existencia del indio.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+E) V
+=====================RAZONAMIENTO======================
+V es impertinente, el tema es la biografía de Ciro Alegría.
+=====================PREGUNTA 3======================
+I) Los alcoholes en su mayoría tienen puntos de ebullición muy variados y son solubles en agua. II) Los alcoholes que van del metanol al butanol son líquidos; los
+de 5 a 11 carbonos son líquidos oleosos, y a partir de 12 carbonos son sólidos. III) La mayoría de los alcoholes son solubles en agua en mayor o menor proporción, aunque, en general su solubilidad es alta. IV) La solubilidad del alcohol en agua al
+igual que sus inesperadamente altos puntos de ebullición, puede atribuirse a la existencia de enlaces de hidrógeno entre sus moléculas. V) Los alcoholes son en
+general, líquidos incoloros, con una amplia gama de puntos de ebullición.
+=====================ALTERNATIVAS======================
+A) I
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+A) I
+=====================RAZONAMIENTO======================
+Redundancia de I con V y III.
+=====================PREGUNTA 4======================
+I) El alemán forma parte del grupo lingüístico germánico-occidental, y en el sentido
+más amplio abarca los distintos dialectos y hablas del alto y del bajo alemán. II) La evolución histórica del alemán puede fijarse así: antiguo alemán (750-1080); medio
+alto alemán (s. XII-XV), y neo-alto alemán (apartir del s. XV). III) Con el siglo XV nace la preocupación de crear, junto al latín, una lengua literaria y escrita específicamente alemana. IV) El alemán se unifica en una lengua literaria y escrita
+cuando Martín Lutero tradujo la Biblia en 1534, fundándose en el dialecto sajón. V) La Biblia alemana se escribió con el fin de ayudar la ética protestante que clamaba
+un mayor conocimiento de las Sagradas Escrituras por parte de todos los cristianos.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+E) V
+=====================RAZONAMIENTO======================
+El tema es la evolución de la lengua alemana. Se elimina la V por impertinente.
+

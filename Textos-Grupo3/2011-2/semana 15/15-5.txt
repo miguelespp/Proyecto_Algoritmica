@@ -1,0 +1,219 @@
+SEMANA 15 B
+TEXTO 1
+=====================TEXTO======================
+La imagen más simple que podemos formarnos del origen de una ciencia empírica
+es la que se basa en el método inductivo. Se eligen y agrupan hechos concretos, de tal
+suerte que la relación legiforme que los une emerge con toda claridad. Mediante el
+agrupamiento de estas regularidades se pueden obtener ulteriormente regulaciones más
+generales, hasta que –a la vista del conjunto de los distintos hechos- se configura un
+sistema más o menos unitario tal que la mente que contempla las cosas a partir de las
+generalizaciones alcanzadas por último podría, en sentido inverso, por vía puramente
+lógica, llegar de nuevo a los hechos particulares.
+Una rápida ojeada al desarrollo efectivo de nuestra ciencia muestra que los grandes
+progresos del conocimiento científico sólo en una pequeña parte se han obtenido de este
+modo. En efecto, si el investigador se acercara a las cosas sin ninguna idea
+preconcebida, ¿cómo podría aferrar en medio de una enorme cantidad de la más
+complicada experiencia unos hechos que serían por sí solos simplemente suficientes para
+evidenciar relaciones legiformes? Galileo no habría podido encontrar jamás la ley de la
+caída libre de los cuerpos pesados sin la idea preconcebida según la cual, aunque las
+relaciones que de hecho observamos se hallan complicadas por la acción de la
+resistencia del aire, a pesar de ello nosotros consideramos unas caídas de los cuerpos
+como si esa resistencia desempeñara un papel prácticamente nulo.
+Los progresos verdaderamente grandes del conocimiento de la naturaleza se han
+producido siguiendo una vía casi diametralmente opuesta a la de la inducción. Una
+concepción intuitiva de lo esencial de un gran conjunto de casos lleva al investigador a la
+propuesta de un principio hipotético. Del principio (sistema de axiomas) el investigador
+extrae por vía puramente lógica las consecuencias de la manera más completa posible.
+Estas consecuencias deducibles del principio, con frecuencia mediante desarrollos y
+cálculos aburridos, se compararan luego con las experiencias, proporcionando así un
+criterio para la justificación del principio admitido. El principio (axiomas) y las
+consecuencias forman juntos lo que llamamos una “teoría”. Toda persona culta sabe que
+los grandes progresos del conocimiento de la naturaleza –por ejemplo, la teoría de la
+gravitación de Newton, la termodinámica, la teoría cinética de los gases, la
+electrodinámica moderna, etc.- han tenido todos ellos su origen de este modo, y que su
+fundamento es de naturaleza hipotética. El investigador, pues, parte siempre de los
+hechos, cuyo nexo constituye el objetivo de sus esfuerzos. Pero no llega a un sistema teórico por la vía del método inductivo; más bien, se aproxima a los hechos mediante una
+opción intuitiva entre teorías pensables basadas en axiomas.
+Una teoría puede ser reconocida como errónea si hay un error lógico en sus
+deducciones, o puede ser reconocida como inadecuada si un hecho no encaja en sus
+consecuencias. Pero jamás puede demostrarse la verdad de una teoría. Y ello porque
+jamás se sabe si en el futuro no se descubrirá alguna experiencia que contradiga sus
+consecuencias; y siempre puede pensarse en otros sistemas de pensamiento, capaces de
+conectar los mismos hechos tomados en consideración. Si se dispone de dos teorías,
+ambas compatibles con el material dado, entonces no existe más criterio para preferir una
+a la otra que la mirada intuitiva del investigador. Y así se comprende cómo agudos
+investigadores que dominan teorías o hechos pueden sin embargo ser apasionados
+defensores de teorías opuestas.
+En esta agitada época someto al lector las presentes consideraciones, breves y
+objetivas, pues opino que con la silenciosa entrega a objetivos eternos, comunes a todas
+las culturas humanas, se puede hoy, de un modo más activo, ser útiles al saneamiento
+político que a través de los tratados y las profesiones de fe políticas.
+Einstein, Albert. “Induktion und Deduktion in der Physik” (1919).
+=====================PREGUNTA 1======================
+En síntesis, el texto constituye una
+=====================ALTERNATIVAS======================
+A) reflexión epistemológica sobre la ciencia empírica.
+B) crítica de tipo político entorno a la actividad científica.
+C) manifestación del espíritu intuitivo de los científicos.
+D) oposición tajante al empleo de la inducción en la ciencia.
+E) contribución al análisis filosófico de la coyuntura.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Eisntein pretende mostrar una imagen objetiva del proceder científico, eso constituye
+una reflexión epistemológica.
+=====================PREGUNTA 2======================
+Es compatible con el texto señalar que el método inductivo
+=====================ALTERNATIVAS======================
+A) nunca ha sido empleado por los científicos naturales o sociales.
+B) corresponde a una imagen simple pero incompleta de la ciencia.
+C) fue desestimada totalmente por Albert Einstein en su artículo.
+D) proporciona resultados idénticos a los del llamado método deductivo.
+E) ha sido la causa del empleo militar del conocimiento científico.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La imagen más simple que podemos formarnos del origen de una ciencia empírica
+es la que se basa en el método inductivo. [Pero] una rápida ojeada al desarrollo
+efectivo de nuestra ciencia muestra que los grandes progresos del conocimiento
+científico sólo en una pequeña parte se han obtenido de este modo.
+=====================PREGUNTA 3======================
+En el texto, la expresión IDEA PRECONCEBIDA alude a la
+=====================ALTERNATIVAS======================
+A) probabilidad. 
+B) deducción. 
+C) hipótesis.
+D) inducción. 
+E) interrogante.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La idea preconcebida permite evidenciar una relación legiforme en una serie de
+hechos en apariencia inconexos. Las hipótesis tienen la forma de esas relaciones
+legiformes pues refieren un conjunto de casos.
+=====================PREGUNTA 4======================
+En el texto, la expresión RELACIÓN LEGIFORME refiere a
+=====================ALTERNATIVAS======================
+A) una ley de la naturaleza. 
+B) una teoría científica.
+C) un esquema formal. 
+D) una intuición metafísica.
+E) una hipótesis empírica.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se eligen y agrupan hechos concretos, de tal suerte que la relación legiforme que los
+une emerge con toda claridad. Por ende, la relación legiforme refiere a lo ontológico
+y no a lo gnoseológico.
+=====================PREGUNTA 5======================
+Podemos inferir, respecto al acercamiento del científico a los hechos, que Einstein
+defendería la siguiente tesis:
+=====================ALTERNATIVAS======================
+A) Nuestra mente, al nacer, es como una tabula rasa.
+B) La causalidad sólo es sustentada por la costumbre.
+C) Toda observación tiene una carga teórica previa.
+D) Las teorías científicas son sólo convenciones.
+E) Los paradigmas científicos son inconmensurables.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+“Si el investigador se acercara a las cosas sin ninguna idea preconcebida, ¿cómo
+podría aferrar en medio de una enorme cantidad de la más complicada experiencia
+unos hechos que serían por sí solos simplemente suficientes para evidenciar
+relaciones legiformes?” Es decir, siempre nos acercamos a lo real desde una idea
+preconcebida, hipótesis, que involucra conceptos y carga teórica.
+=====================PREGUNTA 6======================
+En el texto, la referencia a Galileo hecha por Einstein tiene como finalidad
+=====================ALTERNATIVAS======================
+A) corroborar su planteamiento a partir de la historia de la ciencia.
+B) ejemplificar las consecuencias del empleo del método inductivo.
+C) convencer de su amplio manejo de las referencias históricas.
+D) incentivar el estudio de ciencias empíricas como la astronomía.
+E) negar el estatus de ciencia a la disciplina astronómica antigua.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La investigación de Galileo es un caso paradigmático del empleo de ideas
+preconcebidas, por ende sigue la dirección de la reflexión de Einstein.
+=====================PREGUNTA 7======================
+A lo largo del texto, la expresión VÍA PURAMENTE LÓGICA significa
+=====================ALTERNATIVAS======================
+A) alejarse completamente de la intuición.
+B) emplear el denominado método deductivo.
+C) ubicarse dentro de las ciencias formales.
+D) reemplazar la deducción por la inducción.
+E) generar un principio o axioma de la teoría.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+A lo largo del texto, la vía puramente lógica se opone al método inductivo y se coloca
+después de la intuición de la hipótesis; por ende, indica la deducción de
+consecuencias contrastables a partir de la hipótesis.
+=====================PREGUNTA 8======================
+Según Albert Einstein, el proceder científico en las ciencias empíricas puede ser
+esquematizado del siguiente modo:
+=====================ALTERNATIVAS======================
+A) Problema – hipótesis – ley científica - teoría científica.
+B) Inducción – hipótesis- contrastación – ley científica.
+C) Intuición – hipótesis – deducción – contrastación.
+D) Axioma – deducción – hipótesis – intuición.
+E) Teoría científica – hipótesis – intuición – deducción.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La concepción intuitiva lleva a la hipótesis. Luego se deducen consecuencias de la
+hipótesis que se deben comparar con la experiencia (contrastar).
+=====================PREGUNTA 9======================
+Resulta incompatible con lo sostenido por Einstein afirmar que
+=====================ALTERNATIVAS======================
+A) una teoría científica nunca puede ser calificada como verdadera.
+B) la intuición puede brindar un criterio de elección entre teorías.
+C) a partir del siglo XX se emplea el método hipotético deductivo.
+D) una teoría científica incluye un principio o sistema de axiomas.
+E) es imposible constituir una teoría únicamente desde la inducción.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Einstein menciona grandes progresos científicos desde la época de Galileo y Newton.
+=====================PREGUNTA 10======================
+Si los científicos solo procedieran inductivamente,
+=====================ALTERNATIVAS======================
+A) serían incapaces de lograr avances científicos.
+B) tendrían un manejo culto de la historia de la ciencia.
+C) podrían captar las grandes verdades del universo.
+D) emplearían sus conocimientos con fines bélicos.
+E) calificarían a la cosmología como ciencia empírica.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Toda persona culta sabe que los grandes progresos del conocimiento de la
+naturaleza han tenido todos ellos su origen de este modo, y que su fundamento es
+de naturaleza hipotética.
+=====================PREGUNTA 11======================
+La expresión OBJETIVOS ETERNOS es compatible con
+=====================ALTERNATIVAS======================
+A) la búsqueda constante e infructuosa de la verdad.
+B) la constante avidez por el poder de los políticos.
+C) el saneamiento moral de los científicos alemanes.
+D) la negación del empleo práctico del conocimiento.
+E) el sentimiento de superioridad de los científicos.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La silenciosa entrega a objetivos eternos, comunes a todas las culturas humanas,
+hace referencia a la investigación científica que, como se menciona líneas arriba,
+nunca podrá alcanzar la verdad.
+=====================PREGUNTA 12======================
+En última instancia, Einstein considera que su accionar como científico
+=====================ALTERNATIVAS======================
+A) está en las antípodas de toda reflexión política.
+B) puede tener influencia en el ámbito político.
+C) es fútil pues el universo es totalmente ininteligible.
+D) desdeña el empleo de hipótesis causales.
+E )implica un apoyo tácito al movimiento anarquista.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Con la silenciosa entrega a objetivos eternos, comunes a todas las culturas
+humanas, se puede hoy, de un modo más activo, ser útiles al saneamiento político
+que a través de los tratados y las profesiones de fe políticas.

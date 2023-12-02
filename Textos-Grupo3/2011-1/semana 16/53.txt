@@ -1,0 +1,22 @@
+ID: 53
+=====================TEXTO======================
+Habilidad Lógico Matemática
+=====================PREGUNTA 1======================
+1. En la figura se muestra el circuito de un velódromo, conformado por pistas
+circulares tangentes. Si el punto de partida es el punto P y el de llegada el punto Q,
+¿cuá ntas rutas distintas existen desde el punto P al punto Q, sin pasar dos veces
+por el mismo tramo?
+=====================ALTERNATIVAS======================
+A. 72
+B. 64
+C. 36
+D. 42
+E. 24
+=====================ALTERNATIVA CORRECTA======================
+A. 72
+=====================RAZONAMIENTO======================
+Nota: Tramo es la que tiene longitud positiva. Un punto no es tramo, puesto que
+tiene longitud cero.
+Número de rutas de P al punto de tangencia del cuello de la oruga: 3+3 = 6.
+Número de rutas del punto de tangencia del cuello de la oruga hasta
+Q: 6x6x2 = 72.

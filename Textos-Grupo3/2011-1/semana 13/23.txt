@@ -1,0 +1,19 @@
+ID: 23
+=====================TEXTO======================
+Habilidad Lógico Matemática
+=====================PREGUNTA 1======================
+1. El máximo número de trozos de papel que se puede obtener con cortes rectos en un
+papel, sin doblar, ni superponer, ni alinear en ningún momento es 37. ¿Cuántos
+cortes rectos se deben realizar?
+=====================ALTERNATIVAS======================
+A. 1
+B. 4
+C. 8
+D. 10
+E. 6
+=====================ALTERNATIVA CORRECTA======================
+C. 8
+=====================RAZONAMIENTO======================
+Número M áximo de Cortes en las condiciones pedidas: 1,2, 3, 4, … n
+Número de Trozos obtenidos : 2,4, 7, 11, … n(n + 1)/2 + 1
+Por lo tanto para 37 trozos : n(n + 1)/2 +1= 37

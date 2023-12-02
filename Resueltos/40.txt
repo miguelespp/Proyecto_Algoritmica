@@ -1,0 +1,76 @@
+ID: 40
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+I) El tifus es el g énero de enfermedades infecciosas, graves, con alta fiebre, delirio o postración, aparición de costras negras en la boca y a veces presencia de manchas punteadas en la piel. II) El tifus exantemático epidémico, también llamado tifus europeo o clásico, es el tipo más virulento de las tres clases de tifus que existen. III) El tifus europeo se ha presentado en forma de grandes epidemias durante tiempos de guerra o épocas en las que las condiciones higiénicas no eran buenas. IV) El tifus exantemático epidérmico es frecuente en países templados, y se conoce, comúnmente, como fiebre de la cárcel, fiebre del hambre, fiebre pútrida, fiebre hospitalaria, fiebre del campamento, o fiebre del barco. V) El tifus exantemático es causado por el bacilo Rickettsia prowa zecki y se trasmite por el piojo del cuerpo, y con menos frecuencia por el de la cabeza.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El tema es el tifus exantemático epidérmico. Se elimina la oración I por impertinencia.
+=====================PREGUNTA 2======================
+I) El Romanticismo fue un movimiento artístico e intelectual europeo que se extendió aproximadamente desde 1800 hasta 1850. II) El Romanticismo no puede ser identificado con un estilo singular, con una técnica o con una actitud. III) En pintura, el Romanticismo marcó un estilo imaginativo y subjetivo, intensidad emocional y un carácter visionario u onírico. IV) Mientras que el arte clásico y neoclásico es mesura, claro y completo en cuanto a la expresión, el arte romántico se caracteriza por esforzarse en expresar estados de ánimo, sentimientos muy intensos o místicos, así como por eludir la claridad y la definición. V) Entre los temas, el movimiento romántico mostró predilección por la naturaleza, especialmente en su aspecto más salvaje o misterioso, así como con asuntos exóticos, melancólicos o melodramáticos que producen miedo o pasión.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+El tema es rasgos generales del Romanticismo. Se elimina la oración III por impertinencia.
+=====================PREGUNTA 3======================
+I) Las mutaciones son a lteraciones producidas en la estructura o en el número de los genes o de los cromosomas de un organismo transmisible por herencia. II) La mayoría de las mutaciones suceden de forma natural; por ejemplo, cuando una célula se divide hace una copia de su ADN y, algunas veces, esa copia no es perfecta. III) Las mutaciones también pueden estar causadas por exposición a determinadas sustancias químicas o a la radiación. Estos agentes causan la degradación del ADN. IV) Las mutaciones pueden ser beneficiosas, neutras o dañinas para el organismo, pero las mutaciones no «intentan» proporcionar lo que el organismo «necesita». V) En mutaciones desventajosas actúa la selección natural para eliminarlas; por tanto, continuamente protege a la especie de la decadencia muta cional.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El tema es la piel de los mamíferos. Se elimina la oración V por redundancia. Se halla incluida en las oraciones II y III.
+=====================PREGUNTA 4======================
+I) La capa exterior de los mamíferos es la piel, un órgano elástico y flexible que se renueva continuamente. II) La piel cumple diversas funciones: protege ante daños de tipo mecánico, evita la invasión de gérmenes y regula la pérdida de calor y humedad del cuerpo. III) En muchos mamíferos, el color de la piel se confunde con el entorno donde habita el animal, de manera que le ofrece camuflaje y protección frente a los depredadores. IV) La piel también funciona como un órgano sensorial y excretor, pues contiene diferentes tipos de glándulas especializadas, como las glándulas mamarias. V) la piel es un recurso constitutivo de los mamíferos que les brinda una protección de enfermedades como de ataques.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la oración I por redundancia con las oraciones IV y V.
+=====================PREGUNTA 5======================
+I) Einstein tenía muy clara la diferencia entre validez y verdad, asumía la primera como el resultado de un proceso estrictamente racional II) Las observaciones de Einstein a la geometría euclidiana no ponen en duda la veracidad de sus proposiciones, simplemente la eliminan como verdad posible. III) Para constructos abstractos como la Geometría, Einstein propone usar el término validez, en lugar del término verdad. IV) La Geometría, según Einstein, al ser eminentemente racional no puede asumir la categoría de verdad dado que “la verdad” alude en última instancia a hechos. V) Para Einstein, la claridad de la diferencia salva a la Geometría en su uso cotidiano, pues la preserva como válida o parcialmente válida, pero nunca verdadera o falsa.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. II
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se elimina la oración I por redundancia con las oraciones IV y V.
+=====================PREGUNTA 6======================
+I) A Wellington no le acompañó la suerte hasta después de 1810, tuvo que presentarse ante un Tribunal de Guerra por permitir la huida de Junot. II) Wellington en su avance por Lisboa tuvo el apoyo de la guerrilla local lo que le aseguró la victoria. III) Wellington confrontó con José Bonaparte, quien tuvo que retirarse al norte de España donde sufrió dos terribles reveses. IV) Wellington lideró, por e l lado Británico la coalición que avanzó, a la par con el ejército alemán y ruso, hasta derrotar a Francia en Leipzig. V) Frente al Imperio de los Cien días, quién mejor que Wellington para liderar un ejército de aliados, fue él quien derrotó a Bonaparte definitivamente en Waterloo.
+=====================ALTERNATIVAS======================
+A. IV
+B. III
+C. II
+D. I
+E. V
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Se elimina la oración I por impertinencia. El tema gira entorno a las victorias
+o éxitos de Wellington y no la acusación que sufriera antes de 1810.

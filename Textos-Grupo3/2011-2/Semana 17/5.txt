@@ -1,0 +1,115 @@
+ID: 005
+=====================TEXTO======================
+Es sabido que la extensión de la lógica aristotélica ola lógica de "términos" a la
+lógica de proposiciones, se debe a los lógicos megáricos y, fundamentalmente, a los
+estoicos. La importancia de los logros de la lógica estoica es sintetizada por Benson
+Mates en el condicional contrafáctico (posiblemente) verdadero: "El período de vigencia
+de la lógica aristotélica habría sido más corto si ciertos textos de esta lógica se hubieran
+estudiado con más cuidado". En efecto, fueron Charles Peirce (1839-1914) y Jan
+Lukasiewicz (1878-1956) los primeros interesados en la versión de implicación dada por
+los estoicos. En general, se acepta que los estoicos, entre otros aportes fundamentales a
+la lógica, fueron los responsables de establecer, a partir del análisis de los enunciados
+condicionales, el significado de las conectivas proposicionales y la presentación de la
+lógica proposicional, bajo la forma de un sistema deductivo mediante el concepto de
+esquema de inferencia. La escuela estoica -tal como lo relata D. Sanford- remonta sus
+orígenes a Euclides de Megara, discípulo de Sócrates, quien, a su vez, tuvo como
+discípulo precisamente a Eubúlides de Mileto, conocido como el autor de la paradoja de
+Epiménides o del mentiroso. Otro de sus discípulos fue Trasymachus de Corintio, cuyo discípulo, Stilpo de Megara, fundó esta escuela en un pórtico o stoa. Entre los más
+destacados de esa escuela se encuentran Crisipo, Diodoro y su discípulo Filón de
+Megara. Son estos dos últimos a quienes se considera como los responsables de la
+caracterización estoica de los enunciados condicionales por sus valores de verdad y, en
+particular, de la hoy conocida implicación material.
+Según la interpretación usual de ciertos testimonios de Sexto Empírico, Diodoro
+tenía una concepción modal de los enunciados condicionales, la cual, aunque involucraba
+nociones temporales, expresaba una conexión necesaria entre el antecedente y el
+consecuente, la que se sintetiza en la siguiente definición:
+"Una proposición condicional es verdadera si y solo si, ni es ni fue posible que el
+antecedente sea (fuera) verdadero y el consecuente sea (fuera) falso".
+También dice Sexto Empírico que, para Filón, "un enunciado condicional es verdadero si y
+solo sino comienza con una verdad y termina con una falsedad", o sea, como aquel
+condicional que no tiene antecedente verdadero y consecuente falso. Más aún, el mismo
+Filón se encarga luego de dar los tres casos en que un condicional resulta verdadero y el
+único caso en que es falso. De esta forma completó la tabla de verdad y estableció la
+definición extensional o veritativo funcional del condicional material de la lógica actual.
+Para Kneale & Kneale los extraños ejemplos que Sexto atribuye a Filón hacen
+pensar que la intención de este era insistir en la propiedad esencial de los enunciados
+condicionales, según la cual, el enunciado condicional en conjunción con el antecedente
+implican el consecuente, dando de esta forma la primera formulación del Modus Ponens.
+Es importante destacar que, a través de los ejemplos dados por Filón, este no solo dio las
+condiciones de verdad del condicional material, sino que enumeró las cuatro
+combinaciones de valores de verdad, i.e., (VV), (FF), (FV),(VF), que se tornó convencional
+para su época y que continúa hasta nuestros días.
+Adaptado por el prof. Juan Carlos Huamancayo
+Gladys Palau. Lógicas condicionales y razonamiento de sentido común.
+=====================PREGUNTA 1======================
+La idea principal del texto afirma que
+=====================ALTERNATIVAS======================
+A) Peirce desarrolló la lógica de proposiciones tomando como base la lógica estoica.
+B) Filón de Megara fue un precursor en el desarrollo de las tablas de verdad.
+C) fundamentalmente, la lógica proposicional es una creación de los estoicos.
+D) la implicación es verdadera si comienza con una verdad y termina con una verdad.
+E) Sexto Empírico divulgó la lógica estoica desarrollada por Filón y Diodoro.
+=====================ALTERNATIVA CORRECTA=====================
+C) fundamentalmente, la lógica proposicional es una creación de los estoicos.
+=====================RAZONAMIENTO======================
+El texto empieza con la idea principal luego se explica los estudios realizados por los estoicos por lo que se les considera los iniciadores de la lógica proposicional.
+=====================PREGUNTA 2======================
+En el texto, el término NECESARIA tiene el sentido de
+=====================ALTERNATIVAS======================
+A) vital. 
+B) recurrente. 
+C) constante. 
+D) obligatoria. 
+E) azarosa.
+=====================ALTERNATIVA CORRECTA=====================
+D) obligatoria
+=====================RAZONAMIENTO======================
+expresaba una conexión necesaria entre el antecedente y el consecuente, es decir una conexión que de todas formas se tiene que dar u obligatoria.
+=====================PREGUNTA 3======================
+En el texto, el término CONVENCIONAL connota
+=====================ALTERNATIVAS======================
+A) conjetura. 
+B) contrato. 
+C) utilidad. 
+D) necesidad. 
+E) aceptación.
+=====================ALTERNATIVA CORRECTA=====================
+E) aceptación.
+=====================RAZONAMIENTO======================
+‘que se tornó convencional para su época’, es decir, todo el mundo lo aceptaba y hacia uso de ello.
+=====================PREGUNTA 4======================
+Marque la alternativa incompatible con el texto.
+=====================ALTERNATIVAS======================
+A) Lukasiewicz y Peirce fueron los primeros en presentar la lógica proposicional como un sistema deductivo.
+B) Eubúlides de Mileto es el autor de la paradoja de Epiménides o paradoja del mentiroso.
+C) Los estoicos más destacados fueron Crisipo, Diodoro y su discípulo Filón de Megara.
+D) Diodoro tenía una concepción modal de los enunciados condicionales con nociones temporales.
+E) Filón planteó los tres casos en que un condicional resulta verdadero y el único caso en que es falso.
+=====================ALTERNATIVA CORRECTA=====================
+A) Lukasiewicz y Peirce fueron los primeros en presentar la lógica proposicional como un sistema deductivo.
+=====================RAZONAMIENTO======================
+Se acepta que los estoicos fueron los responsables de establecer, a partir del análisis de los enunciados condicionales, el significado de las conectivas proposicionales y la presentación de la lógica proposicional, bajo la forma de un sistema deductivo mediante el concepto de esquema de inferencia.
+=====================PREGUNTA 5======================
+Se colige que, durante la vigencia de la escuela estoica,
+=====================ALTERNATIVAS======================
+A) la lógica de Aristóteles fue desplazada por la estoica.
+B) Crisipo y Diodoro ya habían aplicado el Modus Ponens
+C) casi todos sabían los valores de verdad del condicional.
+D) los estoicos desconocían los casos de falsedad del condicional.
+E) la forma de establecer las leyes lógicas era por inducción.
+=====================ALTERNATIVA CORRECTA=====================
+C) casi todos sabían los valores de verdad del condicional.
+=====================RAZONAMIENTO======================
+Filón enumero las 4 combinaciones de valores de verdad del condicional material que se tornó convencional para su época, es decir, todos lo conocían y lo aceptaban.
+=====================PREGUNTA 6======================
+Si la opinión de Kneale & Kneale sobre Filón fuese correcta, entonces
+=====================ALTERNATIVAS======================
+A) la definición del condicional de Filón y Diodoro serían idénticas.
+B) el condicional de Diodoro no tendría elementos temporales.
+C) Filón no habría dado las condiciones de verdad de la implicación.
+D) los valores de la implicación no habrían sido convencionales.
+E) Filón habría sido el primer filósofo en formular el Modus Ponens.
+=====================ALTERNATIVA CORRECTA=====================
+E) Filón habría sido el primer filósofo en formular el Modus Ponens.
+=====================RAZONAMIENTO======================
+Según Kneale y Kneale los extraños ejemplos que Sexto atribuye a Filón hacen pensar que la intención de este era insistir en la propiedad esencial de los enunciados condicionales, según la cual, el enunciado condicional en conjunción con el antecedente implica el consecuente, dando de esta forma la primera formulación del Modus Ponens.

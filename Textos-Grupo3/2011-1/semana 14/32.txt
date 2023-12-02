@@ -1,0 +1,124 @@
+ID: 32
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+1. Voluntad, antojo, capricho,
+=====================ALTERNATIVAS======================
+A. proceso.
+B. albedrío.
+C. disposición.
+D. sentencia.
+E. autoridad.
+=====================ALTERNATIVA CORRECTA======================
+B. albedrío.
+=====================RAZONAMIENTO======================
+Albedrío es antojo, capricho, voluntad de alguien.
+=====================PREGUNTA 2======================
+2. Afrontar, resistir, soportar,
+=====================ALTERNATIVAS======================
+A. desfigurar.
+B. domeñar.
+C. arrostrar.
+D. despachar.
+E. descubrir.
+=====================ALTERNATIVA CORRECTA======================
+C. arrostrar.
+=====================RAZONAMIENTO======================
+Arrostrar es hacer cara, resistir a los peligros.
+=====================PREGUNTA 3======================
+3. Apto, adecuado, apropiado,
+=====================ALTERNATIVAS======================
+A. idéntico.
+B. idóneo.
+C. probo.
+D. formal.
+E. exento.
+=====================ALTERNATIVA CORRECTA======================
+B. idóneo.
+=====================RAZONAMIENTO======================
+Idóneo es adecuado y apropiado para algo.
+=====================PREGUNTA 4======================
+4. Burdo, basto, grosero,
+=====================ALTERNATIVAS======================
+A. zafio.
+B. pelmazo.
+C. oscuro.
+D. estólido.
+E. abyecto.
+=====================ALTERNATIVA CORRECTA======================
+A. zafio.
+=====================RAZONAMIENTO======================
+Zafio es tosco, basto, grosero.
+=====================PREGUNTA 5======================
+5. Apostatar, dimitir, renegar,
+=====================ALTERNATIVAS======================
+A. redimir.
+B. eximir.
+C. abjurar.
+D. injuriar.
+E. exornar.
+=====================ALTERNATIVA CORRECTA======================
+C. abjurar.
+=====================RAZONAMIENTO======================
+Serie verbal cuyos términos se encuentran dentro del campo semántico de la renuncia.
+=====================PREGUNTA 6======================
+6. Excusa, efugio, evasiva,
+=====================ALTERNATIVAS======================
+A. óbice.
+B. acicate.
+C. infundio.
+D. subterfugio.
+E. contrición.
+=====================ALTERNATIVA CORRECTA======================
+D. subterfugio.
+=====================RAZONAMIENTO======================
+Serie verbal fundamentada en la sinonimia.
+=====================PREGUNTA 7======================
+7. Inercia, solicitud; trebejo, caballo; hosquedad, afabilidad;
+=====================ALTERNATIVAS======================
+A. estolidez, imbecilidad
+B. ajedrez, juego
+C. anfibio, rana.
+D. abyección, nobleza
+E. azulejo, alazán
+=====================ALTERNATIVA CORRECTA======================
+C. anfibio, rana.
+=====================RAZONAMIENTO======================
+Serie verbal analógica mixta: antonimia, hiperónimo -hipónimo, antonimia, 
+corresponde hiperónimo -hipónimo.
+=====================PREGUNTA 8======================
+8. Censurar, reprender, amonestar,
+=====================ALTERNATIVAS======================
+A. inquirir.
+B. congratular.
+C. deificar.
+D. importunar.
+E. reconvenir.
+=====================ALTERNATIVA CORRECTA======================
+E. reconvenir.
+=====================RAZONAMIENTO======================
+Serie verbal fundamentada en la sinonimia.
+=====================PREGUNTA 9======================
+9. Mentira, patraña, embuste,
+=====================ALTERNATIVAS======================
+A. infundio.
+B. reajuste.
+C. infortunio.
+D. gazapo.
+E. ficción.
+=====================ALTERNATIVA CORRECTA======================
+A. infundio.
+=====================RAZONAMIENTO======================
+El campo semántico de la mentira.
+=====================PREGUNTA 10======================
+10. Malignidad, envidia, odio,
+=====================ALTERNATIVAS======================
+A. miedo.
+B. verecundia.
+C. desdén.
+D. livor.
+E. astucia.
+=====================ALTERNATIVA CORRECTA======================
+D. livor.
+=====================RAZONAMIENTO======================
+El campo semántico de los malos sentimientos.

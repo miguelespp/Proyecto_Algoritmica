@@ -1,0 +1,91 @@
+SEMANA 15 C
+ELIMINACIÓN DE ORACIONES
+=====================TEXTO======================
+=====================PREGUNTA 1======================
+I) A finales del siglo XVIII, Lavoisier diseñó un experimento teniendo en cuenta que
+una consecuencia de la teoría del flogisto es que los cuerpos pierden materia al
+quemarse. II) De acuerdo con la teoría del flogisto, Lavoisier tendría que observar
+que el volumen de aire dentro de la campana debía aumentar como efecto de la
+asimilación de flogisto; no obstante, el experimento produjo los resultados opuestos.
+III) La teoría del flogisto, desarrollada durante el siglo XVIII por Stahl, explicaba la
+combustión atribuyendo a los cuerpos combustibles una sustancia, el flogisto, que
+éstos liberan al arder. IV) En su experimento, Lavoisier colocó una cantidad de
+sustancia combustible (mercurio) sobre un sólido flotante en agua y la encerró bajo
+una campana de cristal; luego encendió el mercurio. V) Lavoisier realizó un
+experimento empleando mercurio que produjo resultados contrarios a los que se
+estimaban a partir de la teoría del flogisto propuesta por Stahl en el siglo dieciocho.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Tema: El experimento de Lavoisier para refutar la teoría del flogisto. Se elimina la
+oración V por redundancia, pues está implícita en las demás oraciones.
+=====================PREGUNTA 2======================
+I) Durante los siglos XVIII y XIX la dinámica newtoniana se había aplicado desde sus
+inicios con éxito a la astronomía, aunque presentaba anomalías importantes. II)
+Algunos astrónomos conjeturaron que las deficiencias respecto a la órbita de Urano
+podían deberse a la presencia en sus alrededores de un astro de gran tamaño. III).
+El planeta Neptuno pudo descubrirse en el siglo XIX por una conjetura que intentaba
+resolver una aparente deficiencia dentro de la teoría newtoniana. IV) Una de las
+principales deficiencias de la teoría de Newton a mediados del siglo XIX era el de la
+órbita de Urano, que difería de los valores previstos por esa teoría física. V) En
+1846, Leverrier descubrió un nuevo planeta, Neptuno, en una posición y momento
+acordes con la órbita prevista por los que conjeturaron la presencia de otro astro.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Tema: El descubrimiento de Neptuno a partir de la teoría newtoniana. Se elimina la
+oración III por redundancia, pues está implícita en las demás oraciones.
+=====================PREGUNTA 3======================
+I) Entre los geólogos existía un considerable desacuerdo sobre la causa del
+calentamiento global que originó luego la extinción de los dinosaurios. II) Según una
+hipótesis opuesta a la del impacto, el calentamiento fue el resultado de un período
+de numerosas e intensas erupciones volcánicas. III) Los datos geológicos más
+recientes coinciden con las consecuencias contrastables deducidas a partir de la
+hipótesis del impacto. IV) Según una hipótesis, el origen del calentamiento global
+que extinguió a los dinosaurios fue el impacto de un enorme meteorito contra la
+Tierra. V) Hay acuerdo generalizado acerca de que los dinosaurios se extinguieron
+hace 65 millones de años por los efectos de un calentamiento global.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Tema: Las hipótesis sobre el calentamiento global que produjo la extinción de los
+dinosaurios. Se elimina la oración I por redundancia.
+=====================PREGUNTA 4======================
+I) Karl Raimund Popper nació en Viena, el 28 de julio de 1902 en una familia judía
+que se bautizó en la comunidad luterana deseando asimilarse a la sociedad
+mayoritariamente cristiana. II) El padre de Karl Popper era doctor en Derecho por la
+Universidad de Viena, además era un gran aficionado a la historia y a la filosofía. III)
+Las inquietudes filosóficas acompañaron a Karl Popper desde muy joven, quizá en
+parte por la influencia de su padre con quien discutía sobre cuestiones filosóficas.
+IV) Karl Popper siempre tuvo una profunda preocupación por los problemas
+filosóficos y sociales, siendo miembro de una asociación socialista marxista en el
+año 1918. V) La teoría filosófica de Popper surgió como una reacción a los
+planteamientos del positivismo lógico y del marxismo.
+=====================ALTERNATIVAS======================
+A) I 
+B) II 
+C) III 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Tema: Aspectos biográficos de Karl Popper. Se elimina la oración V por inatingencia.

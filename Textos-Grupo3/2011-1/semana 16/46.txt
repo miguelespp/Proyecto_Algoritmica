@@ -1,0 +1,90 @@
+ID: 46
+=====================TEXTO======================
+La relatividad general combina la dimensión temporal con las tres dimensiones
+espaciales para formar lo que se llama espacio -tiempo. La teoría incorpora los efectos
+de la gravedad, al afirmar que la distribución de materia y energía en el universo
+deforma y distorsiona el espacio -tiempo, de manera que ya no es plano. Los objetos
+intentan moverse en trayectorias rectilíneas en el espacio-tiempo, pero como este se
+encuentra deformado, sus trayectorias parecen curvadas: se mueven como si estuvieran
+afectados por un campo gravitatorio.
+Una tosca analogía de la situación, que no debemos tomar demasiado al pie de la
+letra, consiste en imaginar una lámina de goma. Podemos depositar sobre ella una bola
+grande que represente el Sol. El peso de la bola hundirá ligeramente la lámina y hará
+que esté curvada en las proximidades del Sol. Si ahora hacemos rodar pequeñas bolitas
+sobre la lámina, no la recorrerán en línea recta, sino que girarán alrededor de l objeto
+pesado, como los planetas orbitan alrededor del Sol.
+La analogía es incompleta porque en ella tan so lo está curvada una sección
+bidimensional (la superficie de la lámina de goma), pero el tiempo queda sin perturbar,
+como en la teoría newtoniana. Sin embargo, en la teoría de la relatividad, que concuerda
+con un gran número de experimentos, el tiempo y el espacio están inextricablemente
+entrelazados. No podemos curvar el espacio sin involucrar asimismo al tiempo. Por lo
+tanto, el tiempo adquiere una forma. Al curvar el tiempo y el espacio, la relatividad
+general los conviene en participantes dinámicos de lo que ocurre en el universo, en
+lugar de considerarlos como un mero escenario pasivo en que suceden los
+acontecimientos.
+=====================PREGUNTA 1======================
+1. Fundamentalmente, el texto anterior dilucida
+=====================ALTERNATIVAS======================
+A. los teoremas fundamentales del modelo de la relatividad universal.
+B. las semejanzas y diferencias entre la teoría newtoniana y la relatividad.
+C. la noción de espacio -tiempo en el nuevo marco de la relatividad general.
+D. la propiedad de la curvatura del espacio en la física contemporánea.
+E. el enfoque de San Agustín acerca de un inicio absoluto del mundo.
+=====================ALTERNATIVA CORRECTA======================
+C. la noción de espacio -tiempo en el nuevo marco de la relatividad general.
+=====================RAZONAMIENTO======================
+Desde el principio, el texto se centra en la novedad fundamental de la relatividad
+general: la idea del espacio -tiempo. En otros términos, la relación entre espacio y
+tiempo.
+=====================PREGUNTA 2======================
+2. En el texto, e l sentido de INEXTRICABLEMENTE es
+=====================ALTERNATIVAS======================
+A. complejamente. 
+B. arcanamente. 
+C. confusamente.
+D. inseparablemente.  
+E. sigilosamente.
+=====================ALTERNATIVA CORRECTA======================
+D. inseparablemente.  
+=====================RAZONAMIENTO======================
+En el marco de la relatividad, se habla de espacio-tiempo. Por ello, se trata de una unión
+inextricable en el sentido de inseparable.
+=====================PREGUNTA 3======================
+3. ¿Cuál de los enunciados es incompatible con el texto?
+=====================ALTERNATIVAS======================
+A. El universo de la relatividad generales claramente tetradimensional.
+B. Para Newton, el tiempo era absoluto y fluía independientemente.
+C. Si el espacio es curvo, se sigue necesariamente que el tiempo también lo es.
+D. La gravedad determina que los cuerpos se muevan de forma rectilínea .
+E. En el marco de la relatividad general, el tiempo tiene un carácter dinámico.
+=====================ALTERNATIVA CORRECTA======================
+D. La gravedad determina que los cuerpos se muevan de forma rectilínea .
+=====================RAZONAMIENTO======================
+Enunciado incompatible: la gravedad es efecto de la curvatura del espacio -tiempo.
+=====================PREGUNTA 4======================
+4. Se colige del texto que, para el autor, la relatividad generales
+=====================ALTERNATIVAS======================
+A. so lo una conjetura.
+B. una teoría problemática.
+C. una noción filosófica.
+D. un proyecto inconcluso.
+E. altamente corroborada.
+=====================ALTERNATIVA CORRECTA======================
+E. altamente corroborada.
+=====================RAZONAMIENTO======================
+Dado que concuerda con un gran número de experimentos, se puede colegir que es una
+teoría muy corroborada.
+=====================PREGUNTA 5======================
+5. Si el planeta Marte se mueve elípticamente, lo hace porque
+=====================ALTERNATIVAS======================
+A. tiene una tendencia al movimiento rectilíneo.
+B. la velocidad de la luz detiene su trayectoria.
+C. la gravedad determina un efecto de curvatura.
+D. el tiempo es un escenario libre e independiente.
+E. Dios no pudo hacer nada antes de la creación.
+=====================ALTERNATIVA CORRECTA======================
+C. la gravedad determina un efecto de curvatura.
+=====================RAZONAMIENTO======================
+Marte tiene una tendencia al movimiento rectilíneo, pero su movimiento finales curvo
+(por ejemplo, una elipse) porque el espacio -tiempo es curvo por los efectos de la
+gravedad .

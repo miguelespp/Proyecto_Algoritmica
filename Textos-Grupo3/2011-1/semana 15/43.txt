@@ -1,0 +1,88 @@
+ID: 43
+=====================TEXTO======================
+Es un día cualquiera del año 1 865. Un ilustre químico alemán de 36 años, Augusto
+Kekulé, da cabezadas en un sillón ubicado en el jardín de su casa. Sin embargo, ni siquiera
+entonces su cerebro se permite descansar.
+Hace ya varios años que ha tenido una idea que ha revolucionado la química en
+general y la orgánica en particular. Los químicos anteriores sabían que cada molécula
+estaba formada por un número determinado de átomos de cada elemento. Así, por ejemplo,
+el agua era H 2O y el metano, CH 4. Pero en 1852, el inglés Edward Frankland formula su
+teoría de las valencias, gracias a la cual averigua que cada átomo tiene una capacidad fija
+para combinarse con otros átomos, compartiendo electrones. Kekulé deduce
+inmediatamente que, si ello es así, las fórmulas compactas que hasta ahora identifican a las moléculas compuestas pueden ser representadas en dos dimensiones. Kekulé imagina
+también que el carbono es tetravalente, razón por la cual puede enlazarse con otros cuatro
+elementos para aglutinar complejas y grandes moléculas. Esto marca el nacimiento de la
+química orgánica.
+Lamentablemente, Kekulé no atina con la forma que puede tener un compuesto
+orgánico esencial: el benceno (C 6H6). Y ese es justamente el enigma que está dando
+vueltas y vueltas en su agitado duermevela. Pero, no en vano el químico alemán había
+querido ser arquitecto en su juventud. Eso significa que tiene una gran facilidad para
+representarse mentalmente estructuras espaciales. ¡De pronto, la solución estalla en su
+cabeza con total lucidez! En su sueño, como él mismo cuenta ,los átomos que están
+formando cadenas lineales intempestivamente se ponen a girar. Como una serpiente
+arquetípica, la cabeza de la cadena muerde su cola y se enrosca formando un círculo
+perfecto. El benceno aparece, entonces, como un anillo de átomos de carbono; o, mejor
+dicho, como un hexágono. Evidentemente, poco después, otros químicos comprenden que
+la excelente idea de Kekulé puede también dar lugar a estructuras tridimensionales.
+=====================PREGUNTA 1======================
+1. Medularmente, el texto se refiere al descubrimiento de
+=====================ALTERNATIVAS======================
+A. la te oría química de las valencias.
+B. la síntesis de la química orgánica.
+C. la estructura lineal de los compuestos.
+D. la estructura hexagonal del benceno.
+E. las estructuras químicas tridimensionales.
+=====================ALTERNATIVA CORRECTA======================
+D. la estructura hexagonal del benceno.
+=====================RAZONAMIENTO======================
+Se narra el sueño con el que Kekulé descubre la estructura en hexágono de un
+compuesto orgánico esencial: el benceno.
+=====================PREGUNTA 2======================
+2. A partir de la historia de Kekulé, se puede colegir plausiblemente que el
+descubrimiento científico
+=====================ALTERNATIVAS======================
+A. siempre es un proceso metódico y controlado.
+B. sólo es posible si se realiza entre sueños.
+C. implica a veces una actividad inconsciente.
+D. sólo se lleva a cabo en los laboratorios.
+E. no tiene nada que ver con la imaginación.
+=====================ALTERNATIVA CORRECTA======================
+C. implica a veces una actividad inconsciente.
+=====================RAZONAMIENTO======================
+Hay una dimensión onírica evidente en el caso del gran descubrimiento de Kekulé.
+=====================PREGUNTA 3======================
+3. La imagen onírica de una serpiente que muerde su cola representa
+=====================ALTERNATIVAS======================
+A. la estructura lineal de los compuestos.
+B. el enlace de los elementos en las moléculas.
+C. el número determinado de átomos de un elemento.
+D. la cantidad ilimitada de valencias del carbono.
+E. la fórmula y estructura química del metano.
+=====================ALTERNATIVA CORRECTA======================
+B. el enlace de los elementos en las moléculas.
+=====================RAZONAMIENTO======================
+El acto de mordedura, en el sueño, revela los enlaces de las moléculas del benceno.
+=====================PREGUNTA 4======================
+4. DAR VUELTAS Y VUELTAS connota
+=====================ALTERNATIVAS======================
+A. método científico.
+B. obsesión insana.
+C. caminata fatigante.
+D. pesadilla infernal.
+E. extrema curiosidad.
+=====================ALTERNATIVA CORRECTA======================
+E. extrema curiosidad.
+=====================RAZONAMIENTO======================
+Es un enigma que tiene la máxima atención, tanto que se piensa entre sueños.
+=====================PREGUNTA 5======================
+5. La teoría de las valencias torna implausible la idea
+=====================ALTERNATIVAS======================
+A. del benceno como un hexágono.
+B. de la cadena lineal de átomos.
+C. de la estructura t ridimensional.
+D. de la tetravalencia del carbono.
+E. del enlace de los átomos.
+=====================ALTERNATIVA CORRECTA======================
+B. de la cadena lineal de átomos.
+=====================RAZONAMIENTO======================
+Invalida cualquier posibilidad.

@@ -1,0 +1,177 @@
+ID: 49
+=====================TEXTO======================
+Tradicionalmente, la descripción de las bases anatómicas del lenguaje ha estado
+ligada al análisis de patologías caracterizadas por trastornos lingüísticos de diversa
+naturaleza y cuyo origen se encontraba en la presencia de lesiones cerebrales de
+extensión y localización variadas. Este tipo de estudios presentaba la limitación evidente
+que entrañaba el hecho de que esta clase de lesiones cuenta generalmente con un
+tamaño y un alcance aleatorios, pudiendo afectar a áreas implicadas en diferentes
+procesos (lingüísticos o no), lo que puede dificultar la correcta interpretación de los
+síntomas observados. Con todo, este tipo de estudios permitió establecer una dicotomía
+fundamental en lo que atañe a la organización de los centros lingüísticos cerebrales, que
+implicaría la existencia de una región anterior, involucrada en la representación motora
+de las palabras, y una región posterior, donde se localizaría la interpretación auditiva de
+las mismas, la cual proviene de los trabajos seminales de Wernicke y Lichteim,
+realizados a fines del siglo XIX. De un modo u otro, esta dicotomía ha estado presente
+hasta la actualidad en la descripción neuroanatómica del lenguaje, si bien se ha
+terminado res olviendo en una distinción anatómica entre una región anterior, implicada
+en el procesamiento sintáctico, y una posterior, responsable del procesamiento
+semántico, conforme se ha ido incorporando un cúmulo cada vez mayor de evidencias
+que han permitido per filar con mayor exactitud los síndromes disfásicos asociados a la
+disfunción de cada una de dichas regiones.
+Este modelo decimonónico habría sufrido a lo largo del siglo pasado solo ligeras
+modificaciones, de manera que, en una aproximación convencional, mantenida aún hoy
+por ciertos autores, el lenguaje sería el resultado de la actividad cognitiva ligada a
+determinados circuitos neuronales localizados en tres áreas cerebrales concretas del
+hemisferio izquierdo: el área de Broca, situada en el lóbulo frontal inferior y encargada
+de la organización sintáctica y la ejecución motora del habla; el área de Wernicke,
+localizada en la confluencia de los lóbulos parietal y temporal, e implicada en el
+procesamiento semántico; y, finalmente, la circunvolución angular ,que se ocuparía de la
+fonología y de la decodificación de los grafemas en fonemas durante el proceso de la
+lectura. También, se ha sugerido que determinadas zonas subcorticales, como los
+ganglios basales, y la porción anterior de la circunvolución del cí ngulo , podrían
+desempeñar un papel auxiliar .
+Este modelo tradicional ha comenzado a cuestionarse debido a los resultados
+obtenidos mediante dos aproximaciones analíticas diferentes a la cuestión de la
+caracterización anatómica y funcional de los centros c erebrales encargados del
+procesamiento del lenguaje.
+Por un lado, han comenzado a realizarse análisis neuroanatómicos y conductuales
+individualizados de pacientes disfásicos, atendiendo especialmente a la caracterización
+específica de los déficits lingüísticos que presentan cada uno de ellos, prefiriendo evitar
+una aproximación clínica tradicional, basada en la definición de un síndrome como
+resultado de la hemogeneización de los trastornos observados en un conjunto de
+individuos afectados y en la adscripción de cada paciente a cada una de las categorías
+clínicas así definidas. Esta aproximación metodológica ha permitido establecer de forma
+progresiva que (i) los déficits lingüísticos tradicionalmente asociados a las afasias típicas se deberían realmente a la disfunción de áreas corticales más extensas de lo creído
+inicialmente, tanto en el caso del área de Broca como en la de Wernicke, de forma que,
+por ejemplo, las dificultades de comprensión que generalmente caracterizan a la afasia
+de Wernicke podrían d eberse realmente a la interrupción de procesos neurolingüísticos
+de naturaleza fonética, fonológica y semántica, que presumiblemente implicarían a
+circuitos neuronales localizados en diferentes regiones corticales contiguas a la de  Wernicke; (ii) los aspectos lingüísticos característicos de dichos trastornos afásicos
+parecen ser, al mismo tiempo, el resultado de un déficit más selectivo de lo esperado en
+relación con ciertos componentes del lenguaje, de manera que la afasia de Broca
+entrañaría específicamente un disfunción de determinados mecanismos implicados en
+aspectos concretos de la composición y la producción sintácticas; y (iii) los síntomas
+asociados tradicionalmente a la disfunción de las áreas de Broca y Wernicke podrían no
+relacionarse de forma un ívoca (y exclusiva) con dichas regiones, en el sentido de que,
+por ejemplo, se ha constatado la existencia de determinados problemas de comprensión
+de índole sintáctica en pacientes afectados por la afasia de Wernicke.
+Por otro lado, la utilización de té cnicas de análisis no invasivo, como la tomografía
+por emisión de positrones (PET), la obtención de imágenes mediante resonancia
+magnética nuclear (fMRI), la medición de potenciales cerebrales relacionados con
+eventos (ERPs), la electroencefalografía (EEG) ola magnetoencefalografía (MEG), ha
+proporcionado una información adicional, y sobre todo mucho más precisa, a la obtenida
+a partir del análisis anatómico y conductual de individuos afectados por algún tipo de
+trastorno lingüístico, a pesar de las dificultades que entraña en ocasiones el diseño de
+tareas experimentales que permitan aislar funciones cognitivas específicas mediante
+esta metodología. La mayoría de estas técnicas (y, en particular, la PET y la fMRI) se
+basan en el presupuesto de que un incremento en la actividad neuronal de una
+determinada región cerebral, como consecuencia de su participación en alguna tarea
+relacionada con el procesamiento de información lingüísticamente relevante, implica un
+aumento paralelo del flujo sanguíneo hacia dicha zona, con objeto de garantizar un
+adecuado suministro de oxígeno y de nutrientes, que sea capaz de sostener el
+incremento de actividad metabólica asociado a dicha actividad. La conclusión
+fundamental obtenida a partir de los estudios realizados mediante es te tipo de técnicas
+es sustancialmente la misma, a saber, que los centros encargados del procesamiento
+del lenguaje no son homogéneos, sino que se organizarían como una red difusa de
+subcentros responsables del procesamiento de componentes específicos del lenguaje . A
+grandes rasgos, estos subcentros neuronales pueden describirse con mayor propiedad
+en términos de su especialización lingüística, de manera que los distintos componentes
+del lenguaje (fonología, semántica, sintaxis) cuentan grosso modo con un c orrelato
+estructural, pero sobre todo funcional, en lo que atañe a la organización del córtex
+cerebral. Y lo que es aún más significativo: cada uno de estos procesos lingüísticos
+puede fraccionarse, en el sentido de que áreas diferentes se encargarían de a spectos
+distintos de los mismos.
+=====================PREGUNTA 1======================
+1. En el texto, SEMINAL quiere decir
+=====================ALTERNATIVAS======================
+A. fecundo.
+B. ubérrimo.
+C. concluyente.
+D. fundador.
+E. coyuntural.
+=====================ALTERNATIVA CORRECTA======================
+D. fundador.
+=====================RAZONAMIENTO======================
+Se habla de trabajos seminales como los que fundaron el conocimiento sobre las áreas
+del lenguaje.
+=====================PREGUNTA 2======================
+2. ¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A. El análisis de las técnicas no invasivas sobre el cerebro.
+B. La localización neuroanatómica de las zonas lingüísticas.
+C. La complejidad de las afasias de Broca y de Wernicke.
+D. Las patologías del lenguaje y su relación con la neurología.
+E. La función y naturaleza de la región ventral de los lóbulos.
+=====================ALTERNATIVA CORRECTA======================
+B. La localización neuroanatómica de las zonas lingüísticas.
+=====================RAZONAMIENTO======================
+Se discute el modelo decimonónico y las revisiones contemporáneas sobre la
+localización en el cerebro de las zonas del lenguaje. 
+=====================PREGUNTA 3======================
+3. Se deduce que un paciente clásico con afasia de Broca puede mostrar
+=====================ALTERNATIVAS======================
+A. varias anomalías en la interpretación de los diversos mensajes.
+B. una falta de comprensión de todo lo que se le suele comunicar.
+C. graves deficiencias en la articulación de lo que quiere decir.
+D. una tendencia a crea r oraciones con varias incrustaciones.
+E. serios problemas en la selección de los adjetivos y sustantivos.
+=====================ALTERNATIVA CORRECTA======================
+C. graves deficiencias en la articulación de lo que quiere decir.
+=====================RAZONAMIENTO======================
+El área de Broca es responsable de la producción del habla.
+=====================PREGUNTA 4======================
+4. Resulta incompatible con el texto decir que las conclusiones de los estudios
+realiza dos con PET sugieren que
+=====================ALTERNATIVAS======================
+A. el modelo lingüístico decimonónico no es completamente verdadero.
+B. el córtex cerebral está implicado en el procesamiento lingüístico.
+C. los denominados centros del lenguaje no son homogéneos.
+D. un incremento de la actividad neuronal entraña más flujo sanguíneo.
+E. el área de Broca carece de relación con el uso del lenguaje.
+=====================ALTERNATIVA CORRECTA======================
+E. el área de Broca carece de relación con el uso del lenguaje.
+=====================RAZONAMIENTO======================
+Las nuevas técnicas como la PET nos dan una mirada más compleja, pero no han
+establecido la total falsedad de las áreas tradicionales como la de Broca ola de
+Wernicke.
+=====================PREGUNTA 5======================
+5. Siguiendo el modelo clásico, si una persona tuviera fallas en la circunvolución
+angular, evidenciaría problemas
+=====================ALTERNATIVAS======================
+A. sintácticos.
+B. léxicos .
+C. semánticos.
+D. de articulación.
+E. de lectura.
+=====================ALTERNATIVA CORRECTA======================
+E. de lectura.
+=====================RAZONAMIENTO======================
+Esa región se ocupa de la decodificac ión de los grafemas en fonemas.
+=====================PREGUNTA 6======================
+6. Se colige que una de las principales innovaciones de las nuevas técnicas no
+invasivas (PET, fMRI, ERPs, etc.) consiste en
+=====================ALTERNATIVAS======================
+A. describir neuroanatómicamente el área de Wernicke y de Broca.
+B. poder estudiar la conducta lingüística se hablantes normales.
+C. curar definitivamente a los afásicos de Broca y de Wernicke.
+D. demostrar que el lenguaje reside en el hemisferio derecho.
+E. predecir cabalmente la ocurrencia de varios déficits verbales.
+=====================ALTERNATIVA CORRECTA======================
+B. poder estudiar la conducta lingüística se hablantes normales.
+=====================RAZONAMIENTO======================
+Al ser no invasiva, la técnica se puede aplicar a estudiar lo que pasa en el cerebro
+cuando un hablante normal utiliza el lenguaje.
+=====================PREGUNTA 7======================
+7. Si un médico observara que un paciente tipificado como afásico de Broca exhibe
+problemas de concordancia,
+=====================ALTERNATIVAS======================
+A. habría descubierto un nuevo tipo de disfasia en el lenguaje.
+B. podría explicar un mayor flujo sanguíneo en todo el cerebro.
+C. podría entender ese hecho en términos del modelo tradicional.
+D. debería concluir que padece, realmente, de afasia de Wernicke.
+E. también pronosticaría se rios problemas en palabras compuestas.
+=====================ALTERNATIVA CORRECTA======================
+C. podría entender ese hecho en términos del modelo tradicional.
+=====================RAZONAMIENTO======================
+Sería una predicción del modelo tradicional.

@@ -1,0 +1,95 @@
+ID: 014
+=====================TEXTO======================
+Advertí que, respecto de la lógica, sus silogismos y la mayor parte de sus instrucciones sirven para explicar a otro las cosas que uno ya sabe (o aun, como el arte
+de Raimundo Lulio, para hablar sin juicio de aquellas que uno ignora) que para
+aprenderlas. Y aunque realmente contenga preceptos muy buenos, están mezclados con
+tantos otros que son nocivos y superfluos; de modo que separarlos es casi tan difícil como
+sacar una Diana o una Minerva de un bloque de mármol todavía sin esbozar. Luego,
+respecto del análisis de los antiguos y del álgebra de los modernos (aparte de que se
+aplican a materias muy abstrusas y que no parecen de utilidad alguna), el primero está
+siempre supeditado a la consideración de las figuras que no puede ejercitar el
+entendimiento sin cansar mucho la imaginación; y, en la última, uno está sometido a
+tantas reglas y a tantas cifras, que se ha hecho de ellas un arte confuso y oscuro que
+entorpece el espíritu en lugar de ser una ciencia que lo cultive.
+Todo lo anterior fue la causa de que yo pensara que era preciso buscar otro método
+que, abarcando las ventajas de esos tres, estuviera exento de sus defectos. Y como la
+multitud de leyes sirve a menudo de excusa para los vicios, en lugar de ese gran número
+de preceptos de que se compone la lógica, creí que me bastarían los cuatro siguientes, a
+condición de que tomara una firme y constante resolución de no dejar de cumplirlos ni una
+sola vez.
+El primero consistía en no admitir jamás nada por verdadero que yo no conociera
+que evidentemente era tal; es decir, evitar minuciosamente la precipitación y la
+prevención, y no abarcar en mis juicios nada más que lo que se presentara tan clara y
+distintamente en mi espíritu que no tuviera ocasión de ponerlo en duda.
+El segundo, en dividir cada una de las dificultades que examinara en tantas partes
+como fuera posible y necesario para mejor resolverlas.
+El tercero, en conducir por orden mis pensamientos comenzando por los objetos
+más simples y más fáciles de conocer, para subir poco a poco, como por grados, hasta el
+conocimiento de los más compuestos, y suponiendo un orden aun entre aquellos que no
+se preceden naturalmente unos a otros.
+Y el último, en hacer en todo enumeraciones tan completas y revisiones tan
+generales que tuviese la seguridad de no omitir nada.
+René Descartes: Discurso del método (fragmento)
+=====================PREGUNTA 1======================
+En el texto, el sentido de ABSTRUSA es
+=====================ALTERNATIVAS======================
+A) abstracta.
+B) contradictoria. 
+C) paradójica.
+D) difusa. 
+E) superflua.
+=====================ALTERNATIVA CORRECTA=====================
+A) abstracta. 
+=====================RAZONAMIENTO======================
+La calidad de abstrusa implica un alto nivel de abstracción.
+=====================PREGUNTA 2======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A) El poder de la deducción en el pensamiento.
+B) La lógica y las demostraciones filosóficas.
+C) La duda en la fijación de las creencias.
+D) La naturaleza de la geometría racional.
+E) La búsqueda de la verdad en las ciencias.
+=====================ALTERNATIVA CORRECTA=====================
+E) La búsqueda de la verdad en las ciencias.
+=====================RAZONAMIENTO======================
+Se estipula un método en la persecución de la verdad.
+=====================PREGUNTA 3======================
+Con respecto al arte de Lulio, Descartes profiere un juicio
+=====================ALTERNATIVAS======================
+A) ambivalente. 
+B) laudatorio. 
+C) amable.
+D) lapidario.
+E) sumario.
+=====================ALTERNATIVA CORRECTA=====================
+D) lapidario. 
+=====================RAZONAMIENTO======================
+Es muy crítico con este arte y lo denuesta fuertemente.
+=====================PREGUNTA 4======================
+Se puede deducir que el segundo precepto del método indagatorio cartesiano es de índole
+=====================ALTERNATIVAS======================
+A) sintética. 
+B) analítica.
+C) algebraica.
+D) empírica. 
+E) enumerativa.
+=====================ALTERNATIVA CORRECTA=====================
+B) analítica. 
+=====================RAZONAMIENTO======================
+El precepto radica en dividir cada una de las dificultades que examinara en tantas
+partes como fuera posible y necesario para mejor resolverlas.
+=====================PREGUNTA 5======================
+Si un aserto fuese indubitable, Descartes lo consideraría
+=====================ALTERNATIVAS======================
+A) evidente. 
+B) superfluo. 
+C) paradójico.
+D) precario. 
+E) ilógico.
+
+=====================ALTERNATIVA CORRECTA=====================
+A) evidente.  
+=====================RAZONAMIENTO======================
+Para Descartes la evidencia se caracteriza por la carencia de hesitación.
+

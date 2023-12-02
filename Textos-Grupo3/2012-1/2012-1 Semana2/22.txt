@@ -1,0 +1,52 @@
+ID: 022
+=====================TEXTO======================
+Los ítems de series verbales miden la capacidad semántica del estudiante. Esta aptitud se concreta en el establecimiento de asociaciones léxicas gobernadas por ciertas
+leyes de pensamiento. Dado e l desarrollo lexical del hablante, estará en condiciones de determinar diferentes y creativos engarces semánticos entre palabras. Por ejemplo, la palabra ‘guerra’ se asocia naturalmente con ‘acorazado’, y no con ‘yate’ o ‘crucero’.
+=====================PREGUNTA 1======================
+Luctuoso, deplorable, triste,
+=====================ALTERNATIVAS======================
+A) macilento. 
+B) pérfido. 
+C) aciago.
+D) sucinto. 
+E) prolijo.
+=====================ALTERNATIVA CORRECTA=====================
+C) aciago.
+=====================RAZONAMIENTO======================
+Serie basada en la sinonimia.
+=====================PREGUNTA 2======================
+Belicoso, pugnaz; felón, pérfido; tímido, timorato;
+=====================ALTERNATIVAS======================
+A) diligente, negligente 
+B) perspicuo, diáfano
+C) prístino, reciente 
+D) temerario, receloso
+E) bisoño, experto
+=====================ALTERNATIVA CORRECTA=====================
+B) perspicuo, diáfano
+=====================RAZONAMIENTO======================
+Serie de pares sinonímicos.
+=====================PREGUNTA 3======================
+Acróbata, equilibrio; científico, objetividad; artista, creatividad;
+=====================ALTERNATIVAS======================
+A) abogado, impericia 
+B) filósofo, dogmatismo
+C) monje, sensibilidad 
+D) chofer, temeridad
+E) orador, elocuencia
+=====================ALTERNATIVA CORRECTA=====================
+E) orador, elocuencia
+=====================RAZONAMIENTO======================
+Serie verbal que presenta la relación agente -característica definitoria.
+=====================PREGUNTA 4======================
+Marque la serie verbal formada exclusivamente por sinónimos.
+=====================ALTERNATIVAS======================
+A) Cáustico, mordaz, solemne
+B) Sumiso, obsecuente, obcecado
+C) Inexperto, neófito, novel
+D) Veleidoso, voluble, inmutable
+E) Truhan, rústico, chabacano
+=====================ALTERNATIVA CORRECTA=====================
+C) Inexperto, neófito, novel
+=====================RAZONAMIENTO======================
+Son sinónimos que corresponden al campo semántico de la inexperiencia.

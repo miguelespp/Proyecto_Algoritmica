@@ -5,7 +5,6 @@ interfaz\selecciona_Grupo$3.class
 interfaz\NuevoEjercicio2$3.class
 interfaz\crear_Grupo.class
 interfaz\Principal_Estudiante$1.class
-interfaz\TextAreaRenderer.class
 tablaModificada\TablaModificada.class
 interfaz\ProfesorGruposEstadisticas.class
 interfaz\FiltroCuestionario.class
@@ -31,6 +30,7 @@ interfaz\FiltroTexto$1.class
 Proyecto\EstadisticasGrupo.class
 interfaz\Bienvenido$1.class
 interfaz\Principal_Estudiante$2.class
+interfaz\crear_Grupo$3.class
 interfaz\iniciar_Sesion$2.class
 interfaz\Registrar$3.class
 Proyecto\Grupo.class
@@ -52,7 +52,6 @@ interfaz\Bienvenido.class
 interfaz\Registrar_Estudiante.class
 Proyecto\Profesor.class
 interfaz\ProfesorGrupos.class
-interfaz\FiltroTexto$5.class
 interfaz\ProfesorGrupos$1.class
 interfaz\crear_Grupo$1.class
 interfaz\iniciar_Sesion$1.class
@@ -64,6 +63,7 @@ Proyecto\Estadisticas.class
 interfaz\FiltroTexto$3.class
 interfaz\selecciona_Grupo$4.class
 interfaz\Registrar_Profesor$1.class
+interfaz\crear_Grupo$2.class
 interfaz\ProfesorGruposEstadisticas$2.class
 interfaz\Principal_Profesor$1.class
 interfaz\Principal_Profesor$5.class

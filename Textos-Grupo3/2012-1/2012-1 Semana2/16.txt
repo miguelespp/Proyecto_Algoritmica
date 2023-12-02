@@ -1,0 +1,26 @@
+ID: 016
+=====================TEXTO======================
+La función de los autómatas o computadoras automáticas es, tal como su nombre lo
+indica, realizar cálculos. Incluso los autómatas utilizados en procesos de control, como
+dirigir un fuego antiaéreo o llevar una refinería de petróleo, son en realidad computadoras
+en las que las funciones de control que ejercen son fundamentalmente resultados de
+cálculos. Por ejemplo, la capacidad del cañón previsor de fuego antiaéreo para dirigir a
+este hacia su blanco se deriva de la posibilidad de calcular el futuro lugar del avión y del
+proyectil por medio de la resolución de ecuaciones simultáneas. En todos los casos vistos,
+tanto cuando se trata de simples cálculos puros como cuando se intenta ejercer un control
+por medio del cálculo, la entrada estará constituida por los datos del problema numérico a
+resolver y la salida por el resultado al que se llegue a través de la manipulación de la
+información recibida.
+=====================PREGUNTA 1======================
+¿Cuál es la idea medular del texto?
+=====================ALTERNATIVAS======================
+A) El término ‘computadora’ alude a una continua operación de cálculo.
+B) La capacidad de los autómatas depende de ecuaciones muy rigurosas.
+C) Las computadoras automáticas se emplean en situaciones de control.
+D) Las computadoras automáticas llevan a cabo muchas aplicaciones.
+E) Los autómatas son máquinas cuya función es realizar cálculos.
+=====================ALTERNATIVA CORRECTA=====================
+E) Los autómatas son máquinas cuya función es realizar cálculos.
+=====================RAZONAMIENTO======================
+El texto establece analíticamente su idea principal: la función de las computadoras
+automáticas o autómatas es realizar cálculos, incluso en acciones de control.

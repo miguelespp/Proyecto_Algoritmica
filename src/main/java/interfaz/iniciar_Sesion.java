@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  * @author PC
  */
 public class iniciar_Sesion extends javax.swing.JFrame {
-    private Usuario intentoSesion = new Usuario();
+    public  Usuario intentoSesion = new Usuario();
     /** 
      * Creates new form iniciar_Sesion
      */

@@ -1,0 +1,97 @@
+ID: 011
+=====================TEXTO======================
+Peter Fromherz ha ideado la computadora biológica como Sapiens biónico. Él ha conectado una neurona de sanguijuela y un chip de silicio y ha logrado establecer una comunicación entre la materia viva y la materia inanimada electrónica. La neurona se mantiene viva en su líquido fisiológico y extiende las dendritas –es decir, sus ramificaciones – en el circuito integrado. Y, al ser sometida a un pequeño campo eléctrico, reacciona emitiendo una señal eléctrica que es detectada y recogida por el propio chip en el que reposa. Fromherz utiliza neuronas de sanguijuela porque son fácilmente manipulables genéticamente para que sobrevivan durante dos semanas sobre el silicio. Y, para hacerlas activas, impregna la placa electroquímica con laminina, una sustancia que incita a las neuronas a que busquen el contacto con el circuito integrado. Este profesor alemán busca multiplicar la potencia de las actuales computadoras, porque, aunque su capacidad, precisión y velocidad sean impresionantes, los informáticos las consideran aún escasas y lentas, y quieren ir mucho más lejos: construir una máquina cuyo poder de procesamiento y agilidad se aproximen a los del cerebro, que en el caso del de un perro, por ejemplo, es capaz de reconocer a su amo en unas millonésimas de segundo. Y en el hombre, simplemente cuando se identifica a una persona, realiza en unos microsegundos miles de millones de operaciones distintas. Ambos resultados sobrepasan con creces la capacidad de las mejores computadoras, que deberían dar un salto cuantitativo gigantesco y precisarían multiplicar enormemente su poder. Es cierto que hoy pueden hacer mil millones de operaciones en un segundo, pero todavía están muy lejos de los diez trillones que realiza el cerebro en el mismo tiempo. Y simplemente acercarse a una capacidad de procesamiento como esta –no hablamos ya de alcanzarla – resulta imposible con las actuales computadoras, debido a que tienen unas limitaciones que nacen del propio silicio, pues la progresiva miniaturización de las pistas de los circuitos está a punto de llegar a la frontera física que impedirá integrar más los circuitos. La microelectrónica convencional va a alcanzar muy pronto la llamada barrera infranqueable del silicio establecida en 0.05 micrómetros, porque por debajo de esta medida los principios de la física convencional quedan invalidados y comienzan a producirse efectos cuánticos que alteran los resultados. Y cuando los transistores tengan dimensiones moleculares –hoy existen chips que contienen 16 millones de conmutadores –, ya no podrán ser más pequeños. Se trabaja ya con moléculas de organismos vivos para que realicen operaciones informáticas: únicos soportes susceptibles de sustituir al silicio. Se busca lograr la computadora que habrá que construirse con materia orgánica; se compondrá de neuronas naturales insertadas en un circuito electrónico. Será un cerebro artificial más inteligente que el humano. La investigación bioinformática se basa en dos frentes: por un lado, conseguir la unión entre una neurona y las microestructuras de silicio y, por otro, cultivar redes neuronales naturales en diferentes soportes. Así, el componente electrónico de Fromherz abarca los dos campos de estudio; “y ahora estamos desarrollando con Siemens un nuevo componente de 2024 transistores sobre el que pondremos redes de neuronas”, dice el científico alemán. La unión entre el chip y la neurona por ahora dura sólo dos semanas. De ahí que otro reto de los investigadores es conseguir que la asociación entre la materia viva y la electrónica sea permanente. Cuando esta unión sea posible las computadoras tendrán una capacidad casi ilimitada, pues “el contacto de unos días con una sola neurona no tiene que ver con un contacto estable a largo plazo entre millones de neuronas”, agrega Fromherz.
+
+=====================PREGUNTA 1======================
+El texto gira entorno a
+=====================ALTERNATIVAS======================
+A) la miniaturización del chip hasta 0.05 micrómetros.
+B) una propuesta bioinformática revolucionaria.
+C) la comparación de la computadora con el cerebro.
+D) la complejidad de todos los circuitos de silicio.
+E) el poco tiempo de vida de la neurona en el silicio.
+=====================ALTERNATIVA CORRECTA=====================
+B) una propuesta bioinformática revolucionaria.
+=====================RAZONAMIENTO======================
+En la medida en que rompe con el patrón que viene siendo utilizado en la informática y que consiste básicamente en la miniaturización de las pistas de los circuitos, se trata de una propuesta revolucionaria.
+=====================PREGUNTA 2====================== 
+El hecho de que Fromherz use neuronas de sanguijuela se debe a una razón de tipo
+=====================ALTERNATIVAS======================
+A) teórico. 
+B) económico. 
+C) contingente.
+D) reivindicativo. 
+E) pragmático.
+=====================ALTERNATIVA CORRECTA=====================
+E) pragmático.
+=====================RAZONAMIENTO======================
+Se señala en el texto que se usa neuronas de sanguijuela porque son fácilmente manipulables, es decir, se trata de una opción práctica.
+=====================PREGUNTA 3======================
+En el tercer párrafo, el vocablo PODER significa
+=====================ALTERNATIVAS======================
+A) capacidad.
+B) sistema. 
+C) fuerza. 
+D) estructura. 
+E) virtualidad.
+=====================ALTERNATIVA CORRECTA=====================
+A) capacidad.
+=====================RAZONAMIENTO======================
+En el texto se habla de una máquina que se aproxime al “poder de procesamiento” del cerebro biológico, o sea, a la capacidad de procesamiento.
+=====================PREGUNTA 4======================
+Se colige del texto que la progresiva miniaturización de los chips busca
+=====================ALTERNATIVAS======================
+A) haceres más manipulables las computadoras digitales.
+B) asegurar la confiabilidad de las operaciones numéricas.
+C) imitar el modo de trabajo de las dendritas en el cerebro.
+D) crear un cerebro biológico con una inteligencia superior.
+E) incrementar la velocidad del procesamiento informático.
+=====================ALTERNATIVA CORRECTA=====================
+E) incrementar la velocidad del procesamiento informático.
+=====================RAZONAMIENTO======================
+La miniaturización de las pistas de los circuitos hace posible la integración de los mismos, lo que a su vez incrementa la velocidad de procesamiento.
+=====================PREGUNTA 5======================
+El verbo PRECISAR tiene el sentido contextual de
+=====================ALTERNATIVAS======================
+A) definir. 
+B) necesitar. 
+C) disponer. 
+D) desarrollar. 
+E) producir.
+=====================ALTERNATIVA CORRECTA=====================
+B) necesitar.  
+=====================RAZONAMIENTO======================
+En el texto se lee que “precisarían multiplicar enormemente su poder”, luego el sentido contextual se refiere a un requerimiento. =====================PREGUNTA 6======================
+Es compatible con el texto afirmar que
+=====================ALTERNATIVAS======================
+A) la miniaturización del chip ya ha llegado a un límite infranqueable.
+B) la bioinformática puede dotar al ordenador de una mayor capacidad.
+C) es imposible mantener un circuito entre una neurona y un chip.
+D) una alternativa bioinformática es hacer los chips de otro metal.
+E) las computadoras de silicio han sido un fracaso tecnológico total.
+=====================ALTERNATIVA CORRECTA=====================
+B) la bioinformática puede dotar al ordenador de una mayor capacidad.
+=====================RAZONAMIENTO======================
+Se afirma en la lectura que cuando la unión entre neurona y chip sea posible (de modo permanente) las computadoras tendrán una capacidad casi ilimitada.
+=====================PREGUNTA 7======================
+Si un can observase a su dueño con la velocidad de una computadora electrónica,
+=====================ALTERNATIVAS======================
+A) se demoraría más en su reconocimiento. 
+B) sería capaz de advertir detalles mínimos.
+C) se convertiría en un animal más sutil.
+D) se convertiría en un ser automatizado.
+E) su fidelidad podría ser más persistente.
+=====================ALTERNATIVA CORRECTA=====================
+A) se demoraría más en su reconocimiento. 
+=====================RAZONAMIENTO======================
+El cerebro de un perro procesa mucho más rápido que una computadora: si tuviese la velocidad de esta, podría demorarse en reconocer a su dueño.
+=====================PREGUNTA 8======================
+Las limitaciones de las actuales computadoras con respecto a la capacidad cerebral se deben =====================ALTERNATIVAS======================
+A) a la falta de ingenio de los informáticos.
+B) a un problema de diseño en la máquina.
+C) al material con el que se fabrican los chips.
+D) a que el cerebro humano es insuperable.
+E) a un problema de ingeniería del software.
+=====================ALTERNATIVA CORRECTA=====================
+C) al material con el que se fabrican los chips. =====================RAZONAMIENTO======================
+Se trata de un problema que tiene que ver con el material con el que se fabrican los chips: el silicio.

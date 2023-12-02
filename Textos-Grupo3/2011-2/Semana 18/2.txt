@@ -1,0 +1,78 @@
+ID: 002
+=====================TEXTO======================
+Los estudios sociales de la ciencia desarrollados en las últimas décadas han puesto de manifiesto la naturaleza social de la práctica científica y su consecuente compromiso con los valores, prioridades e intereses propios de la estructura y los agentes sociales. Es decir, la ciencia es una actividad social vinculada a las restantes formas de la actividad humana. Los procesos de producción, difusión y aplicación de conocimientos propios de la actividad científica son inexplicables al margen de los intereses económicos, políticos, militares, entre otros, que caracterizan los diversos contextos sociales. En esta perspectiva, la ciencia es una actividad institucionalizada, permeable a los valores e intereses sociales y no puede ser neutral. Sin embargo, esta conclusión no podría ser tan rotunda si se presta atención a la ciencia como conocimiento, es decir, si prestamos atención al valor cognoscitivo de las teorías y otras expresiones del saber. Si de manera apresurada se extiende la no neutralidad, predicada para la ciencia como actividad, a la comprensión de la ciencia como saber, se puede llegar a la negación de la objetividad científica. Se podría sostener un ideal de compromiso social para la ciencia, pero en este camino no veo la forma de retener el sentido de la honestidad intelectual entendida como compromiso con la objetividad. Agazzi lo expresa así: "seha de concluir que la ciencia no puede ser neutral como actividad mientras lo es y debe serlo como saber" La ciencia es actividad y es saber. Ni lo uno ni lo otro por separado. Los límites entre ambas expresiones de la ciencia sólo pueden reconocerse con un propósito analítico. Sin embargo, como se verá de inmediato, esa distinción puede ser útil para explorar los diferentes sentidos de neutralidad mencionados antes. Comencemos por la neutralidad como "desinterés". La actividad científica es inexplicable al margen de los intereses sociales. Esos intereses se expresan, por ejemplo, en el financiamiento de la ciencia, en las prioridades que para ella se establecen. Esos intereses, sin embargo, no niegan el interés por producir conocimiento objetivo, los intereses propiamente cognoscitivos que favorecen la objetividad. Más aún, los intereses que intentan instrumentalizar la ciencia y ponerla al servicio de los más variados fines, requieren del conocimiento objetivo que haga de la ciencia un saber útil. Las políticas científicas, los programas de investigación, las instituciones que articulan el trabajo científico no son neutrales respecto a los fines sociales que les dan vida, pero ello no hace del conocimiento obtenido la expresión de un interés económico o político particular, aunque su utilización sí suele subordinarse a ellos. Veamos la idea de neutralidad como "independencia de prejuicios". Aquí la palabra prejuicio no tiene un sentido peyorativo; se refiere a "un cierto complejo preconstituido de convicciones, actitudes intelectuales, hábitos mentales, valoraciones, etc." La ciencia vista como actividad no puede ser neutral respecto a los prejuicios así definidos. Cada individuo, colectividad, sociedad, época, portan tales prejuicios que influyen sobre el modo de hacer ciencia, en la elección de los campos de la investigación, prioridades en la enseñanza y otras expresiones de la práctica científica. Debemos reconocer que esos prejuicios también influyen sobre la ciencia como saber. Los criterios de objetividad y racionalidad están sometidos a cierta contingencia y determinación histórica. La construcción de un saber objetivo siempre se logra dentro de marcos conceptuales y metodológicos preestablecidos. Los científicos deben tomar conciencia de los límites que imponen a la objetividad dichos marcos y esforzarse por subordinar sus conclusiones a las "buenas razones" (teóricas, lógicas, empíricas) que puedan aportarse dentro de esos marcos cuyos límites han sido críticamente evaluados. De este modo, la ciencia como saber logra cierta neutralidad respecto a los prejuicios: “La ciencia como saber puede y debe ser neutral respecto a los prejuicios, tomando conciencia de ellos y de su parcialidad".
+
+=====================PREGUNTA 1======================
+En el texto, el vocablo PERMEABLE connota
+=====================ALTERNATIVAS======================
+A) estar sujeto a determinadas influencias. 
+B) representar determinados intereses.
+C) asumir diversas perspectivas teóricas.
+D) estar condicionado por ciertos intereses.
+E) renunciar a la objetividad científica.
+=====================ALTERNATIVA CORRECTA=====================
+A) estar sujeto a determinadas influencias. =====================RAZONAMIENTO======================
+En el texto, este vocablo connota la idea de que la ciencia está influenciada por los valores e intereses sociales que asume el científico y, por ello, la ciencia no puede ser neutral.
+=====================PREGUNTA 2======================
+El tema central que se expone en texto es
+=====================ALTERNATIVAS======================
+A) la incompatibilidad entre compromiso social y objetividad en la ciencia como cognosis.
+B) el “desinterés” y la “independencia de prejuicios”: expresiones de la objetividad científica.
+C) el compromiso social de la actividad científica y la neutralidad de la ciencia como saber.
+D) los requisitos esenciales del conocimiento científico: objetividad, neutralidad y unicidad.
+E) los prejuicios conceptuales y metodológicos como escollos a la objetividad científica.
+=====================ALTERNATIVA CORRECTA=====================
+el compromiso social de la actividad científica y la neutralidad de la ciencia como
+saber.
+=====================RAZONAMIENTO======================
+Tal como expresa Agazzi: "seha de concluir que la ciencia no puede ser neutral como actividad mientras lo es y debe serlo como saber"
+=====================PREGUNTA 3======================
+Es incompatible con el texto aseverar que la objetividad científica
+=====================ALTERNATIVAS======================
+A) es posible alcanzar aun asumiendo un compromiso.
+B) requiere conciencia de la determinación histórica.
+C) es indispensable para alcanzar una ciencia útil.
+D) es fruto, sobre todo, de la honestidad intelectual.
+E) resulta algo imposible a causa de los prejuicios.
+=====================ALTERNATIVA CORRECTA=====================
+E) resulta algo imposible a causa de los prejuicios.
+=====================RAZONAMIENTO======================
+Según el texto, el científico puede y debe ser neutral respecto a los prejuicios, tomando conciencia de ellos y de su parcialidad. De este modo, la objetividad científica, garantizada por la neutralidad, no se vería afectada.
+=====================PREGUNTA 4======================
+Se deduce que un científico debe estar comprometido, sobre todo, con
+=====================ALTERNATIVAS======================
+A) el saber objetivo. 
+B) la ciencia útil. 
+C) la racionalidad.
+D) los fines sociales 
+E) la investigación.
+=====================ALTERNATIVA CORRECTA=====================
+A) el saber objetivo. 
+=====================RAZONAMIENTO======================
+La ciencia como cognosis es saber objetivo. Este es el compromiso de la
+ciencia.
+
+=====================PREGUNTA 5======================
+Si un científico promoviera la neutralidad como "desinterés", probablemente
+=====================ALTERNATIVAS======================
+A) estaría en inmejorables condiciones para alcanzar el saber objetivo.
+B) desarrollaría su actividad encerrado herméticamente en su laboratorio.
+C) su labor se caracterizaría por ser más rigurosa, objetiva y proficua
+D) desenvolvería su actividad al margen de las políticas de investigación.
+E) sería reconocido como un maestro en el campo de la investigación.
+=====================ALTERNATIVA CORRECTA=====================
+D) desenvolvería su actividad al margen de las políticas de investigación.
+=====================RAZONAMIENTO======================
+Dicho científico desconocería los intereses sociales que intervienen en la actividad científica, intereses que se expresan, entre otros, en las políticas de investigación. En consecuencia, la actividad de este científico se desenvolvería al margen de dichas políticas.
+=====================PREGUNTA 6======================
+A partir del texto se puede afirmar que las investigaciones científicas
+=====================ALTERNATIVAS======================
+A) están determinadas por el interés particular del científico.
+B) están sujetas a las determinaciones conceptuales de su tiempo.
+C) deben cuestionar y desechar el marco conceptual predominante.
+D) para ser objetivas, deben ceñirse al marco metodológico existente.
+E) requiere una actitud eminentemente crítica y libre de “prejuicios”.
+=====================ALTERNATIVA CORRECTA=====================
+B) están sujetas a las determinaciones conceptuales de su tiempo.
+=====================RAZONAMIENTO======================
+Según el texto, la construcción de un saber objetivo siempre se logra dentro de marcos conceptuales y metodológicos preestablecidos. En consecuencia, las investigaciones científicas están sujetas a estos marcos, a estas determinaciones.

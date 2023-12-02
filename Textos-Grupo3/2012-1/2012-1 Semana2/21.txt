@@ -1,0 +1,103 @@
+ID: 021
+=====================TEXTO======================
+Se elimina la oración que no se refiere al tema clave o que habla de él tangencialmente.
+=====================PREGUNTA 1======================
+I) A veces, los electrones logran desprenderse de los átomos en los que se hallan y
+se desplazan libremente. II) Estos electrones libres, "separados de sus átomos", saltan de átomo en átomo. III) El libre movimiento de electrones en ciertas materias
+produce lo que conocemos como electricidad. IV) Una corriente eléctrica es un flujo
+de electrones a lo largo de un alambre de cobre o algún otro conductor. V) Si tiene
+una fuerza considerable, una descarga eléctrica puede llegar a producir la muerte.
+=====================ALTERNATIVAS======================
+A) I 
+B) V 
+C) III 
+D) II 
+E) IV
+=====================ALTERNATIVA CORRECTA=====================
+B) V 
+=====================RAZONAMIENTO======================
+Se elimina la oración superflua en el conjunto: lo que dice ya está dicho en otra oración o está implicado en más de una oración.
+=====================PREGUNTA 2======================
+I) La física aristotélica se ocupaba fundamentalmente del cambio, el rasgo más asombroso de la naturaleza. II) El cambio, en la física aristotélica, se concebía como
+locomoción, esto es, cambio de lugar. III) De acuerdo con Aristóteles, el cambio físico se plasmaba en un eje temporal y podía estar motivado por una fuerza. IV)Para la explicación aristotélica del cambio, el tiempo era un factor insoslayable.
+V) La física de Aristóteles explicaba el cambio de lugar recurriendo a un conjunto de
+ principios respaldados por las observaciones.
+=====================ALTERNATIVAS======================
+A) III 
+B) II 
+C) I 
+D) IV 
+E) V
+=====================ALTERNATIVA CORRECTA=====================
+D) IV
+=====================RAZONAMIENTO======================
+Se elimina la oración que no guarda relación
+=====================PREGUNTA 3======================
+I. Sócrates tuvo una misión divina, la de liberar a sus conciudadanos atenienses de
+los falsos valores que los encadenaban. II. Sufrió la oposición de estos a dejarse
+liberar, lo que lo llevó, finalmente, a la muerte. III. Afrontó el problema del sufrimiento
+con una actitud sublime: Mejor sufrir que cometer la injusticia. IV. Tal actitud se
+acrisola en toda su pureza al plasmar Sócrates al hombre cien por ciento justo. V.
+Sócrates quiso redimir a los atenienses y ello le costó la vida.
+=====================ALTERNATIVAS======================
+A) V 
+B) IV 
+C) III 
+D) II 
+E) I
+=====================ALTERNATIVA CORRECTA=====================
+A) V 
+=====================RAZONAMIENTO======================
+La V se elimina por redundancia.
+=====================PREGUNTA 4======================
+I. Una componente de la vida de Pascal fue el sufrimiento, sobre todo, el sufrimiento
+físico. II. Dejando de lado extrañas enfermedades infantiles, ya a los 18 años sufre
+dolores de cabeza, que a los 24 se hacen insoportables. III. Además tiene problemas
+del estómago: solo puede tomar líquidos calientes y gota a gota. IV. Sufre de
+parálisis parcial de las piernas y a los 35 pasa por un surmenage del que siempre
+resentiría los efectos. V. Fue consciente también del sufrimiento de su pueblo, que
+pasó por espantosos guerras políticas y religiosas.
+=====================ALTERNATIVAS======================
+A) IV 
+B) II 
+C) III 
+D) IV 
+E) I
+ =====================ALTERNATIVA CORRECTA=====================
+A) IV 
+=====================RAZONAMIENTO======================
+Se elimina la IV por impertinencia.
+=====================PREGUNTA 5======================
+I. En su filosofía Schopenhauer toma la vía kantiana: conocemos solo fenómenos, no la realidad en sí. II. Solo que Schopenhauer no renuncia a esta realidad en sí y
+atraviesa el muro que Kant considerara infranqueable o alza el velo de Maia. III. La Diosa Maia, hija de Brahma, es objeto de culto tanto entre los hindúes como los
+budistas como la “Madre de la creación”. IV. Ese velo es la ilusión; y la verdad desconocida halla una metáfora en el cuerpo desnudo de la diosa. V. Levantado el velo de Maia, Schopenhauer llega a la verdad o realidad profunda de este mundo.
+=====================ALTERNATIVAS======================
+A) II 
+B) IV 
+C) I 
+D) V 
+E) III
+ =====================ALTERNATIVA CORRECTA=====================
+E) III
+=====================RAZONAMIENTO======================
+Se elimina la III por impertinencia.
+=====================PREGUNTA 6======================
+I. El bullying se refiere a todas las formas de actitudes agresivas, intencionadas y
+repetidas, que ocurren sin motivación evidente, adoptadas por uno o más
+estudiantes contra otro u otros. II. L a persona que ejerce el bullying lo hace para
+imponer su poder sobre el otro, a través de constantes amenazas, insultos,
+agresiones o vejaciones. III. La víctima sufre callada en la mayoría de los casos, y
+siente dolor, angustia y miedo. IV. El estudian te se convierte en víctima de bullying
+cuando está expuesto a las agresiones de otros. V. El bullying se expresa a través
+de varias formas simultáneas como el modo físico, verbal, psicológico y social.
+=====================ALTERNATIVAS======================
+A) I 
+B) V 
+C) II 
+D) III 
+E) IV
+ =====================ALTERNATIVA CORRECTA=====================
+E) IV
+=====================RAZONAMIENTO======================
+Se elimina la IV por redundancia.
+

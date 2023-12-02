@@ -1,0 +1,30 @@
+ID: 002
+=====================TEXTO======================
+En 1543 Nicolás Copérnico se propuso incrementar la vaguedad y sencillez de la
+teoría astronómica vigente transfiriendo al Sol muchas de las funciones que hasta
+entonces se atribuían a la Tierra. Con anterioridad a su propuesta, la Tierra había sido el
+centro fijo con respecto al cual los astrónomos calculaban los movimientos de planetas y
+estrellas. Un siglo más tarde, el Sol, al menos en lo que hace referencia a la astronomía,
+había reemplazado a la Tierra como centro de los movimientos planetarios, y ésta había
+recuperado su privilegiado estatuto astronómico para convertirse en un planeta más de
+entre los que se mueven alrededor del Sol. Una gran parte de los resultados más
+importantes alcanzados por la astronomía moderna reposa sobre dicha transposición. Así,
+pues, y, ante todo, la revolución copernicana significa una reforma en los conceptos fundamentales de la astronomía.
+=====================PREGUNTA 1======================
+Primera incoherencia:
+=====================ALTERNATIVAS======================
+______________________
+
+=====================ALTERNATIVA CORRECTA=================
+“vaguedad”, debe ser “precisión”.
+=====================RAZONAMIENTO======================
+“vaguedad”, debe ser “precisión”.
+=====================PREGUNTA 2======================
+Segunda incoherencia:
+=====================ALTERNATIVAS======================
+______________________
+
+=====================ALTERNATIVA CORRECTA=================
+“recuperado”, debe ser “perdido”.
+=====================RAZONAMIENTO======================
+“recuperado”, debe ser “perdido”.

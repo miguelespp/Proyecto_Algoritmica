@@ -1,0 +1,115 @@
+ID: 009
+=====================TEXTO======================
+Los ejercicios de eliminación de oraciones estable cen dos criterios sobre el manejo
+de la información en un texto determinado: a) La cohesión temática y b) la economía de la
+expresión. En virtud de estos criterios, la eliminación de oraciones se puede hacer de dos
+maneras alternativas: a) O bien, se suprime la oración que no corresponde al tema clave
+del conjunto; b) o bien, se suprime la oración redundante, esto es, la que no aporta
+información al conjunto.
+=====================PREGUNTA 1======================
+I) Los cefalópodos constituyen uno de los grupos de moluscos más importantes y
+populares. II) Además, son los animales invertebrados más evolucionados del
+planeta. III) La evolución es un proceso que puede seguir líneas impensadas por los
+científicos más sagaces. IV) Los cefalópodos son todos marinos, con cabeza
+voluminosa y ojos muy desarrolla dos. V) Los cefalópodos poseen tentáculos que
+pueden alcanzar gran longitud, como es el caso del pulpo.
+=====================ALTERNATIVAS======================
+A) V 
+B) III 
+C) IV 
+D) II 
+E) I
+
+=====================ALTERNATIVA CORRECTA=====================
+B) III 
+ =====================RAZONAMIENTO======================
+III es inatingente, el tema es los cefalópodos.
+=====================PREGUNTA 2======================
+I) Los pulmones son dos órganos lobulares que realizan el intercambio gaseoso con
+el medio. II) Este intercambio consiste en el ingreso del oxígeno y la expulsión del
+dióxido de carbono. III) Los pulmones están contenidos en la caja torácica. IV) Se
+encuentran suspendidos por la tráquea, a la altura del corazón. V) Son penetrados
+por los bronquios, los cuales se ramifican dentro de ellos.
+=====================ALTERNATIVAS======================
+A) I 
+B) V 
+C) II 
+D) III 
+E) IV
+
+=====================ALTERNATIVA CORRECTA=====================
+C) II
+ =====================RAZONAMIENTO======================
+II es inatingente, el tema es los pulmones.
+=====================PREGUNTA 3======================
+II) Las quemaduras son lesiones cutáneas producidas por el fuego, radiaciones,
+líquido caliente, etc. II) Las quemaduras se clasifican en tres tipos. III) Las
+quemaduras de primer grado dejan la piel enrojecida. IV) Las de segundo grado
+forman ampollas. V) Las quemaduras de tercer grado generan muerte celular y
+carbonización.
+=====================ALTERNATIVAS======================
+A) I 
+B) IV 
+C) III 
+D) II* 
+E) V
+
+=====================ALTERNATIVA CORRECTA=====================
+D) II* 
+ =====================RAZONAMIENTO======================
+II es redundante, se desarrolla en III, IV y V.
+=====================PREGUNTA 4======================
+I) El queso se elabora con leche de vaca, pero también se utiliza la leche de oveja y
+cabra. II) Para la preparación de queso es necesario que la leche se coagule con
+ácido láctico para obtener suero. III) Este suero se somete a distintos procedimientos
+y luego se almacena. IV) Se pueden añadir en esta etapa diversos microorganismos
+para obtener quesos blandos. V) Con el tiempo, el queso obtiene el aroma, textura y
+colores característicos.
+=====================ALTERNATIVAS======================
+A) V 
+B) III 
+C) II 
+D) IV 
+E) I
+=====================ALTERNATIVA CORRECTA=====================
+E) I
+ =====================RAZONAMIENTO======================
+I es inatingente, el tema es la elaboración de los quesos.
+=====================PREGUNTA 5======================
+I) Las pinturas rupestres son dibujos realizados sobre una superficie pétrea. II) Son
+obra de cazadores que hace 2 0 o 30 milenios habitaban la Tierra. III) En estas
+pinturas se representa a los animales de caza de la época. IV) Las pinturas
+rupestres reflejan, por lo general, el movimiento de los animales. V) Los bisontes,
+caballos salvajes, renos y ciervos fueron muy cazados durante el Paleolítico.
+=====================ALTERNATIVAS======================
+A) III 
+B) II 
+C) I 
+D) V
+E) IV
+=====================ALTERNATIVA CORRECTA=====================
+D) V
+ =====================RAZONAMIENTO======================
+V es inatingente.
+=====================PREGUNTA 6======================
+I) La basílica de Santa Sofía destaca por sus diferentes elementos arquitectónicos.
+II) Las ventanas abiertas de la basílica de Santa Sofía parecen poner en movimiento
+los rayos del sol. III) El exterior de la basílica es compacto y macizo, y proporciona
+una visión de profundo impacto estético. IV) La inmensa cúpula de la basílica de
+Santa Sofía crea una sensación extraordinaria de gran espacio. V) Sus muros están
+cubiertos con mármol y adornados con hermosos mosaicos.
+=====================ALTERNATIVAS======================
+A) V 
+B) II 
+C) I 
+D) III 
+E) IV
+=====================ALTERNATIVA CORRECTA=====================
+C) I 
+ =====================RAZONAMIENTO======================
+I es redundante, está desarrollada en las demás oraciones.
+E) IV
+=====================ALTERNATIVA CORRECTA=====================
+C) I 
+ =====================RAZONAMIENTO======================
+I es redundante, está desarrollada en las demás oraciones.

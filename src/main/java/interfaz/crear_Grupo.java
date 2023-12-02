@@ -3,7 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
 package interfaz;
-
+import Proyecto.Grupo;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.File;
 /**
  *
  * @author PC
@@ -15,6 +18,33 @@ public class crear_Grupo extends javax.swing.JPanel {
      */
     public crear_Grupo() {
         initComponents();
+    }
+    private void escribirDatosEnArchivo(Grupo grupo) {
+        // Crear el nombre del archivo basado en el código del grupo
+        String nombreArchivo = grupo.getCodigoGrupo() + ".txt";
+
+        // Crear una carpeta para almacenar los archivos si no existe
+        String carpetaPath = "Grupos";
+        File carpeta = new File(carpetaPath);
+        if (!carpeta.exists()) {
+            carpeta.mkdir();
+        }
+
+        // Crear la ruta completa del archivo dentro de la carpeta
+        String rutaCompleta = carpetaPath + File.separator + nombreArchivo;
+
+        try (FileWriter writer = new FileWriter(rutaCompleta)) {
+            // Escribir los datos en el archivo
+            writer.write("Código de grupo: " + grupo.getCodigoGrupo() + "\n");
+            writer.write("Nombre de grupo: " + grupo.getNombreGrupo() + "\n");
+
+            // Puedes agregar más información si lo necesitas
+
+            System.out.println("Datos guardados en el archivo " + rutaCompleta);
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.err.println("Error al escribir en el archivo");
+        }
     }
 
     /**
@@ -30,9 +60,9 @@ public class crear_Grupo extends javax.swing.JPanel {
         jPanel2 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
-        jTextField2 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
+        codigotexto = new javax.swing.JTextField();
+        grupotexto = new javax.swing.JTextField();
+        botoncrear = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
 
         jPanel1.setBackground(new java.awt.Color(253, 207, 216));
@@ -45,10 +75,22 @@ public class crear_Grupo extends javax.swing.JPanel {
         jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         jLabel3.setText("Nombre de grupo");
 
-        jButton1.setText("Crear");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        codigotexto.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                codigotextoActionPerformed(evt);
+            }
+        });
+
+        grupotexto.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                grupotextoActionPerformed(evt);
+            }
+        });
+
+        botoncrear.setText("Crear");
+        botoncrear.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botoncrearActionPerformed(evt);
             }
         });
 
@@ -63,12 +105,12 @@ public class crear_Grupo extends javax.swing.JPanel {
                     .addComponent(jLabel3))
                 .addGap(37, 37, 37)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jTextField1)
-                    .addComponent(jTextField2, javax.swing.GroupLayout.DEFAULT_SIZE, 311, Short.MAX_VALUE))
+                    .addComponent(codigotexto)
+                    .addComponent(grupotexto, javax.swing.GroupLayout.DEFAULT_SIZE, 311, Short.MAX_VALUE))
                 .addContainerGap(128, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jButton1)
+                .addComponent(botoncrear)
                 .addGap(55, 55, 55))
         );
         jPanel2Layout.setVerticalGroup(
@@ -77,13 +119,13 @@ public class crear_Grupo extends javax.swing.JPanel {
                 .addGap(93, 93, 93)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
-                    .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(codigotexto, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(43, 43, 43)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel3)
-                    .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(grupotexto, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 71, Short.MAX_VALUE)
-                .addComponent(jButton1)
+                .addComponent(botoncrear)
                 .addGap(32, 32, 32))
         );
 
@@ -123,19 +165,39 @@ public class crear_Grupo extends javax.swing.JPanel {
         );
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void botoncrearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botoncrearActionPerformed
+        // Obtener los datos del formulario
+        String codigoGrupo = codigotexto.getText();
+        String nombreGrupo = grupotexto.getText();
+
+        // Crear el objeto Grupo
+        Grupo grupo = new Grupo(codigoGrupo, nombreGrupo);
+
+        // Lógica para escribir los datos en un archivo .txt
+        escribirDatosEnArchivo(grupo);
+
+        // Limpiar los campos del formulario
+        codigotexto.setText("");
+        grupotexto.setText("");
+    }//GEN-LAST:event_botoncrearActionPerformed
+
+    private void codigotextoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_codigotextoActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }//GEN-LAST:event_codigotextoActionPerformed
+
+    private void grupotextoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_grupotextoActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_grupotextoActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton1;
+    private javax.swing.JButton botoncrear;
+    private javax.swing.JTextField codigotexto;
+    private javax.swing.JTextField grupotexto;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextField jTextField2;
     // End of variables declaration//GEN-END:variables
 }

@@ -1,0 +1,119 @@
+SEMANA 14 B
+Eliminación de oraciones
+=====================TEXTO======================
+
+=====================PREGUNTA 1======================
+I) Las lenguas son sistemas o códigos de representación y de comunicación. II) La
+naturaleza de las lenguas es eminentemente oral. III) Las lenguas presentan un
+origen común: el lenguaje, que nos diferencia de los animales. IV) La facultad del
+lenguaje es resultado de un lento proceso evolutivo. V) Los sistemas lingüísticos se
+adquieren durante los primeros años de vida.
+=====================ALTERNATIVAS======================
+A) II 
+B) V 
+C) III 
+D) IV 
+E) I
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La oración (IV) se elimina en virtud de su carácter inatingente. Las
+oraciones cohesionadas giran entorno de las lenguas como eje temático.
+=====================PREGUNTA 2======================
+I) Los escarabajos gema adultos se originan a partir de larvas que son depositadas
+en tocones o en troncos putrefactos. II) Una vez que las larvas de escarabajo gema
+salen en forma de gusano, horadan la madera podrida y se alimentan de celulosa.
+III) Los escarabajos gema en su estado larvario se desarrollan durante un año
+formando galerías en la madera corroída y pasan a convertirse en pupas. IV) En la
+época de lluvias que comienza en mayo aparecen los escarabajos gema, aún con el
+cuerpo blando y gélido, pero en cuestión de horas su esplendido calor y su dura
+caparazón toman forma. V) Los escarabajos gema usan muy bien los disfraces que
+la evolución les ha brindado, y nosotros nos regodeamos en descubrirlos, pues el camuflaje es casi perfecto.
+=====================ALTERNATIVAS======================
+A) II 
+B) V 
+C) III 
+D) IV 
+E) I
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+La oración (V) se elimina por no estar referida al tema central de las
+demás que, en este caso, es el proceso de desarrollo de un escarabajo gema.
+=====================PREGUNTA 3======================
+I) Por sus alas largas y estrechas, el albatros es el rey de los vientos. II) Cuando hay
+calma, el albatros prefiere descansar en la superficie del agua, pues le cuesta
+trabajo volar. III) El albatros puede pasar horas planeando sin mover sus alas una
+sola vez cuando hay viento. IV) El albatros aparece constantemente en el imaginario
+poético de la marinería. V) Para anidar su única cría, el albatros busca los lugares
+más recónditos de las islas oceánicas cada dos años.
+=====================ALTERNATIVAS======================
+A) I 
+B) III 
+C) II 
+D) V 
+E) IV
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+La oración (IV) es impertinente, puesto que está referida al cariz
+poético motivado por el albatros y no a su capacidad de vuelo.
+=====================PREGUNTA 4======================
+I) La blandura está determinada por la presencia de vientos provenientes del sur. II)
+Se conoce como blandura al proceso mediante el cual las hojas puestas a secar se
+impregnan con la humedad del aire. III) Para que haya blandura no basta con que
+desaten precipitaciones sobre los diversos campos cultivados. IV) La blandura es
+posible gracias a los vientos del sur que se mantienen en estado estacionario. V) La
+blandura permite que las hojas se tornen suaves y puedan manipularse sin romperse.
+=====================ALTERNATIVAS======================
+A) II 
+B) IV 
+C) I* 
+D) III 
+E) V
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La oración (I) se elimina debido a que es redundante; el contenido
+informativo está implicado en el resto.
+=====================PREGUNTA 5======================
+I) Los elefantes son los únicos animales vivos que poseen trompa. II) La trompa del
+elefante mide dos metros de longitud y treinta centímetros de ancho y contiene
+sesenta mil músculos. III) La trompa es privativa del elefante y con las dos
+prolongaciones musculares que hay en el extremo de esta puede incluso arrancar
+una espina. IV) La punta de la trompa es tan sensible que un elefante con los ojos
+vendados podría reconocer con ella la forma y la textura de los objetos. V) La trompa
+presenta innumerables receptores químicos que permiten al elefante olfatear una
+serpiente pitón o cualquier alimento alejado.
+=====================ALTERNATIVAS======================
+A) V 
+B) III 
+C) IV 
+D) I* 
+E) II
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La oración (I) se elimina por ser redundante . El contenido informativo
+de esta se encuentra en (III).
+=====================PREGUNTA 6======================
+I) La escritura ideográfica presenta signos gráficos que representan de forma
+estilizada y esquemática las ideas o conceptos de que son portadoras las palabras.
+II) La base del sistema ideográfico consiste en representar de forma directa el
+significado de los signos lingüísticos, con independencia de su pronunciación. III) La
+gran ventaja de los sistemas escriturarios silábicos es que la representación entre
+grafía y conjunto de sonidos es parcialmente directa. IV) La escritura ideográfica es
+estable frente a los cambios en el plano fónico y puede usarse entre hablante de
+dialectos muy alejados entre sí. V) Los ideogramas o unidades de los sistemas
+ideográficos son profusos y suponen un esfuerzo mayúsculo en su aprendizaje.
+=====================ALTERNATIVAS======================
+A) IV 
+B) II 
+C) I 
+D) V 
+E) III
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El tema que cohesiona temáticamente a las oraciones es la escritura
+ideográfica; por ello, resulta impertinente la oración (III) relativa a la escritura silábica.

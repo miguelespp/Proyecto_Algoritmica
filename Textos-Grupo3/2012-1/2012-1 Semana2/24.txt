@@ -1,0 +1,123 @@
+ID: 024
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+Refrendar, confirmar, comprobar,
+=====================ALTERNATIVAS======================
+A) corroborar 
+B) identificar 
+C) describir
+D) experimentar 
+E) analizar
+=====================ALTERNATIVA CORRECTA=====================
+A) corroborar
+=====================RAZONAMIENTO======================
+Serie basada en la sinonimia.
+=====================PREGUNTA 2======================
+Introvertido, retraído, reservado,
+=====================ALTERNATIVAS======================
+A) pusilánime 
+B) ensimismado 
+C) apático
+D) indolente 
+E) impertérrito
+=====================ALTERNATIVA CORRECTA=====================
+B) ensimismado
+=====================RAZONAMIENTO======================
+Serie basada en la sinonimia.
+=====================PREGUNTA 3======================
+Elija la palabra que no corresponde a la serie verbal.
+=====================ALTERNATIVAS======================
+A) imputar 
+B) incriminar 
+C) imbuir
+D) acusar 
+E) achacar
+=====================ALTERNATIVA CORRECTA=====================
+C) imbuir
+=====================RAZONAMIENTO======================
+Se ha construido el campo semántico de la acusación y, en consecuencia, sale el término ‘imbuir’.
+=====================PREGUNTA 4======================
+Rústico, basto, zafio,
+=====================ALTERNATIVAS======================
+A) chabacano 
+B) estólido 
+C) inverecundo
+D) anticuado 
+E) imberbe
+=====================ALTERNATIVA CORRECTA=====================
+A) chabacano 
+=====================RAZONAMIENTO======================
+Serie constituida por sinónimos.
+=====================PREGUNTA 5======================
+Arcano, misterioso, oculto,
+=====================ALTERNATIVAS======================
+A) esotérico 
+B) taxativo 
+C) incólume
+D) exotérico 
+E) ininteligible
+=====================ALTERNATIVA CORRECTA=====================
+A) esotérico
+=====================RAZONAMIENTO======================
+Serie constituida por sinónimos.
+=====================PREGUNTA 6======================
+Ladino, tunante, astuto,
+=====================ALTERNATIVAS======================
+A) déspota 
+B) sagaz 
+C) omnisciente
+D) lerdo 
+E) puntilloso
+=====================ALTERNATIVA CORRECTA=====================
+B) sagaz 
+=====================RAZONAMIENTO======================
+Serie constituida por sinónimos.
+=====================PREGUNTA 7======================
+Protervo, cruel; novato, baquiano; escuálido, cenceño;
+=====================ALTERNATIVAS======================
+A) dadivoso, generoso 
+B) liliputiense, pigmeo
+C) infausto, infatuado 
+D) austero, manirroto
+E) impío, locuaz
+=====================ALTERNATIVA CORRECTA=====================
+D) austero, manirroto
+=====================RAZONAMIENTO======================
+Sinónimo -antónimos -sinónimos; sigue par de antónimos.
+=====================PREGUNTA 8======================
+Hueso, húmero; copa, árbol; tubérculo, papa;
+=====================ALTERNATIVAS======================
+A) dintel, puerta 
+B) oveja, rebaño 
+C) mueble, sillón
+D) trueno, rayo 
+E) regla, tijera
+=====================ALTERNATIVA CORRECTA=====================
+A) dintel, puerta 
+=====================RAZONAMIENTO======================
+Hiperónimo, hipónimo; parte-todo; hiperónimo, hipónimo; sigue parte-todo.
+=====================PREGUNTA 9======================
+Perito, avezado, experto,
+=====================ALTERNATIVAS======================
+A) bisoño 
+B) arcaico 
+C) provecto 
+D) baquiano 
+E) amateur
+=====================ALTERNATIVA CORRECTA=====================
+D) baquiano 
+=====================RAZONAMIENTO======================
+Serie constituida por sinónimos.
+=====================PREGUNTA 10======================
+Fruta, toronja; orquídea, flor; diente, molar;
+=====================ALTERNATIVAS======================
+A) hoja, follaje 
+B) cúpula, catedral 
+C) pingüino, ave
+D) célula, neurona 
+E) argón, oxígeno
+=====================ALTERNATIVA CORRECTA=====================
+C) pingüino, ave
+=====================RAZONAMIENTO======================
+Hiperónimo -hipónimo, hipónimo -hiperónimo, hiperónimo -hipónimo; sigue hipónimo -hiperónimo.

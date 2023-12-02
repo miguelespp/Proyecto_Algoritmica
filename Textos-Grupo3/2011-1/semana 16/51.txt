@@ -1,0 +1,105 @@
+ID: 51
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+1. I) En la mitología helénica, Afrodita era la diosa del amor erótico, la lujuria y la
+belleza. II) Según las creencias de los griegos, la divina Afrodita tenía un doble
+origen . III) Según el poeta helénico Hesíodo, Afrodita surgió del mar, donde se
+formó a partir del miembro cercenado de Urano. IV) Posteriormente ,los griegos
+consideraron que Afrodita había surgido de la unión del gran Zeus y Dione. V)
+Afrodita no tuvo infancia, pues, según todas las referencias, nació adulta, núbil e
+infinitamente deseable.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+B. II
+=====================RAZONAMIENTO======================
+Redundancia, II se deduce de III y IV.
+=====================PREGUNTA 2======================
+2. I) San Alberto Magno (1206 -1280) fue un filósofo y teólogo alemán, llamado e l
+Doctor Universalis. II) San Alberto Magno estudió en París (1244 -48) y en Padua,
+donde se familiarizó con los escritos de Aristóteles. III) San Alberto Magno entró en
+la orden de los Dominicos hacia 1223 y fue maestro de Santo Tomas de Aquino.
+IV) San Al berto Magno estudió teología en Bolonia y profesó en las universidades
+de Colonia (1248 -54) y París, entre otras. V) En Bolonia, los estudios teológicos
+medievales llegaron a una densidad conceptual difícilmente superable.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E. V
+=====================RAZONAMIENTO======================
+El tema es la biografía de San Alberto Magno. La oración V es impertinente.
+=====================PREGUNTA 3======================
+3. I) De las ó peras del repertorio lírico, Aída es una de las más populares entre el
+público. II) Con Aída, Verdi dio un giro a su trayectoria anterior en la que la parte
+vocal era la absoluta protagonista de sus ó peras. III) En Aída la orquestación no es
+un simple acompañamiento para las voces, sino que juega un papel esencial en la
+caracterización psicológica de los personajes. IV) En Aída, Verdi consiguió una
+sabia combinación entre la espectacularidad y lirismo ,lo que convirtió a esta ópera
+en una obra muy atractiva para el gran público. V) Cuando Verdi compuso Aída
+apenas habían llegado a Italia las óperas de Wagner, pero sintió la necesidad de
+desmarcarse, por contraste, de las partituras de Wagner y creó una ópera muy
+elaborada y muy italiana.
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A. I
+=====================RAZONAMIENTO======================
+La oración I está contenida en la oración IV .
+=====================PREGUNTA 4======================
+4. I) En la actualidad se conocen más de 200 agujeros negros en una distancia
+máxima de 400 millones de años luz de la Tierra. II) La formación de un agujero
+negro tiene lugar a partir de estrellas que ,hacia el final de su vida ,tienen una
+masa tres o más veces superior a la solar. III) En la formación de un agujero negro,
+una vez agotados todos los posibles procesos nucleares productores de energía,
+no existe ninguna fuerza de la naturaleza capaz de oponerse a la atracción que
+tiende a condensar toda la masa de la estrella en su centro. IV) Al concentrarse
+toda la masa de la estrella e n su centro ,se produce el colapso gravitatorio de la
+estrella, la cual se contrae hasta sobrepasar el punto en que la velocidad de
+escape en su superficie es igual a la velocidad de la luz. V) Cuando la velocidad de
+escape de la superficie de la estrella es igual a la velocidad de la luz ,la
+continuación del colapso es irreversible y el astro no puede emitir ninguna señal
+que escape a su inmenso campo gravitatorio y se forma un agujero negro .
+=====================ALTERNATIVAS======================
+A. I
+B. II
+C. III
+D. IV
+E. V
+=====================ALTERNATIVA CORRECTA======================
+A. I
+=====================RAZONAMIENTO======================
+El tema es la fo rmaci ón de los agujeros negros. La oración I es impertinente .
+=====================PREGUNTA 5======================
+5. I) Maria Sklodowska (más tarde conocida como Marie Curie) fue una gran científica
+polaca, pionera en el campo de la radioactividad y la primera en recibir dos premios
+Nobel. II) Para obtener el d octorado, se centró en las investigaciones realizadas
+por Henri Becquerel sobre la naturaleza de las radiaciones que producían las sales
+de uranio. III) Becquerel había descubierto el fenómeno de la radiactividad, razón
+por la cual obtuvo el premio Nobel de Física en 1903. IV) Junto con su marido,
+Pierre Curie, hizo una investigación que condujo al descubrimiento de un elemento
+químico, que denominó polonio‘ en honor a su país natal. V) En reconocimiento de
+sus contribuciones importantes en la química (descubrió además el radio), en 1911
+obtuvo merecidamente el Premio Nobel de Química.
+=====================ALTERNATIVAS======================
+A. V
+B. IV
+C. I
+D. III
+E. II
+=====================ALTERNATIVA CORRECTA======================
+D. III
+=====================RAZONAMIENTO======================
+El tema es Marie Curie, no Henri Becquerel.

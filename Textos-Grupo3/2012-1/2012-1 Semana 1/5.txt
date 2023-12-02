@@ -1,0 +1,27 @@
+ID: 005
+=====================TEXTO======================
+No sabemos con qué vínculos los antiguos retenían a los planetas en los espacios
+libres, y enseñaron que, apartados continuamente de la trayectoria rectilínea, giran
+regularmente en sus órbitas. Creo que para explicar esto se inventaron las esferas
+sólidas. Los filósofos más recientes o piensan que son los vórtices, como Kepler o
+Descartes, o algún otro impulso o principio de atracción, como Borelli, Hooke y otros de
+entre los nuestros. Por la ley primera del movimiento es absolutamente cierto que se
+requiere alguna fuerza. Es nuestro propósito elucidar su cantidad y propiedades e
+investigar matemáticamente los efectos en los cuerpos en movimiento; por tanto, para no
+determinar su especie de manera hipotética, la hemos denominado centrípeta con un
+nombre genérico, por cuanto tiende a un centro o también, tomando el nombre del centro,
+circunsolar a la que tiende al Sol; circunterrestre a la que tiende a la Tierra; circunjovial a
+la que tiende a Júpiter, y así en los demás.
+=====================PREGUNTA 1======================
+¿Cuál es la idea principal del texto?
+=====================ALTERNATIVAS======================
+A) El denominado movimiento circunjovial es un movimiento centrípeto.
+B) La hipótesis de un principio de atracción es esencial para los planetas.
+C) Los planetas se mantienen s uspendidos en virtud de la fuerza de vórtices.
+D) En el espacio, los planetas giran con bastante regularidad en sus órbitas.
+E) El movimiento de los planetas requiere de una fuerza llamada centrípeta.
+=====================ALTERNATIVA CORRECTA=====================
+E) El movimiento de los planetas requiere de una fuerza llamada centrípeta.
+=====================RAZONAMIENTO======================
+Newton explica la naturaleza de la fuerza centrípeta para superar las ideas
+de los antiguos.

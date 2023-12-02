@@ -1,0 +1,20 @@
+ID: 11
+=====================TEXTO======================
+RAZONAMIENTO MATEMATICO
+=====================PREGUNTA 1======================
+Ricardo desea pesar tres manzanas, para ello dispone de una balanza de dos
+platillos y un bloque cuyo peso es 240 gramos. Realizando las pesadas observa
+que la manzana más grande tiene el mismo peso que las otras dos manzanas
+juntas; el bloque y la manzana más pequeña pesan tanto como las otras dos
+manzanas juntas, y que el bloque pesa tanto como la manzana más grande y la
+más pequeña juntas. ¿Cuál es el peso total de las tres manzanas?
+=====================ALTERNATIVAS======================
+A. 300g
+B. 360g
+C. 320g
+D. 270g
+E. 290g
+=====================ALTERNATIVA CORRECTA======================
+C. 320g
+=====================RAZONAMIENTO======================
+Este problema se puede resolver mediante un sistema de ecuaciones.

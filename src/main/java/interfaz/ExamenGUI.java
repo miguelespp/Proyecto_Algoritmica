@@ -12,6 +12,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import Proyecto.Pregunta;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class ExamenGUI {
     private  String textoGeneral;
@@ -35,6 +40,45 @@ public class ExamenGUI {
     public String getTextoGeneral() {
         return textoGeneral;
     }
+    private Pregunta leerPreguntaDesdeArchivo(File archivo) {
+        try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
+            String texto = "";
+            String enunciado = "";
+            ArrayList<String> alternativas = new ArrayList<>();
+            String alternativaCorrecta = "";
+            String razonamiento = "";
+
+            // Leer el contenido del archivo
+            String linea;
+            while ((linea = br.readLine()) != null) {
+                if (linea.startsWith("=====================TEXTO======================")) {
+                    texto = br.readLine();
+                } else if (linea.startsWith("=====================PREGUNTA")) {
+                    enunciado = br.readLine();
+                } else if (linea.startsWith("=====================ALTERNATIVAS")) {
+                    while (!(linea = br.readLine()).startsWith("=====================")) {
+                        alternativas.add(linea.trim());
+                    }
+                } else if (linea.startsWith("=====================ALTERNATIVA CORRECTA")) {
+                    alternativaCorrecta = br.readLine().trim();
+                } else if (linea.startsWith("=====================RAZONAMIENTO")) {
+                    razonamiento = br.readLine();
+                }
+            }
+
+            // Crear y devolver el objeto Pregunta
+            return new Pregunta(enunciado, alternativas.toArray(new String[0]), alternativaCorrecta, razonamiento);
+
+        } catch (FileNotFoundException e) {
+        System.err.println("Archivo no encontrado: " + archivo.getAbsolutePath());
+        e.printStackTrace();
+        return null;
+    } catch (IOException e) {
+        System.err.println("Error al leer el archivo: " + archivo.getAbsolutePath());
+        e.printStackTrace();
+    }
+        return null;
+}
 
     public Pregunta[] getPreguntas() {
         return preguntas;

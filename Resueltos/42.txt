@@ -1,0 +1,67 @@
+ID: 42
+=====================TEXTO======================
+Al margen de toda interpretación derivada de una determinada ideología cerrada y coherente, ya sea la visión racionalista dieciochesca de la realidad o el materialismo dialéctico, lo que sí es aceptado hoy en día ampliamente es que lo real no consiste en algo ontológicamente sólido y unívoco, sino por el contrario en una construcción de conciencia tanto individual como colectiva.
+Nelson Goodman es el máximo defensor de una filosofía «constructivista» según la cual no cabe admitir un universo real preexist ente a la actividad de la mente humana y al lenguaje simbólico del que esta se sirve para precisamente crear mundos tal y como otro «constructivista», Jerome Bruner, explicita en su influyente obra Actual Minds, Possible Worlds (1986).
+No queda más recurso, por ello, que admitir no solo la convencionalidad del signo lingüístico, sino también un cierto carácter convencional de la propia realidad. De hecho, la moderna sociología del conocimiento entiende la realidad humana como algo constituido socialmente, y estima que su tarea científica consiste precisamente en intentar comprender el proceso por el que tal fenómeno se produce, en lo que el lenguaje desempeña un papel de capital importancia. Trasladando los principios de esta sociología a la teoría literaria, Virgil Nemoianu habla de «modelos sociales» interpuestos entre la realidad y la literatura mimética (realista), y los define como cortes sectoriales de la propia realidad cuya fuerza proviene de un sistema coherente de valores.
+Como Susana Reisz apunta en un trabajo fundamental sobre la ficción literaria, la inclusión de un fenómeno dado en el ámbito de la realidad o de la irrealidad varía de una comunidad a otra y de una época a otra, y este hecho incide sobre la consideración de la literatura, porque lo que podemos denominar «la experiencia colectiva de la realidad» mediatiza la respuesta que el lector da al mundo suscitado por la obra. Esta mista autora ofrece un ejemplo harto expresivo de todo ello: las Metamorfosis de Ovidio y Kafka presentan, ambas, situaciones igualmente ajenas a la realidad cotidiana de un europeo del siglo I como del XX. Pero la primera no fue considerada en su día una ficción fantástica, pese a que en ella una ninfa perseguida por un dios se convierte en un árbol de laurel, y la segunda sí lo fue, por el mero hecho inicial de que un oscuro viajante de comercio se tran smute en un insecto monstruoso.
+VILLANUEVA, D. (2004). «La construcción de la realidad». En: Teorías del realismo. Madrid: Biblioteca nueva, pp. 61-62.
+=====================PREGUNTA 1======================
+Principalmente, se sostiene en el texto que
+=====================ALTERNATIVAS======================
+A. la «realidad» posee un carácter convencional que surge a partir de la interacción entre la mente humana y los lenguajes simbólicos.
+B. el «realismo» del mundo representado en la obra literaria es producto de ciertas convenciones socioculturales que pueden variar.
+C. es necesaria una argumentación sólida para justificar la naturaleza realista de los libros de literatura en el mundo contemporáneo.
+D. el pensamiento «constructivista» de Nelson Goodman echa por tierra la hipótesis de que la realidad es una instancia preexistente.
+E. Susana Reisz ha mostrado que el fenómeno literario debe ser visto siempre como una transgresión de las convenciones culturales.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+El texto sostiene que el «realismo» de una obra literaria depende de las convenciones socioculturales de una sociedad específica, que históricamente pueden cambiar.
+=====================PREGUNTA 2======================
+El término INTERPUESTOS connota
+=====================ALTERNATIVAS======================
+A. mediación.
+B. intersección.
+C. intrusión.
+D. conjunción.
+E. mistificación.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Se menciona en el texto que los «modelos sociales» están interpuestos entre la realidad y la literatura realista, es decir, estos modelos median entre ambas instancias.
+=====================PREGUNTA 3======================
+Respecto al pensamiento «constructivista», es incompatible sostener que
+=====================ALTERNATIVAS======================
+A. parte del consenso actual que considera que la realidad no es ontológicamente unívoca.
+B. concluye que es necesario que consideremos que la realidad posee un carácter convencional.
+C. tiene en la persona de Nelson Goodman a uno de sus más preclaros exponentes a nivel mundial.
+D. insiste en que la creación del mundo por la mente se realiza sin necesidad del lenguaje.
+E. su tesis central sostiene que la realidad es una elaboración de la conciencia humana.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Según el texto, la filosofía constructivista considera que «no cabe admitir un universo real preexistente a la actividad de la mente humana y al lenguaje simbólico del que esta se sirve». Así, resulta implausible el hecho de considerar que la construcción del mundo se realice sin considerar el lenguaje.
+=====================PREGUNTA 4======================
+Se desprende de las ideas de Susana Reisz que
+=====================ALTERNATIVAS======================
+A. la noción de literatura prescinde invariablemente de su relación con la historia.
+B. Kafka buscó crear una obra de índole mimética al escribir La metamorfosis.
+C. la lectura se encuentra determinada por la cultura del lector en cierto grado.
+D. las ficciones literarias están obligadas a seguir siempre una matriz fantástica.
+E. solo un verdadero escritor puede ofrecernos un a visión directa de la realidad.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Según las ideas de Susana Reisz, si es cierto que «“la experiencia colectiva de la realidad” mediatiza la respuesta que el lector da al mundo suscitado por la obra», la lectura es una operación cognitiva determinada, hasta cierto punto, por la cultura del lector.
+=====================PREGUNTA 5======================
+Si un autor sostuviera que la realidad es una instancia preexistente y que es posible acceder a ella de forma directa, sin mediación alguna,
+=====================ALTERNATIVAS======================
+A. sus juicios estarían refrendados por la argumentación de Nelson Goodman.
+B. su aportación al constructivismo sería valorada positivamente de inmediato.
+C. la literatura se convertiría en el único medio de acceder a la realidad original.
+D. se convertiría en un acérrimo defensor de la obra literaria de Kafka y Ovidio.
+E. su pensamiento se ubicaría en las antípodas de las ideas de Jerome Bruner.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Un autor que pensara de esa manera se ubicaría en las antípodas del pensamiento constructivista. Jerome Bruner se inscribe en esta última tendencia filosófica.

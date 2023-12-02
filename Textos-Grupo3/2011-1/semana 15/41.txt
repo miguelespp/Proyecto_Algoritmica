@@ -1,0 +1,118 @@
+ID: 41
+=====================TEXTO======================
+ELIMINACIÓN DE ORACIONES
+=====================PREGUNTA 1======================
+1. I) Para su funcionamiento, los músculos necesitan energía, y esta procede de los
+alimentos. II) El músculo deltoides se inserta en el borde anterior de la clavícula. III) El
+músculo subescapul ar se inserta en el omóplato y el húmero. IV) El músculo
+supraespinoso se origina en la fosa supraespinosa y actúa como abductor del brazo.
+V) El músculo infraespinoso se origina en la fosa infraespinosa y actúa como rotador
+externo del húmero.
+=====================ALTERNATIVAS======================
+A. III
+B. II
+C. IV
+D. V
+E. I
+=====================ALTERNATIVA CORRECTA======================
+E. I
+=====================RAZONAMIENTO======================
+Se elimina la oración I por el criterio de impertinencia. El tema del conjunto
+oracional es el funcionamiento de algunos músculos, mientras que la oración I se
+refiere a la energía necesaria para el funcionamiento de estos.
+=====================PREGUNTA 2======================
+2. I) El tipo más común de aeronave es el aeroplano. II) Es una máquina voladora que
+se mantiene en el aire gracias a sus superficies de control o perfiles alares. III) Los
+aeroplanos más comunes son los aviones terrestres, que operan desde una pista en
+tierra o aeropuerto. IV) Los aeropuertos son lugares especiales destinados para el
+despegue o aterrizaje de aviones. V) Otro tipo de aeroplanos, los hidroplanos, operan
+desde el agua.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. III
+D. I
+E. V
+=====================ALTERNATIVA CORRECTA======================
+B. IV
+=====================RAZONAMIENTO======================
+Se elimina la oración IV por el criterio de impertinencia. El tema del
+conjunto oracional son los aeroplanos, mientras que la oración IV se refiere a los
+aeropuertos.
+=====================PREGUNTA 3======================
+3. I) En 40 años, nuestro corazón ha latido más de 150 millones de veces. II) El corazón
+se contrae unas 7 0 veces por minuto. III) En ese lapso envía entre 65 y 100
+centímetros cúbicos de sangre, es decir, de 5 a 7 litros por minuto. IV) En 75 años, un
+corazón humano ha latido unos 300 millones de veces y ha bombeado 200 millones de
+litros de sangre. V) Para poder vivir muchos años resulta necesario alimentarnos bien
+y nutrirnos con suficiencia.
+=====================ALTERNATIVAS======================
+A. V
+B. III
+C. IV
+D. I
+E. II
+=====================ALTERNATIVA CORRECTA======================
+A. V
+=====================RAZONAMIENTO======================
+Se elimina la oración V por el criterio de impertinencia. El tema del
+conjunto oracional es el funcionamiento del corazón, mientras que la oración V se
+refiere a lo necesario para vivir muchos años.
+=====================PREGUNTA 4======================
+4. I) De origen asiático, el yogurt se introdujo en Europa a través de Turquía y Bulgaria.
+II) Es leche cuajada que se obtiene mediante fermentación láctica ácida. III) En la
+transformación de la leche en yogurt intervienen dos microorganismos: el Lactobacillus
+bulgaricus y el Streptococcus thermophilus. IV) El primero es responsable del aroma y
+el segundo posee propiedades acidificantes. V) El yogurt procede de la leche y no es
+un producto originario de Europa.
+=====================ALTERNATIVAS======================
+A. I
+B. III
+C. IV
+D. V
+E. II
+=====================ALTERNATIVA CORRECTA======================
+D. V
+=====================RAZONAMIENTO======================
+Se elimina la oración V por el criterio de redundancia.
+=====================PREGUNTA 5======================
+5. I) El dinosaurio fue un reptil que habitó en muchas zonas de nuestro planeta. II) Solía
+habitar incluso en lugares pa ntanosos, con muchas fuentes alimenticias. III) Su
+tamaño alcanzaba, en algunas especies, los cuarenta metros de longitud y ocho
+metros de altura. IV) El dinosaurio tenía, generalmente, la cabeza pequeña y el cuello
+largo. V) El dinosaurio, de grandes dime nsiones, pobló varias áreas de la Tierra.
+=====================ALTERNATIVAS======================
+A. II
+B. IV
+C. I
+D. III
+E. V
+=====================ALTERNATIVA CORRECTA======================
+E. V
+=====================RAZONAMIENTO======================
+Se elimina la oración V por el criterio de redundancia. El contenido de la
+oración V está incluido en las oraciones I y III.
+=====================PREGUNTA 6======================
+6. I) Zenón de Citio (340 –260 a. C.) —a veces llamado Zenón el estoico para distinguirlo
+de Zenón de Elea — era de origen chipriota y posiblemente de ascendencia mixta,
+griega y oriental . II) Se trasladó a Atenas en el 311 a. C. después de una vida agitada
+y, durante su estancia ateniense, tomó contacto con la filosofía socrática, en especial
+la de la escuela cínica , y la megárica. III) Por aquel entonces, Atenas era el centro
+cultural del mundo griego, donde se congregaban las principales escuelas de filosofía,
+y donde también descollaban eximias formas de arte. IV) Según Diógenes Laercio ,
+Zenón de Citio se inclinó, inicialmente, por el cinismo, siendo alguien especialmente
+cercano a Crates ,pero pronto abandonó esta escuela al rechazar las numerosas
+«exageraciones» en que los cínicos incurrían. V) Tras el abandono del cinismo,
+estudió con otros filósofos de las escuelas académica , aristotélica y megárica, pero,
+insatisfecho con ellas, acabó creando su propia escuela, en la que combinaba
+múltiples aspectos cínicos con los de otros filósofos como Heráclito .
+=====================ALTERNATIVAS======================
+A. III
+B. V
+C. II
+D. IV
+E. I
+=====================ALTERNATIVA CORRECTA======================
+A. III
+=====================RAZONAMIENTO======================
+El tema es la vida de Zenón de Citio, no el esplendor ateniense.

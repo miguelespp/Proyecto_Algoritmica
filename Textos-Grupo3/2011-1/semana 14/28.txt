@@ -1,0 +1,114 @@
+ID: 28
+=====================TEXTO======================
+A comienzos del siglo XIX, parece haber llegado el tiempo para el descubrimiento
+del sistema periódico de los elementos. En efecto, fueron formuladas las leyes principales
+de la química: en 1780 la ley de la cons ervación de la masa (Lavoisier), en 1807 la ley de
+la composición constante de las combinaciones (Proust), en 1808 la ley de las
+proporciones múltiples (Dalton), en 1808 la ley de Gay -Lussac, referente a las relaciones
+de los volúmenes de gas que intervienen en una reacción química y en 1811 la hipótesis
+de Avogadro.
+Asimismo, la teoría atómica de Dalton, formulada en 1803, fue publicada en 1808,
+mientras que la teoría molecular de Avogadro resultaba de la hipótesis que él había
+emitido en 1811. El primer cuadro de pesos atómicos de Dalton, concebido en 1803,
+había sido publicado en 1805. En tanto que esta primera lista no comprendía sino seis
+elementos, la otra lista, publicada por Dalton en 1808, comprende veinte de ellos. En 1810
+se completa la serie, haciendo aparecer otros tres investigadores unos nuevos cuadros:
+Thompson (1810), Wollaston (1814) y Berzelius (1815). Este último cuadro, el más 
+completo de esta época, comporta cuarenta y tres de los cuarenta y ocho elementos que
+han sido aislados.
+Tenién dose en cuenta estos importantes descubrimientos, y por el hecho de que
+alrededor de cincuenta elementos habían sido ya bastante bien estudiados, se podría
+pensar que en el segundo decenio del siglo XIX, los conocimientos adquiridos permitían
+formar, sino un sistema periódico completo, por lo menos un sistema en el que hubiera
+figurado un número importante de grupos de elementos de propiedades análogas, cuyos
+pesos atómicos forman progresiones aritméticas. En realidad, en 1817 y en 1829, no se
+formó sino a lgunas triadas; fue preciso esperar hasta 1850 para que algunos
+investigadores se enfrentasen al problema de la analogía entre los elementos en relación
+con sus pesos atómicos, y solo fue en 1862 que Béguyer de Chancourtois tuvo la ocasión
+de formar un primer sistema periódico.
+Podemos preguntarnos si la causa de este retardo tan prolongado no se debe sobre
+todo a que todos los elementos no habían sido descubiertos. En realidad en 1817, se
+conocía cincuenta elementos. Como la mayor parte de las tierras raras -que no podían ser
+situadas correctamente en un sistema elementario -formaban parte de los elementos que
+faltaban, podemos plantear que este número bastaba con las justas para establecer una
+clasificación. Las propiedades de los elementos descubiertos habían sido, por otra parte,
+estudiados suficientemente por químicos como Lavoisier, Klaproth, Scheele, Wenzel,
+Richter, Davy, Vauquelin, Thénard, Berthollet, Wollaston y Berzelius. Una investigación
+realizada en conexión con la noción de pesos atómicos no condujo a resultados más
+satisfactorios, pues la noción de peso atómico tiene estrechas relaciones con las
+definiciones de la molécula y del átomo. Aunque químicos tales como Berzelius,
+Thompson y Wollaston hubiesen determinado los pesos relativos de diversos elementos
+(equivalentes), era imposible en realidad obtener una lista clara de pesos atómicos, en
+tanto que las ideas de peso atómico y de lo que ahora llamamos valencia, permaneciesen
+confusos.
+=====================PREGUNTA 1======================
+1. La idea principal del texto afirma que
+=====================ALTERNATIVAS======================
+A. el segundo decenio del XIX era la época ideal para descubrir el sistema
+periódico.
+B. B. de Chancourtois fue el primer investigador en elaborar un sistema periódico.
+C. a principios del S. XIX se descubrió el primer sistema periódico de los elementos.
+D. el sistema periódico relaciona los elementos químicos con sus pesos atómicos.
+E. el sistema periódico demoró por no tener una idea clara de los pesos atómicos.
+=====================ALTERNATIVA CORRECTA======================
+E. el sistema periódico demoró por no tener una idea clara de los pesos atómicos.
+=====================RAZONAMIENTO======================
+Era imposible obtener una lista clara de pesos atómicos, en tanto que las ideas de peso
+atómico y de lo que ahora llamamos valencia, permaneciesen confusos. Sin los pesos
+atómicos no era posible el sistema periódico.
+=====================PREGUNTA 2======================
+2. En el texto el término OCASIÓN tiene el sentido de
+=====================ALTERNATIVAS======================
+A. oportunidad.
+B. suceso.
+C. motivo.
+D. causa.
+E. situación.
+=====================ALTERNATIVA CORRECTA======================
+A. oportunidad.
+=====================RAZONAMIENTO======================
+En el texto se dice que Béguyer de Chancourtois tuvo la ocasión de formar un primer
+sistema periódico, es decir, tuvo la oportunidad o pudo formar un primer sistema
+periódico.
+=====================PREGUNTA 3======================
+3. Del texto se puede inferir que hasta la segunda mitad del siglo XIX los científicos
+=====================ALTERNATIVAS======================
+A. ya habían logrado descubrir más de la mitad de los elementos.
+B. no imaginaban que las tierras raras eran elementos químicos.
+C. se percataron de la relación entre elementos y pesos atómicos.
+D. desconocían aún las propiedades de los elementos descubiertos.
+E. no tenían una idea clara de conceptos como peso atómico y valencia.
+=====================ALTERNATIVA CORRECTA======================
+E. no tenían una idea clara de conceptos como peso atómico y valencia.
+=====================RAZONAMIENTO======================
+En la segunda mitad del siglo XIX surge el primer sistema periódico, como producto de la
+comprensión cabal de conceptos como peso atómico y valencia.
+=====================PREGUNTA 4======================
+4. Si para el segundo decenio del S. XIX se hubiera tenido una lista de pesos atómicos,
+esto implicaría que se habría
+=====================ALTERNATIVAS======================
+A. podido establecer el sistema periódico antes del segundo decenio del S. XIX.
+B. prescindido de las leyes de la química para elaborar el sistema periódico.
+C. tenido claras las ideas de peso atómico y valencia antes de la década de 1820.
+D. podido deducir la existencia y propiedades de los elementos aún no conocidos.
+E. podido establecer que los pesos atómicos no forman progresion es aritméticas.
+=====================ALTERNATIVA CORRECTA======================
+C. tenido claras las ideas de peso atómico y valencia antes de la década de 1820.
+=====================RAZONAMIENTO======================
+Si en la segunda década del S. XIX se hubiese tenido una lista ordenada de los pesos
+atómicos, ello implicaría que para ese entonces se debería tener claras las ideas de
+valencia y peso atómico.
+=====================PREGUNTA 5======================
+5. Marque la alternativa incompatible con el texto.
+=====================ALTERNATIVAS======================
+A. A comienzos del S. XIX se hubiera podido descubrir el sistema periódico.
+B. A comienzos del S. XIX se conocían alrededor de 50 elementos químicos.
+C. B. de Chancourtois elaboró el primer sistema periódico de los elementos.
+D. En 1817 se desconocía la mayor parte de tierras raras y sus propiedades.
+E. A inicios del S. XIX se desconocían las propiedades de los elementos.
+=====================ALTERNATIVA CORRECTA======================
+E. A inicios del S. XIX se desconocían las propiedades de los elementos.
+=====================RAZONAMIENTO======================
+En el texto se dice que en 1817 se conocían 50 elementos, y que las propiedades de los
+elementos descubiertos habían sido estudiadas suficientemente por químicos como
+Lavoisier, Klaproth, Scheele, etc.

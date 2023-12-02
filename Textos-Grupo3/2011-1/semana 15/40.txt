@@ -1,0 +1,79 @@
+ID: 40
+=====================TEXTO======================
+SERIES VERBALES
+=====================PREGUNTA 1======================
+1. Compungido, contrito; enhiesto, caído; insurgente, sedicioso;
+=====================ALTERNATIVAS======================
+A. melindroso, fofo. 
+B. meditabundo, caviloso.
+C. roñoso, rufián.
+D. rival, aliado.
+E. vidente, augur.
+=====================ALTERNATIVA CORRECTA======================
+D. rival, aliado.
+=====================RAZONAMIENTO======================
+Serie verbal mixta conformada por pares de sinónimos, antónimos,
+sinónimos, corresponde terminar con antónimos.
+=====================PREGUNTA 2======================
+2. ¿Qué vocablo no corresponde a la serie verbal?
+=====================ALTERNATIVAS======================
+A. Cúpula.
+B. Azotea.
+C. Copa.
+D. Sótano.
+E. Techo.
+=====================ALTERNATIVA CORRECTA======================
+D. Sótano.
+=====================RAZONAMIENTO======================
+La serie está en el campo semántico de la parte superior de algo.
+=====================PREGUNTA 3======================
+3. ¿Qué vocablo no corresponde a la serie verbal?
+=====================ALTERNATIVAS======================
+A. Plomo.
+B. Estaño.
+C. Bronce.
+D. Cobre.
+E. Plata.
+=====================ALTERNATIVA CORRECTA======================
+C. Bronce.
+=====================RAZONAMIENTO======================
+La serie está formada por los elementos químicos pertenecientes a los
+metales, el bronce es una aleación y no un elemento químico.
+=====================PREGUNTA 4======================
+4. Proemio, exordio, prólogo,
+=====================ALTERNATIVAS======================
+A. enciclopedia.
+B. epílogo.
+C. prospecto.
+D. interludio.
+E. preámbulo.
+=====================ALTERNATIVA CORRECTA======================
+E. preámbulo.
+=====================RAZONAMIENTO======================
+La serie está formada por sinónimos de prólogo, que se completa con
+preámbulo que es exordio.
+=====================PREGUNTA 5======================
+5. Infausto, malhadado, infeliz,
+=====================ALTERNATIVAS======================
+A. prelado.
+B. malvado.
+C. aciago.
+D. próvido.
+E. menesteroso.
+=====================ALTERNATIVA CORRECTA======================
+C. aciago.
+=====================RAZONAMIENTO======================
+La serie está formada por sinónimos de infeliz, que se completa con
+aciago que es infausto, infeliz, de mal agüero.
+=====================PREGUNTA 6======================
+6. Cabriola, voltereta, acrobacia,
+=====================ALTERNATIVAS======================
+A. vehemencia.
+B. intrusión.
+C. astucia.
+D. palabreja.
+E. pirueta.
+=====================ALTERNATIVA CORRECTA======================
+E. pirueta.
+=====================RAZONAMIENTO======================
+Campo semántico del brinco o salto acrobático.

@@ -1,0 +1,86 @@
+ID: 50
+=====================TEXTO======================
+La epistemología como disciplina especial surgió cuando el ideal de
+fundamentación científica comenzó a erosionarse. Antes de ello, se había pensado
+acerca de la ciencia, pero como un mero corolario. La ocurrencia de crisis en la física (la
+debacle de la dinámica clásica o newtoniana a fines del siglo XIX) y en la matemática (la
+irrupción de geometrías no euclidianas) tuvo una fuerte repercusión en la concepción
+filosófica acerca de la ciencia: Ya no se podía hablar del seguro camino de la ciencia, al
+modo de Immanuel Kant. Inclusive, aparecieron movimientos irracionalistas y
+subjetivistas que comenzaron a elevar su grito de guerra: ¡Adiós a la razón!
+Dado que toda crisis tiene un signo ambivalente (es una señal de desasosiego,
+pero también de esperanza), también surgió un movimiento que trató de comprender la
+naturaleza del error para construir mejor el edificio de la ciencia. El conocimiento
+científico tenía que s er estudiado a fondo para comprender mejor su naturaleza, sus
+alcances, sus limitaciones. El denominado empirismo lógico fue la corriente que intentó
+erigir un discurso plausible acerca de la ciencia, para lo cual quiso expurgarla de los
+sedimentos metafísicos latentes en la formulación de las teorías científicas. El
+irracionalismo subjetivista pecaba por defecto y por exceso; lo que es peor, botaba el
+agua sucia de la bañera junto con el niño que se había aseado en ella. Para no incurrir
+en el error de los irracionalistas, los empiristas lógicos blandieron su principio de
+verificación contra los conceptos inescrutables que se anidaban en las teorías
+científicas.
+=====================PREGUNTA 1======================
+1. ¿Cuál es el tema central de la lectura?
+=====================ALTERNATIVAS======================
+A. La génesis de la epistemología como disciplina especial.
+B. Las raíces metafísicas del denominado empirismo lógico.
+C. Crítica del irracionalismo subjetivista en la ciencia.
+D. El principio de verificación y la interpretación de Kant.
+E. La crisis en las ciencias físicas y en las matemáticas.
+=====================ALTERNATIVA CORRECTA======================
+A. La génesis de la epistemología como disciplina especial.
+=====================RAZONAMIENTO======================
+Desde el principio, el texto marca su línea temática con claridad, a saber, el
+surgimiento o eclosión de la epistemología.
+=====================PREGUNTA 2======================
+2. En el texto, EDIFICIO es una metáfora de
+=====================ALTERNATIVAS======================
+A. método.
+B. problema.
+C. historia .
+D. sistema .
+E. paradoja.
+=====================ALTERNATIVA CORRECTA======================
+D. sistema .
+=====================RAZONAMIENTO======================
+Al habla r de construir el edificio de la ciencia, metafóricamente se habla del
+sistema de la ciencia.
+=====================PREGUNTA 3======================
+3. Resulta incompatible con el texto formular que
+=====================ALTERNATIVAS======================
+A. Immanuel Kant estaba de acuerdo con el ideal de fundamentación.
+B. el empirismo lógico fue el causante de la crisis de la ciencia.
+C. los empiristas lógicos utilizaron el principio de verificación.
+D. la ocurrencia de crisis científicas implica la falibilidad de la ciencia.
+E. los irracionalistas incurrieron en un error en su análisis de la ciencia.
+=====================ALTERNATIVA CORRECTA======================
+B. el empirismo lógico fue el causante de la crisis de la ciencia.
+=====================RAZONAMIENTO======================
+El empirismo surge como una respuesta a la crisis de la ciencia,
+=====================PREGUNTA 4======================
+4. Se infiere que el empirismo lógico propugnaba
+=====================ALTERNATIVAS======================
+A. una refutación de los métodos matemáticos.
+B. un duro ataque contra la metafísica.
+C. una revaloración de Immanuel Kant.
+D. una adhesión al subjetivismo.
+E. un análisis histórico de la ciencia.
+=====================ALTERNATIVA CORRECTA======================
+B. un duro ataque contra la metafísica.
+=====================RAZONAMIENTO======================
+SOLUCIÓN: Es inferible que, para el empirismo lógico, la metafísica se opone a la
+ciencia.
+=====================PREGUNTA 5======================
+5. Si el ideal de fundamentación fuese una verdad demostrada,
+=====================ALTERNATIVAS======================
+A. Immanuel Kant estaría en lo correcto.
+B. el irracionalismo sería plenamente válido.
+C. el subjetivismo sería cabalmente verdadero.
+D. la ciencia sería una empresa falible.
+E. la razón sería totalmente paradójica.
+=====================ALTERNATIVA CORRECTA======================
+A. Immanuel Kant estaría en lo correcto.
+=====================RAZONAMIENTO======================
+Immanuel Kant hablaba del seguro camino de la ciencia, por ello estaba de
+acuerdo con el ideal de fundamentación.

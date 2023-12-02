@@ -1,0 +1,82 @@
+ID: 6
+=====================TEXTO======================
+ORACIONES ELIMINADAS
+=====================PREGUNTA 1======================
+1. I) La familia lingüística quechua comprende un conjunto de dialectos muchos de
+ellos ininteligibles entre sí. II) La inteligibilidad mutua implica que los hablantes de
+una lengua puedan entenderse entre sí. III) Los dialectos quechuas se caracterizan
+por presentar un conjunto complejo de morfemas derivativos y flexivos. IV) Un
+rasgo peculiar del quechua es su conjunto de tres vocales divididos en dos alturas
+vocálicas. V) El quechua es de naturaleza aglutinante, lo cual supone que a las
+palabras se le añadan morfemas.
+=====================ALTERNATIVAS======================
+A. I 
+B. III 
+C. IV 
+D. V 
+E. II
+=====================ALTERNATIVA CORRECTA======================
+E. II
+=====================RAZONAMIENTO======================
+Se elimina la oración II por impertinencia.
+=====================PREGUNTA 2======================
+2. I) La audición humana implica la transformación de energía en distintos niveles. II)
+La audición humana se inicia con la recepción de la energía acústica en el oído
+externo. III) La energía acústica se transforma en energía mecánica cuando los
+huesecillos del oído medio se mueven. IV) La energía mecánica deviene en
+energía hidráulica cuando el movimiento de los huesecillos hacen que el líquido
+evidenciado en la cóclea se mueva. V) Las células pilosas de la cóclea determinan
+que, posteriormente, el movimiento hidráulico se transforme en impulsos nerviosos
+que llegan al cerebro.
+=====================ALTERNATIVAS======================
+A. IV 
+B. I
+C. V 
+D. II 
+E. III
+=====================ALTERNATIVA CORRECTA======================
+B. I
+=====================RAZONAMIENTO======================
+La oración I se elimina porque está implicada en las demás.
+=====================PREGUNTA 3======================
+3. I) La teoría de la metáfora en la vida cotidiana fue planteada por Lakoff y Johnson y
+sostiene que las personas sustancialmente organizan el mundo a través de
+metáforas . II) La metáfora es un tropo literario que implica el reemplazo de un
+elemento por otro y tradicionalmente se presenta en el ámbito de la poesía . III) La
+metáfora permite que en discurso cotidiano podamos usar el dominio animal para
+referirnos a las personas, por ejemplo . IV) Los dominios que usan las personas
+mediante las metáforas permiten que elementos complejos puedan ser procesados
+de manera más simple. V) La teoría de la metáfora en la vida cotidiana asume que
+la cognición es esencialmente metafórico y se proyecta en el lenguaje ordinario.
+=====================ALTERNATIVAS======================
+A. I 
+B. III 
+C. V 
+D. II
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+D. II
+=====================RAZONAMIENTO======================
+La oración II se elimina porque es impertinente .
+=====================PREGUNTA 4======================
+4. I) El problema de Platón o el problema de la pobreza de estímulos y el problema de
+Descartes o problema de la creatividad en el uso del lenguaje son el fundamento
+de la propuesta innatista planteada por Chomsky . II) El problema de Platón se
+define como el carácter abigarrado y sesgado de datos empíricos que el niño
+recibe a temprana edad pero que no son óbice para que este logre adquirir una
+lengua . III) La experiencia lingüística del niño evidencia una serie de vacíos que el
+niño supera sin adiestramiento objetivo real sobre las reglas que rigen su lengua .
+IV) El problema de Descartes supo ne que el lenguaje no puede explicarse en
+términos mecánicos, ya que la capacidad para innovar es ilimitada en el niño . V)
+En una aguda reflexión, Platón sostuvo que se podía conocer la realidad sin el
+empleo del lenguaje natural.
+=====================ALTERNATIVAS======================
+A. I 
+B. III 
+C. V
+D. II 
+E. IV
+=====================ALTERNATIVA CORRECTA======================
+C. V
+=====================RAZONAMIENTO======================
+La oración V se elimina por impertinencia.

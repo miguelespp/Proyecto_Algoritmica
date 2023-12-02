@@ -1,0 +1,98 @@
+ID: 14
+=====================TEXTO======================
+El análisis filosófico de la ciencia ha sólido recrearse en subrayar el abismo
+insalvable que al parecer separa las teorías matemáticas de las teorías físicas. Las
+primeras serían tautológicas, formales y ciertas, aunque limitadas al desmenuzamiento de
+las relaciones entre nuestras ideas o nuestros signos. Las segundas serían factuales,
+experimentales y provisionales, pero pretenderían describir la realidad empírica del
+mundo.
+Recordemos las palabras finales del célebre ensayo de Hume: «Si cogemos en
+nuestras manos un libro cualq uiera…, preguntémonos: ¿Contiene algún razonamiento
+abstracto sobre la cantidad o el número? No. ¿Contiene algún razonamiento experimental
+sobre asuntos de hecho y existencia? No. Arrojémoslo entonces a las llamas, pues no
+puede contener sino sofismas y en gaños». Lo que aquí nos interesa de este texto no es el
+deseo en él manifestado de quemar la literatura seudocientífica, sino el hecho de que,
+para separar lo que es ciencia de lo que no lo es, a Hume no le baste con formular una
+sola pregunta, sino que se vea obligado a formular dos preguntas distintas, destinadas
+fundamentalmente a salvar de la hoguera las teorías matemáticas y las físicas,
+respectivamente.
+En nuestro siglo esta tesis del abismo que separaría la matemática y la física no ha
+hecho sino ext enderse y ampliarse entre los filósofos. Así, por ejemplo, en el primer
+párrafo del prefacio del libro más popular de Alfred J. Ayer leemos: «Como Hume, yo
+divido todas las proposiciones genuinas en dos clases: las que, en su terminología, tratan
+de „relac iones de ideas y las que tratan de „asuntos de hecho. La primera clase 
+comprende las proposiciones a priori de la lógica y la matemática pura, de las que admito
+que son necesarias y ciertas. Es decir, mantengo que la razón por la que estas
+proposiciones no pueden ser refutadas en la experiencia es que no afirman nada acerca
+del mundo empírico, sino que se limitan a registrar nuestra determinación de usar los
+símbolos de una cierta manera. Por otro lado están las proposiciones sobre asuntos
+fácticos, de la s que sostengo que son hipótesis que pueden ser probables, pero nunca
+ciertas…».
+Aunque con distintos matices, casi todos los filósofos actuales de inspiración
+empirista han aceptado y elaborado la tesis del abismo entre la matemática y la física.
+=====================PREGUNTA 1======================
+1. El texto gira entorno a
+=====================ALTERNATIVAS======================
+A. la lucha contra la producción de literatura seudocientífica.
+B. el significativo aporte de Hume a la filosofía de la ciencia.
+C. la bifurcación radical entre las teorías matemáticas y físicas.
+D. la tradición empirista como un poderoso influjo filosófico.
+E. la coincidencia en las propuestas de Ayer y David Hume.
+=====================ALTERNATIVA CORRECTA======================
+C. la bifurcación radical entre las teorías matemáticas y físicas.
+=====================RAZONAMIENTO======================
+El texto centra su atención en la distancia que separa a las teorías matemáticas de
+las físicas. De las primeras se destaca su carácter formal y de las segundas su
+naturaleza empírica.
+=====================PREGUNTA 2======================
+2. El sentido contextual de la palabra DESMENUZAMIENTO es
+=====================ALTERNATIVAS======================
+A. disolución.
+B. síntesis.
+C. descripción.
+D. análisis.
+E. destrucción.
+=====================ALTERNATIVA CORRECTA======================
+D. análisis.
+=====================RAZONAMIENTO======================
+Las teorías matemáticas analizan o desmenuzan conceptualmente las relaciones
+entre nuestras ideas, las teorías físicas pretenden describir la realidad empírica del
+mundo.
+=====================PREGUNTA 3======================
+3. Resulta incompatible con el texto decir que
+=====================ALTERNATIVAS======================
+A. las verdades matemáticas se presentan como tautológicas.
+B. Hume quería erradicar toda la literatura seudocientífica.
+C. los empiristas dividen las verdades en dos clases separadas.
+D. los principios de la lógica tienen un estatuto formal y a priori .
+E. las verdades matemáticas se determinan por la experiencia.
+=====================ALTERNATIVA CORRECTA======================
+E. las verdades matemáticas se determinan por la experiencia.
+=====================RAZONAMIENTO======================
+Son verdades analíticas, esto es, determinan relaciones entre ideas.
+=====================PREGUNTA 4======================
+4. Se deduce que los filósofos empiristas consideran que la lógica
+=====================ALTERNATIVAS======================
+A. es una ciencia a priori .
+B. es una rama de la física.
+C. es pseudocientífica.
+D. se refiere a los números.
+E. tiene índole fáctica.
+=====================ALTERNATIVA CORRECTA======================
+A. es una ciencia a priori .
+=====================RAZONAMIENTO======================
+Dado que la lógica se aplica a razonamientos abstractos, es una ciencia a priori.
+=====================PREGUNTA 5======================
+5. Si a Hume le hubiera bastado la segunda pregunta que planteó,
+=====================ALTERNATIVAS======================
+A. se pondría en total evidencia su ce guera intelectual.
+B. Ayer se habría dedicado a la reflexión axiológica.
+C. para él la matemática habría tenido contenido empírico.
+D. no habría enviado ningún libro a la terrible hoguera.
+E. el material seudocientífico también se habría salvado.
+=====================ALTERNATIVA CORRECTA======================
+C. para él la matemática habría tenido contenido empírico.
+=====================RAZONAMIENTO======================
+La formulación de una sola pregunta para salvar de la hoguera a las teorías
+matemáticas y físicas probaría que tales teorías están incluidas en una misma
+definición, con lo cual el abismo queda salvado.

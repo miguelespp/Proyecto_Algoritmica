@@ -1,0 +1,99 @@
+ID: 44
+=====================TEXTO======================
+Se llama teoría a una serie sencilla de proposiciones que suministra un gran número
+de explicaciones. Einstein opinaba que una teoría es más impresionante cuanto mayor es la
+simplicidad de sus premisas, cuantas más clases distintas de cosas explica y cuanto más
+extenso es su ámbito de aplicación. Aunque no se estaba refiriendo a la teoría de la
+evolución, su afirmación no podía haberse aplicado a esta con mayor propiedad. Para todo
+lo que pretende explicar, la teoría de la evolución se sustenta en la interacción de cinco
+fenómenos que constituyen su base fáctica: herencia, mutación, selección, aislamiento y
+deriva.
+Por herencia, todos los organismos vivos son producto de la interacción de su material
+genético con el medio ambiente en que se desarrollan; este material génico suele
+permanecer inalterable de generación en generación. Sin herencia no puede haber cambios
+acumulativos. Por mutación, el material génico sufre cambios ocasionales que son
+heredables: sin mutaciones, no existiría una fuente continua de cambio. Por selección, la
+principal fuerza de la evolución, entendemos que todas las líneas génicas no se reproducen
+por igual, y las causas de estas diferencia s pueden ser constantes por largos periodos. Sin
+selección, no habría direccionalidad en los cambios acumulativos. El factor del aislamiento
+explica que, por diversas razones extrínsecas e intrínsecas, no todas las líneas génicas
+tienen libertad de cruzars e. Por ejemplo, algunas poblaciones no se cruzan porque están
+separadas en el espacio (razones extrínsecas); y otras son tan diferentes génicamente
+como para impedir su hibridación (razones intrínsecas). Sin aislamiento, no habría más que
+una sola especie. De acuerdo con el factor de la deriva, el material génico se pierde a veces
+por accidentes que, por definición, son aleatorios, esto es, no son repetitivos. El principal
+efecto de la deriva génica es la reducción de la influencia de la selección, en particular en
+poblaciones muy pequeñas.
+Así, la teoría de la evolución es la proposición según la cual los efectos e interacciones
+de estos cinco fenómenos en la sucesión de ambientes en los que los organismos han
+vivido dan cuenta de las características e historia de todas las formas de vida.=====================PREGUNTA 1======================
+1. ¿Cuál de los siguientes enunciados es el mejor resumen de la lectura?
+=====================ALTERNATIVAS======================
+A. La teoría de la evolución da cuenta de los rasgos y el desarrollo de todas las
+formas de vida sobre la base de cinco factores fundamentales.
+B. El factor de la selección, la direccionalidad en los cambios evolutivos, constituye la
+verdadera fuerza directriz del proceso evolutivo.
+C. La teoría de la evolución es un esquema de gran potencia explicativa, razón por la
+cual se erige en un modelo de teoría científica simplificada.
+D. Los fenómenos básicos de la teoría de la evolución son cinco factores de
+naturaleza fáctica: herencia, mutación, selección, aislamiento y deriva.
+E. La teoría de la evolución no es una simple teoría explicativa, sino que tiene una
+base empírica objetiva apoyada en cinco pilares fundamentales.
+=====================ALTERNATIVA CORRECTA======================
+A. La teoría de la evolución da cuenta de los rasgos y el desarrollo de todas las
+formas de vida sobre la base de cinco factores fundamentales.
+=====================RAZONAMIENTO======================
+El texto desarrolla los cinco factores de la evolución anunciados al final del primer
+párrafo.
+=====================PREGUNTA 2======================
+2. ¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A. La simplicidad en la teoría de la evolución.
+B. Génesis y desarrollo de la teoría de la evolución.
+C. La estructura lógica de la teoría de la evolución.
+D. El papel de la selección y la deriva en la evolución.
+E. La herencia y la mutación en la evolución.
+=====================ALTERNATIVA CORRECTA======================
+C. La estructura lógica de la teoría de la evolución.
+=====================RAZONAMIENTO======================
+Se da cuenta de la estructura lógica de la teoría de la evolución: la interacción de cinco
+fenómenos en un cuadro coherente y de gran simplicidad explicativa.
+=====================PREGUNTA 3======================
+3. En el texto, la palabra FÁCTICA significa
+=====================ALTERNATIVAS======================
+A. física.
+B. lógica.
+C. empírica.
+D. formal.
+E. axiomática.
+=====================ALTERNATIVA CORRECTA======================
+C. empírica.
+=====================RAZONAMIENTO======================
+En el texto, base fáctica se refiere al apoyo empírico de la teoría de la evolución.
+=====================PREGUNTA 4======================
+4. Dos individuos viven en el mismo hábitat, pero no se pueden reproducir fértilmente.
+Este caso se subsume en el factor de
+=====================ALTERNATIVAS======================
+A. selección natural.
+B. aislamiento extrínseco.
+C. deriva genética.
+D. mutación ocasional.
+E. aislamiento intrínseco.
+=====================ALTERNATIVA CORRECTA======================
+E. aislamiento intrínseco.
+=====================RAZONAMIENTO======================
+Es un caso en el que el aislamiento reproductivo se da en el mismo territorio, por lo
+cual se debe explicar por criterios intrínsecos.
+=====================PREGUNTA 5======================
+5. Si la teoría de la evolución explicara cada fact or por medio de una hipótesis diferente,
+=====================ALTERNATIVAS======================
+A. tendría una mayor potencia explicativa.
+B. no podría ser empíricamente verdadera.
+C. podría objetarse su valor de simplicidad.
+D. recusaría la noción de deriva génica.
+E. Einstein se habría desdicho de su idea.
+=====================ALTERNATIVA CORRECTA======================
+C. podría objetarse su valor de simplicidad.
+=====================RAZONAMIENTO======================
+La teoría de la evolución es simple porque todos los factores se pueden explicar por
+un mismo mecanismo. Si se necesitara más mecanismos, se perdería la simplicidad.

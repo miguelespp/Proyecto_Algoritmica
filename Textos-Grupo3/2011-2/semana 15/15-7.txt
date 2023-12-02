@@ -1,0 +1,110 @@
+SEMANA 15 B
+TEXTO 3
+=====================TEXTO======================
+El sistema de los números reales se escoge en física por su utilidad, simplicidad y
+elegancia matemáticas, junto con el hecho de que concuerda, en un rango muy amplio,
+con los conceptos físicos de distancia y tiempo. No se ha escogido porque sepamos que
+está de acuerdo con estos conceptos físicos en todos los rangos. Se podría esperar que
+no exista tal acuerdo a escalas muy pequeñas de distancia o tiempo. Es práctica común
+utilizar reglas para la medida de distancias simples, pero esas mismas reglas tendrán una
+naturaleza granular cuando descendamos a la escala de sus propios átomos. Esto, en sí
+mismo, no nos impide seguir utilizando los números reales de una forma aproximada,
+pero se necesita una sofisticación mucho mayor para la medida de distancias aún más
+pequeñas.
+Deberíamos tener al menos alguna sospecha de que pudiera haber en último
+término alguna dificultad de tipo fundamental para distancias en la escala más ínfima.
+Resulta que la naturaleza se muestra muy amable con nosotros y parece que los mismos
+números reales que nos hemos acostumbrado a utilizar para la descripción de las cosas a
+una escala cotidiana o mayor conservan su utilidad a escalas mucho más pequeñas que
+los átomos — con certeza por debajo de una centésima del diámetro "clásico" de una
+partícula subatómica, por ejemplo un electrón o un protón — y aparentemente por debajo
+de la "escala de la gravitación cuántica", ¡veinte órdenes de magnitud más pequeña que
+el tamaño de dicha partícula! Esta es una extraordinaria extrapolación a partir de la
+experiencia. El concepto familiar de distancia como número real parece ser válido también
+para el cuásar más remoto y aún más allá.
+De hecho, esta adecuación del sistema de los números reales no se cuestiona
+normalmente. ¿Por qué se confía tanto en estos números para la exacta descripción de la
+física, cuando nuestra experiencia inicial de la importancia de tales números se reduce a
+un rango relativamente limitado? Esta confianza — quizá inmerecida — debe descansar
+(aunque este hecho no se reconoce a menudo) en la elegancia lógica, consistencia y
+potencia matemática del sistema de los números reales junto con una creencia en la
+profunda armonía matemática de la naturaleza.
+Penrose, Roger. La mente nueva del emperador (1989).
+=====================PREGUNTA 1======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A) La utilización del sistema de los números reales en la ciencia física.
+B) La confianza inmerecida en los números por parte de los matemáticos.
+C) La simplicidad como criterio de elección entre teorías matemáticas.
+D) La relación entre sistema matemático y mundo externo posible.
+E) La extrapolación de la experiencia de lo visto a lo no experimentado.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+El texto gira entorno a la justificación de la elección del sistema de números reales
+en la investigación física.
+=====================PREGUNTA 2======================
+¿Cuál de las siguientes alternativas contiene el mejor resumen del texto?
+=====================ALTERNATIVAS======================
+A) La confianza que tienen los físicos en el sistema de números reales no tiene
+ninguna justificación plausible y es del todo inmerecida dado que no serviría para
+lo infinitamente pequeño.
+B) Los matemáticos, al momento de elegir un sistema de números sobre otros,
+emplean criterios subjetivos como la elegancia ola simplicidad, pero no se
+equivocan al emplear los números reales.
+C) Existe una relación innegable entre el sistema de números reales y las relaciones
+que se describen en las leyes científicas de la ciencia física, de allí su gran
+avance en la actualidad.
+D) Lo infinitamente pequeño puede ser analizado solo de modo superficial con la
+matemática actual, por consiguiente es sumamente importante que se creen
+nuevos sistemas de números.
+E) El empleo de los números reales en la física se sustenta en su elegancia,
+consistencia y potencia matemáticas, y en la armonía matemática de la
+naturaleza de conceptos como distancia y tiempo.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Penrose muestra esencialmente los motivos por los cuales los físicos emplean el
+sistema de números reales.
+=====================PREGUNTA 3======================
+Es incompatible con el texto señalar que el sistema de números reales se
+caracteriza por ser
+=====================ALTERNATIVAS======================
+A) simple. 
+B) elegante.
+C) inconsistente.
+D) potente. 
+E) útil.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La consistencia matemática es una característica básica de un sistema matemático.
+=====================PREGUNTA 4======================
+Respecto a la correspondencia entre matemática y naturaleza, Roger Penrose se
+muestra
+=====================ALTERNATIVAS======================
+A) escrupuloso pues incide en el carácter conjetural de esa relación.
+B) escéptico puesto que señala que es imposible conocer la realidad.
+C) dogmático dado que confía plenamente en el poder de la física.
+D) dubitativo ya que no decide el sistema de números a emplear.
+E) plenamente confiado debido a las aproximaciones matemáticas.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+Penrose señala que la adecuación de los números reales con los hechos, incluso los
+más pequeños físicamente, no se cuestiona normalmente y que esta confianza es
+quizá inmerecida pues no tenemos certeza al respecto.
+=====================PREGUNTA 5======================
+En el texto, el vocablo SOFISTICACIÓN implica mayor
+=====================ALTERNATIVAS======================
+A) delicadeza. 
+B) rapidez. 
+C) complejidad.
+D) veracidad. 
+E) adecuación.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Podemos seguir utilizando los números reales de una forma aproximada, pero se
+necesita una sofisticación (complejidad) mucho mayor para la medida de distancias
+aún más pequeñas.

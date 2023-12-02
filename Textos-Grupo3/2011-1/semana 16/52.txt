@@ -1,0 +1,408 @@
+ID: 52
+=====================TEXTO======================
+Este artículo no se refiere a si creo en Dio s. Examinaré, en realidad, como creo
+que cabe entender el universo; cuál es el rango y la significación de una gran teoría
+unificada y completa, una "teoría de todo". Hay aquí un auténtico problema. Quienes
+deberían estudiar y debatir tales cuestiones, los filósofos, carecen en su mayor parte de
+preparación matemática suficiente para estar al tanto de las últimas evoluciones
+registradas en la física teórica. Existe una subespecie, la de los llamados filósofos de la
+ciencia, que tendría que hallarse mejor equipada al respecto. Muchos de ellos son
+físicos frustrados a quienes les resultó demasiado difícil inventar nuevas teorías y
+optaron por escribir sobre la filosofía de la física. Todavía debaten teorías científicas de los primeros años de este siglo, como la relatividad y la mecánica cuántica. No están en
+contacto con la frontera actual de la física. Quizás me muestro un tanto duro con los
+filósofos, pero ellos tampoco han sido muy amables conmigo. Han dicho de mi teoría
+que era ingenua y simplista. He sido diversamente calificado de nominalista,
+instrumentalista, positivista, realista y de algunos otros ismos . La técnica parece
+consistir en la refutación por la desacreditación: si es usted capaz de etiquetar mi
+enfoque, no está obligado a decir que es lo que tiene de malo. Cualquiera conoce desde
+luego los errores fatales de todos esos ismos.
+Quienes realmente logran progresos en la física teórica no piensan en los
+términos de las categorías que más tarde inventan para ellos filósofos e historiadores de
+la ciencia. Estoy seguro de que Einstein, Heisenberg y Dirac no se preocupaban de si
+eran realistas o instrumentalistas, simplemente les inquietaba que las teorías existentes
+no encajaban. Dentro de la física teórica, la búsqueda de una autoconsistencia lógica ha
+sido siempre más importante para progresar que los resultados experimentales. Por
+cierto, se han rechazado teorías, ingeniosas y bellas, porque no coincidían con la
+observación; pero no conozco ninguna gran teoría desarrollada exclusivamente sobre la
+base de la experimentación. La teoría siempre viene primero, alentada por el deseo de
+contar con un modelo matemático ingenioso y consecuente. La teoría formula, entonces,
+predicciones que pueden ser comprobadas por las observaciones; si estas coinciden
+con las predicciones, eso no prueba la teoría; pero la teoría sobrevive para formular
+predicciones ulteriores, que vuelven a ser comprobadas con las observaciones; si
+todavía no coinciden con las predicciones, hay que abandonar la teoría.
+O esto es más bien lo que se supone que sucede. En la práctica, los
+investigadores no se muestran propicios a renunciar a una teoría a la que han
+consagrado mucho tiempo y esfuerzo. En general ,comienzan por poner en tela de juicio
+la precisión de las observaciones; si eso falla, tratan de modificar su teoría de un modo
+ad hoc. Con el tiempo, la teoría se convierte en un edificio agrietado y horrible; entonces
+alguien sugiere una nueva teoría en la que, de una manera ingeniosa y natural, se
+explican todas las observaciones emb arazosas. Un ejemplo al respecto fue el del
+experimento de Michelson -Morley, llevado a cabo en 1887, que mostró que la velocidad
+de la luz era siempre la misma, fuera cual fuese la velocidad de la fuente o del
+observador. Pareció ridículo. Con seguridad, a lguien que se desplazase hacia la luz
+hallaría que se movía a una velocidad superior a la que determinaría otro que se
+desplazara en la misma dirección que la luz; sin embargo, el experimento reveló que
+ambos determinaban exactamente la misma velocidad. Du rante los dieciocho años
+siguientes, investigadores como Hendrik Lorentz y George Fitzgerald trataron de adaptar
+esta observación a las ideas aceptadas acerca del espacio y el tiempo. Introdujeron
+postulados ad hoc, como proponer que los objetos menguan cuando se desplazan a
+grandes velocidades. Todo el marco de la física se torno engorroso y repelente. En
+1905, Einstein sugirió un punto de vista mucho más atrayente, en el que no se consideraba al tiempo completamente separado y en sí mismo. Muy al contrario, lo
+combinó con el espacio en un objeto cuatridimensional denominado espacio -tiempo.
+Einstein se sintió empujado hacia esta idea no tanto por los resultados experimentales
+como por el deseo de lograr que dos partes de la teoría encajasen para formar un todo
+consistente. Las dos partes eran las leyes que gobernaban los campos eléctrico y
+magnético y las leyes que determinaban el movimiento de los cuerpos.
+No creo que Einstein, ni ningún otro, comprendiera en 1905 cuan simple e
+ingeniosa era la nueva teoría de la relatividad. Revolucionó por completo nuestras
+nociones de espacio y tiempo. Este ejemplo ilustra bien la dificultad de ser realista en la
+filosofía de la ciencia, porque lo que consideramos como realidad se halla condicionado
+por la teoría que su scribimos. Estoy seguro de que Lorentz y Fitzgerald se creían
+realistas al interpretar el experimento sobre la velocidad de la luz en términos de las
+ideas newtonianas de espacio absoluto y de tiempo absoluto. Estas nociones de espacio
+y tiempo parecían co rresponder al sentido común y a la realidad; sin embargo, quienes
+en la actualidad están familiarizados con la teoría de la relatividad, por desgracia una
+pequeña minoría, poseen una visión muy diferente. Tenemos que explicar a la gente la
+idea moderna de conceptos básicos tales como espacio y tiempo.
+¿Cómo podemos hacer de la realidad la base de nuestra filosofía, si lo que
+consideramos real depende de nuestra teoría? Yo afirmaría que soy realista en el
+sentido de que creo que existe un universo que aguarda a ser investigado y
+comprendido. Considero una pérdida de tiempo la concepción solipsista de que todo es
+creación de nuestra imaginación. Nadie actúa sobre esa base. Pero, sin una teoría, no
+podemos distinguir lo que es real acerca del universo. Por eso adopto la posición, que
+ha sido descrita como simplista o ingenua, de que una teoría de la física es
+sencillamente un modelo matemático que empleamos para describir los resultados de
+unas observaciones. Una teoría es buena si resulta ingeniosa, si describe toda una
+clase de observaciones y si predice los resultados de otras nuevas. Más allá de eso no
+tiene sentido preguntarse si se corresponde con la realidad, porque no sabemos, con
+independencia de una teoría, qué es la realidad. Esta visión de las teorías científicas
+puede que haga de mí un instrumentalista o un positivista —como antes dije, me han
+llamado ambas cosas —. Quien me calificó de positivista añadió que cualquiera sabía
+que el positivismo estaba anticuado, otro caso de refutación a través de la
+descalificación. Cabe aceptar, desde luego, que el positivismo está anticuado en cuanto
+que es una moda intelectual de ayer, pero la posición positivista que he esbozado
+parece ser la única posible para alguien que busca nuevas leyes y nuevos modos de
+describir el universo. De nada sirve apelar a la realidad porque carecemos de un
+concepto de la realidad independiente de un modelo.
+La creencia tácita en una realidad independiente de un modelo constituye, en mi
+opinión, la razón subyacente de las dificultades con que tropiezan los filósofos de la
+ciencia respecto de la mecánica cuántica y del principio de indeterminación. Hay un
+famoso experimento mental, llamado del gato de Schrödinger. Un gato es introducido en
+una caja que se cierra herméticamente. Le apunta un arma que se disparará si decae un
+núcleo radiactivo. La probabilidad de que esto suceda es del cincuenta por ciento. (Hoy
+nadie se atrevería a proponer tal cosa, ni siquiera como experimento puramente mental,
+pero en la época de Schrödinger nada sabía n del movimiento de protección a los
+animales). Si uno abre la caja , hallará al gato muerto o vivo, pero, antes de abrirla, el
+estado cuántico del gato será una mezcla del estado de gato muerto con un estado en
+que el gato se halla vivo. A algunos filósofo s de la ciencia les resulta muy difícil aceptar
+esto. Afirman que el gato no puede estar mitad muerto y mitad vivo, de la misma manera
+que no sería posible que una gata estuviese medio preñada. La dificultad se suscita
+porque implícitamente emplean un concepto clásico de la realidad en donde un objeto
+posee una concreta historia singular. Toda la cuestión de la mecánica cuántica estriba en que tiene una visión diferente de la realidad. En esta concepción, un objeto no posee
+simplemente una sola historia ,sino todas las historias posibles. En la mayoría de los
+casos, la probabilidad de poseer una determinada historia eliminará la probabilidad de
+tener una historia ligeramente diferente; pero en ciertos casos, las probabilidades de
+historias próximas se refuerzan entre sí. Una de esas historias reforzadas es la que
+observamos como historia del objeto.
+En el caso del gato de Schrödinger ,hay dos historias reforzadas. En una, el gato
+muere, mientras que en la otra queda con vida. En la teoría cuántica pueden coexistir
+ambas posibilidades. Pero algunos filósofos se embarullan porque suponen
+implícitamente que el gato solo puede tener una historia.
+La naturaleza del tiempo es otro ejemplo de área en donde nuestras teorías de la
+física determinan nuestro concepto de la realidad. Solía considerarse como algo obvio
+que el tiempo fluía indefinidamente, fuera lo que fuese lo que sucedía; pero la teoría de
+la relatividad combinó el tiempo con el espacio y afirmó que ambos podían ser curvados
+o distorsionados por la materia y la energía del universo. Así, nuestra percepción de la
+naturaleza del tiempo pasó de ser independiente del universo a quedar conformada por
+este. Es entonces concebible que el tiempo pueda simplemente no ser definido antes de
+un cierto punto; cuando uno retrocede en el tiempo puede llegar a una barrera
+insuperable, a una singularidad más allá de la cual no cabe ir. Si tal fuese el caso,
+carecería de sentido preguntarse quién o qué causó o creó el Big Bang. Hablar de
+causalidad o de creación supone implíc itamente que hubo un tiempo antes de la
+singularidad del Big Bang. Sabemos desde hace veinticinco años que la teoría general
+de la relatividad de Einstein predice que el tiempo tuvo que tener un comienzo en una
+singularidad hace quince mil millones de años . Pero los filósofos aun no han captado la
+idea. Todavía siguen preocupándose de los fundamentos de la mecánica cuántica
+formulados hace sesenta y cinco años. No comprenden que la frontera de la física ha
+avanzado.
+Mucho peor es el concepto matemático del tiempo imaginario, con el que Jim
+Hartle y yo sugerimos que puede que el universo no tenga comienzo ni fin. Me atacó
+salvajemente un filósofo de la ciencia por referirme al tiempo imaginario. "¿Cómo es
+posible —dijo— que un truco matemático como el del tiempo imaginario tenga nada que
+ver con el universo real?". Creo que este filósofo confundía los términos matemáticos de
+números reales e imaginarios con el modo en que se emplean las palabras real e
+imaginario en el lenguaje cotidiano. Esto ilustra simplemente mi razonamiento: ¿cómo
+podemos conocer lo que es real, al margen de una teoría o de un modelo con que
+interpretarlo?
+He utilizado ejemplos de la relatividad y de la mecánica cuántica para mostrar los
+problemas con que uno se enfrenta cuando trata de entender el universo. No importa en
+realidad sino se conoce la relatividad ola mecánica cuántica. O incluso si estas teorías
+son incorrectas. Lo que espero haber demostrado es que un cierto tipo de enfoque
+positivista, en el que uno considera una teoría como modelo, es el único modo de
+comprender el universo, al menos para un físico teórico. Tengo la esperanza de que
+hallaremos un modelo consistente que describa todo en el universo. Si lo logramos,
+constituirá un auténtico triunfo para la raza humana.
+=====================PREGUNTA 1======================
+1. En última instancia, el autor tiene la intención de encontrar
+=====================ALTERNATIVAS======================
+A. las pruebas de la existencia de Dios.
+B. una plausible comprensión del movimiento.
+C. una teoría total basada en el positivismo.
+D. la justificación del positivismo en la filosofía.
+E. el origen y fin del mundo basado en el tiempo.
+=====================ALTERNATIVA CORRECTA======================
+C. una teoría total basada en el positivismo.
+=====================RAZONAMIENTO======================
+Inicia el autor su intención de mostrar …el rango y la significación de una gran
+teoría unificada… y termina: Tengo la esperanza de que hallaremos un modelo
+consistente que describa el universo. Y ese modelo matemático sólo puede ser
+hallado por el positivismo.
+=====================PREGUNTA 2======================
+2. La técnica parece consistir en la refutación por la desacreditación: si es usted
+capaz de etiquetar mi enfoque, no está obligado a decir que es lo que tiene de
+malo. Se infiere que el enunciado se refiere a
+=====================ALTERNATIVAS======================
+A. un método científico.
+B. un axioma solipsista.
+C. una deducción lógica.
+D. una falsación factual .
+E. un argumento falaz .
+=====================ALTERNATIVA CORRECTA======================
+E. un argumento falaz .
+=====================RAZONAMIENTO======================
+Porque no existe un argumento válido que refute la tesis del autor, sino un ataque
+al membretarlo de positivista.
+=====================PREGUNTA 3======================
+3. Con la frontera actual de la física, el autor alude a
+=====================ALTERNATIVAS======================
+A. los límites de la metafísica .
+B. los últimos desarrollo s.
+C. la periferia de la ciencia .
+D. los alcance s filosóficos .
+E. los axiomas relativistas.
+=====================ALTERNATIVA CORRECTA======================
+B. los últimos desarrollo s.
+=====================RAZONAMIENTO======================
+El enunciado se refiere a los desarrollos recientes, bastante técnicos y alejados del
+conocimiento común de un filósofo de la ciencia.
+=====================PREGUNTA 4======================
+4. Con e l término SUBESPECIE el autor se refiere a los
+=====================ALTERNATIVAS======================
+A. físicos.
+B. solipsistas.
+C. realistas.
+D. positivistas.
+E. epistemólogos.
+=====================ALTERNATIVA CORRECTA======================
+E. epistemólogos.
+=====================RAZONAMIENTO======================
+Los que se dedican a la filosofía de la ciencia son los epistemólogos.
+=====================PREGUNTA 5======================
+5. Al decir que se han rechazado teorías, ingeniosas y bellas, porque no coincidían
+con la observación , el autor aplica un criterio
+=====================ALTERNATIVAS======================
+A. metafísico .
+B. instrumentalista .
+C. escéptico.
+D. nominalista .
+E. falsacionista .
+=====================ALTERNATIVA CORRECTA======================
+E. falsacionista .
+=====================RAZONAMIENTO======================
+Si las teorías no encaja ban con los hechos, deben ser rechazadas. Es el criterio
+basado en la falsación de teorías.
+=====================PREGUNTA 6======================
+6. Para el autor, un físico frustrado se suele con vertir en
+=====================ALTERNATIVAS======================
+A. solipsista.
+B. epistemólogo .
+C. positivista .
+D. realista .
+E. instrumentalista .
+=====================ALTERNATIVA CORRECTA======================
+B. epistemólogo .
+=====================RAZONAMIENTO======================
+Los físicos frustrados , al no poder inventar teorías nuevas, optaron por escribir
+sobre filosofía de la física.
+=====================PREGUNTA 7======================
+7. Se puede colegir que la cuestión de una teoría del todo es un auténtico problema
+=====================ALTERNATIVAS======================
+A. positivista.
+B. matemático.
+C. filosófico.
+D. nominalista.
+E. instrumentalista.
+=====================ALTERNATIVA CORRECTA======================
+C. filosófico.
+=====================RAZONAMIENTO======================
+Los que deben estudiar sobre una teoría unificada son los filósofos, pero como
+estos no poseen formación matemática, lo hacen los físicos teóricos.
+=====================PREGUNTA 8======================
+8. Se deduce que, para el autor ,la investigación científica se inicia con
+=====================ALTERNATIVAS======================
+A. filosofemas.
+B. hechos.
+C. observaciones.
+D. problemas.
+E. teorías.
+=====================ALTERNATIVA CORRECTA======================
+D. problemas.
+=====================RAZONAMIENTO======================
+Los ejemplos que brinda son teorías que se han planteado para resolver
+problemas. Por ello, cabe hacer la inferencia.
+=====================PREGUNTA 9======================
+9. Del texto se i nfiere que las teorías no pueden llegar a
+=====================ALTERNATIVAS======================
+A. una alta probabilidad.
+B. la verdad absoluta .
+C. ser explicativas.
+D. ser contrastadas.
+E. hacer predicciones.
+=====================ALTERNATIVA CORRECTA======================
+B. la verdad absoluta .
+=====================RAZONAMIENTO======================
+Las teorías predicen, explican y contrastan, pero nunca se prueban que son
+verdaderas.
+=====================PREGUNTA 10======================
+10. El error de Lorentz y Fitzgerald era considerar el espacio y el tiempo como
+=====================ALTERNATIVAS======================
+A. absolutos.
+B. complementarios.
+C. infinitos.
+D. iguales.
+E. relativos.
+=====================ALTERNATIVA CORRECTA======================
+A. absolutos.
+=====================RAZONAMIENTO======================
+Al interpretar el experimento Michelson -Morley lo interpretaron bajo el modelo
+teórico newtoniano que consideraba al tiempo y espacio absolutos.
+=====================PREGUNTA 11======================
+11. Del texto se deduce que Einstein
+=====================ALTERNATIVAS======================
+A. absolutizó el espacio -tiempo.
+B. desgaj ó el espacio del tiempo.
+C. se adhirió al realismo.
+D. se basó en experimentos.
+E. geometrizó el espacio -tiempo.
+=====================ALTERNATIVA CORRECTA======================
+E. geometrizó el espacio -tiempo.
+=====================RAZONAMIENTO======================
+Einstein , al combinar el tiempo con el espacio, lo convirtió en un objeto
+cuatridimensional.
+=====================PREGUNTA 12======================
+12. Para el autor del texto ,se infiere que Einstein habría sido un científico
+=====================ALTERNATIVAS======================
+A. positivista.
+B. mimético.
+C. realista.
+D. solipsista.
+E. inductivista.
+=====================ALTERNATIVA CORRECTA======================
+A. positivista.
+=====================RAZONAMIENTO======================
+La postura positivista sostiene que una teoría es un modelo matemático que
+empleamos para describir los resultados de nuestras observaciones.
+=====================PREGUNTA 13======================
+13. Para el autor, es esencial que la teoría física
+=====================ALTERNATIVAS======================
+A. evite las contradicciones.
+B. describa la realidad absoluta.
+C. sea un modelo matemático.
+D. se base en la experiencia.
+E. se derive de la experiencia.
+=====================ALTERNATIVA CORRECTA======================
+A. evite las contradicciones.
+=====================RAZONAMIENTO======================
+Para la física teórica es más importante la búsqueda de la autoconsistencia, es
+decir, que el sistema no sea contradictorio.
+=====================PREGUNTA 14======================
+14. Resulta incompatible con el pensamiento del autor aseverar que una teoría
+científica
+=====================ALTERNATIVAS======================
+A. se puede apoyar en un modelo matemático.
+B. tiene que inferirse a partir de la experiencia.
+C. podría explicar una amplia gama de hechos.
+D. puede ser altamente contrastable y predictiva.
+E. tiene que contrastarse mediante los hechos.
+=====================ALTERNATIVA CORRECTA======================
+B. tiene que inferirse a partir de la experiencia.
+=====================RAZONAMIENTO======================
+No conozco ninguna gran teoría desarrollada exclusivamente sobre la base de la
+experimentación.
+=====================PREGUNTA 15======================
+15. El sentido de una hipótesis ad hoc es
+=====================ALTERNATIVAS======================
+A. propiciar una nueva manera de evaluar la teoría.
+B. estipular una nueva noción de realidad física.
+C. dar paso a una metodología científica rigurosa.
+D. proteger a la teoría vigente y evitar su colapso.
+E. construir una nueva interpretación matemática.
+=====================ALTERNATIVA CORRECTA======================
+D. proteger a la teoría vigente y evitar su colapso.
+=====================RAZONAMIENTO======================
+Los investigadores se resisten a abandonar su teoría y la modifican ad -hoc, por lo
+tanto se resisten a que su teoría sea refutada.
+=====================PREGUNTA 16======================
+16. Si un científico quisiera conocer la realidad con independencia de un modelo,
+=====================ALTERNATIVAS======================
+A. tendría que emplear el método inductivo.
+B. perseguiría solamente una quimera
+C. deduciría sus leyes de la naturaleza.
+D. defendería una tesis instrumentalista.
+E. po dría descubrir una teoría del todo.
+=====================ALTERNATIVA CORRECTA======================
+B. perseguiría solamente una quimera
+=====================RAZONAMIENTO======================
+Solo es posible conocer la realidad con un modelo matemático.
+=====================PREGUNTA 17======================
+17. Si los ep istemólogos abandonaran la noción clásica de realidad,
+=====================ALTERNATIVAS======================
+A. la mecánica cuántica les sería incomprensible.
+B. podrían comprender el principio de Heisenberg.
+C. aceptarían que los objetos tienen so lo una historia.
+D. interpretarían la realidad sin modelos teóricos.
+E. recusarían el experimento mental de Schrödinger.
+=====================ALTERNATIVA CORRECTA======================
+B. podrían comprender el principio de Heisenberg.
+=====================RAZONAMIENTO======================
+Los filósofos de la ciencia creen que existe una realidad independiente de un
+modelo, de ahí que tropiezan con la mecánica cuántica y el principio de
+indeterminación.
+=====================PREGUNTA 18======================
+18. La dificultad de los filósofos en entender el experimento conocido como el gato de
+Schrödinger estriba en que
+=====================ALTERNATIVAS======================
+A. est án acostumbrados a las paradojas de los matemáticos.
+B. han logrado refutar la noción de suma infinita de historias.
+C. esa condición hipotética sería como una singularidad.
+D. un gato que está medio muerto es una inconsistencia.
+E. son reacios a comprender la noción de suma de historias.
+=====================ALTERNATIVA CORRECTA======================
+E. son reacios a comprender la noción de suma de historias.
+=====================RAZONAMIENTO======================
+Los epistemólogos so lo aceptan que los objetos tengan una sola historia.
+=====================PREGUNTA 19======================
+19. Si un epistemólogo sostuviera que el tiempo fluye indefinidamente , sería un
+=====================ALTERNATIVAS======================
+A. newtoniano.
+B. relativista.
+C. positivista.
+D. solipsista.
+E. einsteniano.
+=====================ALTERNATIVA CORRECTA======================
+A. newtoniano.
+=====================RAZONAMIENTO======================
+Esa es la concepción del tiempo introducida por Newton.
+=====================PREGUNTA 20======================
+20. De acuerdo con uno de los corolarios de la teoría de la relatividad, se establece
+que el tiempo físico
+=====================ALTERNATIVAS======================
+A. es anterior al big bang.
+B. tuvo un comienzo.
+C. no tiene inicio ni fin.
+D. sigue un curso rectilíneo.
+E. es puramente imaginario .
+=====================ALTERNATIVA CORRECTA======================
+B. tuvo un comienzo.
+=====================RAZONAMIENTO======================
+Según la teoría de la relatividad, e l inicio del tiempo se dio en el big bang .

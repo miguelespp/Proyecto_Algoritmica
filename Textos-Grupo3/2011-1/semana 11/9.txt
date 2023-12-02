@@ -1,0 +1,101 @@
+ID: 9
+=====================TEXTO======================
+A menudo se reconoce que uno de los principales problemas para el estudio del
+lenguaje reside en el vasto número de datos que están a nuestra disposición, lo que
+supone una cierta «familiaridad» con los hechos lingüísticos, que «pu ede ser tan grande
+que realmente no nos demos cuenta de ello en absoluto», tal y como señala Chomsky.
+Este hecho constituye una traba para la explicación de los fenómenos lingüísticos: «Una
+de las dificultades de las ciencias psicológicas estriba en la familiaridad de los
+fenómenos de los que tratan. Se requiere cierto esfuerzo intelectual para ver por qué
+tales fenómenos pueden plantear serios problemas o requerir complicadas teorías
+explicativas», añade Chomsky. Por ello, determinar qué es un dato, cuánta s clases de
+datos hay y cuál es su valor son cuestiones fundamentales para el estudio del lenguaje,
+tanto normal como perturbado. El lingüista debe afrontar este tipo de incógnitas, aunque
+la tarea esbozada no es fácil pues a menudo lo que se observa no es pertinente ni
+significativo y con frecuencia es muy difícil observar qué es lo pertinente y lo
+significativo. El problema de delimitar los datos útiles para la investigación se acentúa
+aún más si se tiene en cuenta que la teoría lingüística estudia un fenómeno mental
+interno, del que los hablantes no tienen conciencia, y del que los posibles datos (en
+apariencia tan abundantes) resultan ser tan indirectos y en ocasiones tangenciales al
+verdadero objeto de estudio del lingüista: la gramática representada en la mente del
+hablante -oyente de una lengua. Este hecho, sin embargo, no es ajeno a la mayoría de
+las ciencias. Así, por ejemplo, el astrofísico que estudia el origen, la naturaleza y las
+propiedades del universo intentando determinar, por ejemplo, las ley es que rigen el
+desplazamiento de los planetas, no tiene datos directos sobre dichas leyes y debe
+conformarse con estudiar los efectos del movimiento esperando encontrar principios
+subyacentes que le permitan plantear hipótesis plausibles sobre su verdadero objeto de
+estudio. El lingüista opera del mismo modo. Debe conformarse con estudiar un conjunto
+de datos indirectos, las expresiones lingüísticas, pero su verdadero esfuerzo va dirigido
+hacia los principios que se ocultan tras los datos.
+=====================PREGUNTA 1======================
+1. El tema central del texto es
+=====================ALTERNATIVAS======================
+A. la evidencia empírica como fuente indirecta para el estudio del lenguaje.
+B. la función de la gramática explícita usada por el hablante de una lengua.
+C. la confluencia de datos en el estudio de diversas disciplinas científicas.
+D. el lingüista y el cumplimiento de la exhaustividad en el recojo de datos.
+E. las probabilidades en la recolección de evidencia admisible en ciencia.
+=====================ALTERNATIVA CORRECTA======================
+A. la evidencia empírica como fuente indirecta para el estudio del lenguaje.
+=====================RAZONAMIENTO======================
+El texto, en rigor, aborda la problemática que se desprende de la determinación de qué 
+es un dato relevante para el estudio científico del lenguaje.
+=====================PREGUNTA 2======================
+2. La idea principal del texto es
+=====================ALTERNATIVAS======================
+A. la determinación de los datos relevantes para el estudio científico del lenguaje
+es una tarea sumamente compleja.
+B. lo significativo y pertinente de los datos se determina de acuerdo con la
+competencia del hablante -oyente ideal.
+C. la naturaleza de las propiedades y la pertinencia de los datos empíricos es el
+objeto último de la ciencia lingüística.
+D. los astrofísicos realizan una l abor similar a la de los lingüistas en virtud de que
+se conforman con predicciones.
+E. las hipótesis acerca de lo subyacente en el lenguaje son siempre tentativas de
+un objeto inaprehensible.
+=====================ALTERNATIVA CORRECTA======================
+A. la determinación de los datos relevantes para el estudio científico del lenguaje
+es una tarea sumamente compleja.
+=====================RAZONAMIENTO======================
+En efecto, los datos como objeto de estudio supone una
+demarcación precisa acerca de qué tanta importancia debe evidenciar para
+conjeturar acerca del objeto real de estudio que es el lenguaje humano.
+=====================PREGUNTA 3======================
+3. El vocablo PERTURBADO implica
+=====================ALTERNATIVAS======================
+A. el desconocimiento de la complejidad que encubre los datos en el habla real.
+B. la opacidad que caracteriza el habla de un hablante que se encuentre alterado.
+C. el lado encubierto de las expresiones lingüísticas concretizadas en el habla.
+D. la obnubilación producida por algún hecho de gran magnitud en las personas .
+E. la afección de algún trastorno en el hemisferio izquierdo que rige el lenguaje.
+=====================ALTERNATIVA CORRECTA======================
+E. la afección de algún trastorno en el hemisferio izquierdo que rige el lenguaje.
+=====================RAZONAMIENTO======================
+El lenguaje perturbado es aquel que implica una lesión o algún tipo
+de afección cerebral y no se desarrolla de manera normal.
+=====================PREGUNTA 4======================
+4. Se infiere del texto que los datos empíricos evidenciados en el habla
+=====================ALTERNATIVAS======================
+A. no son familiares para los científicos en virtud de su carácter impredecible.
+B. son simples epifenómenos que coadyuvan a entender un estado de la mente.
+C. constituyen el insumo medular de las indagaciones lingüísticas del lenguaje.
+D. justifican la labor científica en vista de que esta se funda en las evidencias.
+E. son discernibles de la labor del astrofísico ya que las primeras no son reales.
+=====================ALTERNATIVA CORRECTA======================
+B. son simples epifenómenos que coadyuvan a entender un estado de la mente.
+=====================RAZONAMIENTO======================
+La manifestación concreta de la lengua a t ravés del habla es un
+fenómenos accesorio que permite estudiar el verdadero objeto de estudio, a saber,
+el lenguaje como estado de la mente. Por esa razón, es un epifenómeno.
+=====================PREGUNTA 5======================
+5. Es incompatible con el contenido textual afirmar que
+=====================ALTERNATIVAS======================
+A. no existen datos directos sobre el desplazamiento de los planetas.
+B. las lenguas son el soporte explicativo de la indagación lingüística.
+C. los datos relevantes para la lingüística son difíciles de determinar.
+D. el lingüista procesa un conjunto heterogéneo e impreciso de datos.
+E. la lengua como fenómeno particulares un puente hacia el lenguaje.
+=====================ALTERNATIVA CORRECTA======================
+B. las lenguas son el soporte explicativo de la indagación lingüística.
+=====================RAZONAMIENTO======================
+Las lenguas son solo epifenómenos. El objeto reales el lenguaje.

@@ -1,0 +1,151 @@
+ID: 47
+=====================TEXTO======================
+La Discover Magazine informa que un equipo de científicos del How ard Hughes
+Medical Institute (HHMI) y de la New York University ha conseguido provocar
+comportamientos agresivos en ratones haciendo incidir pulsos de luz en una parte
+concreta del cerebro de los animales.
+Utilizando la optogenética –un conjunto de tecnologías que permite el control
+rápido y dirigido de eventos específicos en sistemas biológicos – los investigadores
+hicieron que ratones corrientes y dóciles atacaran a otros machos, a otras hembras e
+incluso a objetos inanimados.
+Según el HHMI ,con este experimento y otro experimento anterior ,lo que los
+investigadores han intentado comprender a fondo es el proceso neuronal subyacente a
+la agresividad. Los resultados obtenidos en ambas fases de investigación han
+demostrado que, en una diminuta y profunda región del cerebro, las neuronas que
+controlan la agresividad están estrechamente ligadas a las neuronas que controlan una
+actividad aparentemente opuesta: el apareamiento.
+Hacía tiempo que los científicos sabían que la estimulación en una región particular
+del cerebro puede provocar comportamientos agresivos. Pero los procesos neurológicos
+subyacentes a la agresividad se han empezado a estudiar a fondo so lo recientemente, a
+partir de la aparición de nuevas tecnologías menos invasivas de registro de la actividad
+neuronal.
+En la primera fase de l presente estudio, David Anderson, investigador del HHMI, y
+sus colaboradores analizaron la actividad neuronal de una región del hipotálamo
+cerebral denominada núcleo ventromedial. Se comprobó así que dentro de este núcleo,
+concretamente en una profunda y pequeñísima área (de 300 micras de diámetro)
+denominada VMHv1, se desarrollaba actividad neuronal tanto cuando los ratones
+luchaban con otros ratones, como cuando se apareaban con hembras.
+La actividad en la VMHv1 fue registrada gracias a la inserción de finísimos
+electrodos en dicha área del cerebro, en un total de cinco ratones. Los electrodos
+registraron durante varios meses la actividad de 104 neuronas individuales de la
+VMHv1. Los registros mostraron que, mientras los ratones estaban solos en sus jaulas,
+las 104 neuronas permanecían inactivas. En cambio, cuando un ratón macho se
+enfrentaba a otro macho, se activaba una parte de las neuronas de la VMHv1.
+Por otro lado, cuando se introducía una hembra de ratón en una jaula con un ratón
+macho, en la VMH v1 del cerebro de este se activaba otro conjunto de neuronas, distinto
+al activado en los encuentros macho -macho. Sin embargo, cuando el macho empezaba
+a aparearse, la actividad de las n euronas de la VMHv1 se reducía.
+En la segunda fase de la investigación fue llevado a cabo otro experimento, con el
+que se pretendía confirmar que las neuronas de la VMHv1 estaban implicadas
+causalmente en el apareamiento ola agresividad. Anderson y sus colaboradores
+utilizaron un virus para insertar dentro de las neuronas un gen que codifica un canal
+iónico que puede controlarse con la luz. Una vez que el virus hubo infectado a las
+neuronas, e introducido en estas su carga genética, los investigadores utilizaron un
+cable de fibra óptica para iluminar la región del cerebro e studiada. De esta forma,
+comprobaron que el encendido de la luz provocaba que las neuronas se activasen, y
+que los ratones atacaran no so lo a otros machos, sino también a hembras y a objetos
+cercanos. Cuando la luz se apagaba, los ratones dejaban de atacar . Un método similar
+fue utilizado para impedir que las neuronas se activasen. Cuando los investigadores
+desactivaron de esta forma las neuronas de la VMHv1, los ratones no lucharon, ni
+siquiera en presencia de machos extraños.
+Según Anderson, estos resultados indican que las neuronas de esta parte del
+cerebro no solo está n relacionadas con los comportamientos agresivos ,sino que también pueden ser su causa. Los hallazgos realizados sugieren que los procesos
+neuronales subyacentes a los comportamientos agresivos están localizados en una
+región particular del hipotálamo (la VMHv1), y no distribuidos extensamente por el
+hipotálamo, como estudios anteriores habían sugerido.
+En cuanto al apareamiento, ni la estimulación ni la inhibición de las neuronas de la
+VMHv1 con la luz influyeron en este comportamiento. Sin embargo, el apareamiento sí
+influyó en la agresividad. Cuando los investigadores permitieron a los ratones macho
+aparearse con una hembra antes de encender la luz que activaba las neuronas, no
+pudieron provocar con esta que los ratones macho atacaran. Solo cuando los ratones
+habían terminado de aparearse ,los científicos pudieron provocar de nuevo las
+agresiones utilizando el haz de luz.
+Anderson señala que esto podría deberse a que las neuronas de la VMHv1
+activadas por el contacto con las hembras inhibirían la agresividad. De esta forma, se
+garantizaría que los animales no intentasen aparearse con un enemigo que puede
+atacarles ni atacar a una potencial pareja. Los científicos intentarán determinar a hora
+qué neuronas de la VMHv1 controlan qué comportamiento (apareamiento o ataque). Las
+conexiones neuronales existentes en el hipotálamo de los ratones pueden ser
+extrapolables a otras especies, incluidos los humanos, explican los investigadores, que
+han detallado recientemente sus de scubrimientos en la prestigiosa revista Nature .
+=====================PREGUNTA 1======================
+1. El texto aborda medularmente
+=====================ALTERNATIVAS======================
+A. una investigación experimental para entender el proceso neuronal subyacente
+a la agresividad.
+B. un experimento para conocer la agresividad en ratones machos solo en
+relación a otros ratones.
+C. un estudio longitudinal sobre la actividad neuronal de la región núcleo
+ventromedial de l hipotálamo .
+D. un experimento para predecir cómo se comportan los ratones y las ratonas en
+el apareamiento .
+E. una investigación médica para conocer los efectos de iluminar una parte del
+cerebro de un ratón.
+=====================ALTERNATIVA CORRECTA======================
+A. una investigación experimental para entender el proceso neuronal subyacente
+a la agresividad.
+=====================RAZONAMIENTO======================
+El tema que toca esencialmente el texto está expuesto en los primeros
+párrafos de él cuando se dice que: lo que los investigadores han intentado comprender
+a fondo es el proceso neuronal subyacente a la agresividad .
+=====================PREGUNTA 2======================
+2. En el texto, la palabra INCIDIR adquiere el sentido de
+=====================ALTERNATIVAS======================
+A. incursionar.
+B. cortar.
+C. colisionar.
+D. insistir.
+E. romper.
+=====================ALTERNATIVA CORRECTA======================
+C. colisionar.
+=====================RAZONAMIENTO======================
+El término se utiliza en: haciendo incidir pulsos de luz en una parte concreta
+del cerebro ,por lo que el sentido que adquiere es colisionar.
+=====================PREGUNTA 3======================
+3. Se infiere del texto que ,durante el apareamiento,
+=====================ALTERNATIVAS======================
+A. un ratón manso o dócil puede ser peligrosamente violento con todos.
+B. todas las neuronas del VMHv1 se activan de una manera intensa.
+C. el hipotálamo deja funcionar por completo en todos los ratones.
+D. los ratones no generan un comportamiento directamente agresivo.
+E. una especie de virus afecta ineludiblemente a un sector del hipot álamo.
+=====================ALTERNATIVA CORRECTA======================
+D. los ratones no generan un comportamiento directamente agresivo.
+=====================RAZONAMIENTO======================
+En el texto se señala que: s olo cuando los ratones habían terminado de
+aparearse los científicos pudieron provocar de nuevo las agresiones utilizando el haz de
+luz, de lo que se infiere que ambas conductas no se presentan simultáneamente en los
+ratones .
+=====================PREGUNTA 4======================
+4. Resulta incompatible con el texto sostener que
+=====================ALTERNATIVAS======================
+A. los procesos neuronales subyacentes a las conductas agresivas están
+distribuidos ampliamente por el hipotálamo.
+B. las neuronas que controlan la agresividad están estrechamente ligadas a las
+neuronas que con trolan el apareamiento.
+C. cuando el ratón macho empezaba a aparearse con el ratón hembra ,la
+actividad de las neuronas de la VMHv1 se reducía.
+D. los científicos intentarán determinar ahora qué ne uronas de la VMHv1 controlan
+el comportamiento específicamente agresivo.
+E. la activación de una zona cerebral determinada puede producir un
+comportamiento típicamente agresivo en los ratones.
+=====================ALTERNATIVA CORRECTA======================
+A. los procesos neuronales subyacentes a las conductas agresivas están
+distribuidos ampliamente por el hipotálamo.
+=====================RAZONAMIENTO======================
+Afirmación patentemente incompatible por cuanto el texto sostiene que éstos
+procesos: están localizados en una región particular del hipotálamo (la VMHv1) .
+=====================PREGUNTA 5======================
+5. Si un lugar de ratones se hubiese experimentado con humanos,
+=====================ALTERNATIVAS======================
+A. habría sido imposible desarrollar la agresividad.
+B. el apareamiento habría sido impredecible.
+C. la conducta violenta habría sido permanente.
+D. habría sido imposible todo tipo de apareamiento.
+E. se habría llegado a resultados muy similares.
+=====================ALTERNATIVA CORRECTA======================
+E. se habría llegado a resultados muy similares.
+=====================RAZONAMIENTO======================
+Es posible hacer ésta afirmación a partir de la aseveración final del texto:
+Las conexiones neuronales existentes en el hipotálamo de los ratones pueden ser
+extrapolables a otras especies, incluidos los humanos .

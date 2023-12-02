@@ -1,0 +1,110 @@
+ID: 013
+=====================TEXTO======================
+El proceso de adquisición del lenguaje sigue una serie de etapas bien establecidas:
+(a) Fase de los gorgoritos, en la que se utilizan sonidos que recuerdan a los
+característicos del habla del individuo adulto, y que se extiende aproximadamente entre el
+momento del nacimiento y los seis primeros meses de vida. (b) Etapa del balbuceo, en la
+que el niño es capaz de producir distintos sonidos vocálicos y consonánticos, pero
+también de combinarlos de diversas maneras, así como de conferirles diferentes patrones
+de entonación. Esta fase tiene lugar entre los seis y los doce meses de edad, cuando esta
+forma de «prelenguaje» comienza a cobrar un valor social. (c) Etapa holofrástica, en la
+que el niño emite enunciados constituidos por una única palabra, los cuales, si bien
+pueden funcionar en ocasiones como un sintagma o una oración, tienen habitualmente un
+carácter referencial. En muchos casos, la utilización de estas «palabras únicas» implica
+un fenómeno de sobre extensión semántica, por cuanto dichos elementos se emplean
+para designar objetos parecidos en cuanto a forma, sonido, tamaño, función o
+comportamiento. En general, el elemento sobre extendido suele corresponderse con el
+término de rango intermedio en una jerarquía de hipónimos e hiperónimos. La etapa
+holofrástica se extiende aproximadamente entre los doce y dieciocho meses de vida. (d)
+Etapa biléxica o de dos palabras, en la que, coincidiendo con una notable expansión de
+vocabulario, el niño comienza a emitir combinaciones formadas por dos elementos
+(generalmente, dos sustantivos), los cuales suelen tener un elevado valor funcional en
+términos comunicativos, si bien merced en gran medida al esfuerzo de interpretación que
+hacen los interlocutores adultos. Esta etapa tiene lugar aproximadamente entre los
+dieciocho y los veinticuatro meses de vida. (e) Etapa del habla telegráfica, que comienza
+alrededor de los dos años de vida, y en la que el niño es capaz de combinar diversas
+palabras de forma apropiada para construir pseudooraciones; si bien en los momentos
+iniciales de la misma el niño desconoce aún la manera de modificar la forma de los
+elementos que las componen, progresivamente empiezan a flexionarse algunas palabras
+y a utilizarse elementos de relación, fundamentalmente preposiciones. (f) Etapa de
+desarrollo de la morfología y de la sintaxis, que comienza aproximadamente a partir de los
+dos años y medio de edad, y en la que empiezan a aparecer de forma sistemática
+morfemas flexivos que señalan las funciones gramaticales desempeñadas por los
+sustantivos y los verbos. En un primer momento suele advertirse en su aplicación una
+tendencia a la sobre generalización, si bien en algunos casos la utilización de formas
+irregulares precede a la adquisición de la correspondiente regla de derivación de las formas regulares mediante las oportunas desinencias flexivas, algo que sucede
+especialmente en el caso de los verbos.
+Antonio Benítez Burraco: Genes y lenguaje (fragmento)
+
+=====================PREGUNTA 1======================
+¿Cuál es el tema central del texto?
+=====================ALTERNATIVAS======================
+A) El desarrollo social del lenguaje
+B) El innatismo en el lenguaje humano
+C) El habla holofrástica en los niños
+D) La adquisición del lenguaje
+E) Fases en la ontogenia lingüística*
+=====================ALTERNATIVA CORRECTA=====================
+E) Fases en la ontogenia lingüística*
+=====================RAZONAMIENTO======================
+Se presentan las fases del proceso de adquisición del lenguaje.
+=====================PREGUNTA 2======================
+En «Etapa biléxica o de dos palabras», la palabra «o» es un conector
+=====================ALTERNATIVAS======================
+A) disyuntivo. 
+B) enfático. 
+C) explicativo.
+D) de equivalencia.
+E) de contraste.
+=====================ALTERNATIVA CORRECTA=====================
+D) de equivalencia.
+=====================RAZONAMIENTO======================
+Dado que se establece una sinonimia, se trata de un conector de equivalencia.
+=====================PREGUNTA 3======================
+Resulta incompatible con el texto decir que la etapa holofrástica
+=====================ALTERNATIVAS======================
+A) se inicia aproximadamente al cumplir el primer año de edad.
+B) utiliza una palabra sola como si fuese todo un enunciado.
+C) se caracteriza por implicar una sobreextensión semántica.
+D) desarrolla un cierto nivel lingüístico de carácter referencial.
+E) resulta más compleja que la fase denominada biléxica.
+=====================ALTERNATIVA CORRECTA=====================
+E) resulta más compleja que la fase denominada biléxica.
+=====================RAZONAMIENTO======================
+La etapa biléxica entraña un incremento de complejidad respecto de la etapa holofrástica.
+=====================PREGUNTA 4======================
+Se infiere que el niño dice «yo sabo» en vez de «yo sé», aproximadamente, a los
+=====================ALTERNATIVAS======================
+A) doce meses. 
+B) quince meses. 
+C) dos años.
+D) treinta meses.
+E) dieciocho meses.
+=====================ALTERNATIVA CORRECTA=====================
+D) treinta meses.
+=====================RAZONAMIENTO======================
+Se trata de una sobregeneralización típica de la etapa de desarrollo de la morfología y de la sintaxis (que empieza aproximadamente a los dos años y medio de edad).
+=====================PREGUNTA 5======================
+Si un niño de dos años y medio solamente emitiera enunciados formados por una sola palabra,
+=====================ALTERNATIVAS======================
+A) sería una prueba concluyente e n contra del innatismo del lenguaje.
+B) expresaría un retraso en el proceso de adquisición lingüística.
+C) se demostraría que el lenguaje se aprende por mera imitación.
+D) sería incapaz de llevar a cabo alguna sobreextensión semántica.
+E) se podría de cir que ha superado la etapa del habla telegráfica.
+=====================ALTERNATIVA CORRECTA=====================
+B) expresaría un retraso en el proceso de adquisición lingüística.
+=====================RAZONAMIENTO======================
+Se encontraría en la fase holofrástica cuando debiera ya iniciar la etapa de desarrollo de la morfología y de la sintaxis.
+=====================PREGUNTA 6======================
+En virtud de la explicación del texto, se puede determinar que un niño empleará adecuadamente una palabra como «por» a los
+=====================ALTERNATIVAS======================
+A) veinticinco meses.
+B) veinte meses. 
+C) diecisiete meses.
+D) quince meses. 
+E) doce meses.
+=====================ALTERNATIVA CORRECTA=====================
+A) veinticinco meses.
+=====================RAZONAMIENTO======================
+El empleo de preposiciones comienza en la etapa del habla telegráfica.

@@ -1,0 +1,78 @@
+ID: 012
+=====================TEXTO======================
+Ante el reto de la demencia, el internista debe conocer todos los entresijos de esta patología que está en aumento, ya que su frecuencia se duplica cada cinco años desde
+que la persona ha alcanzado los 60. Así, Francesc Formiga Pérez, del Servicio de Geriatría del Hospital Universitario de
+Bellvitge, en Barcelona, ha explicado que el Alzheimer, vascular y mixto, es el caso que más se presenta en la consulta. El último tipo, el de la demencia mixta, cada vez va más
+asociada a las alteraciones de la personalidad. En cuanto al diagnóstico, el internista debe emplear test como el Pfeiffer o el minimental, complementando este último con otros.
+Además, hay que realizar una exploración física completa, neurológica, con una prueba de imagen (TC, resonancia, etc.) y de manera global, observar sus actividades diarias, la
+comorbilidad y las escalas conductuales, ha añadido Formiga. "Existen nuevos criterios para identificar a los sujetos en fases precoces, previas a la demencia, como es el PET y el LCR". Otro aspecto que los internistas deben tener en cuenta es que la demencia es un frecuente factor de riesgo de delirio.
+Aparte del diagnóstico, existe evidencia de la eficacia y seguridad del tratamiento, con el que se puede retrasar la progresión de la enfermedad y controlar los síntomas. "Cuanto
+antes demos el tratamiento, el declive va a ser menor. Hay una gran comorbilidad en pacientes tratados de forma tardía", ha apuntado el especialista. Asimismo, es muy importante el momento de valorar si hay que continuar con el tratamiento. Y, sobre todo, según Formiga, lo que tiene que fomentar el internista es la
+incorporación de habilidades para ayudar a los pacientes en los últimos años de su vida. "Es necesario tener una visión global del enfermo". Raquel Sánchez-Valle, del Servicio de Neurología del Hospital Clínico de Barcelona, ha hablado de la dificultad de encontrar una cura para el Alzheimer, si bien confía en los
+940 ensayos clínicos puestos en marcha. A su juicio, los fármacos no son eficaces porque se aplican demasiado tarde. "Delos pacientes con Alzheimer, hasta un 30-40 por ciento pasan por el deterioro cognitivo leve. Y numerosos estudios evidencian que esta fase de
+la demencia leve sería irreversible, que tendríamos que ir a los asintomáticos, que tienen beta en el cerebro. El depósito amiloide aparece unos diez años antes de la evidencia".
+Los nuevos criterios de investigación irán encaminados a intentar diseñar un biomarcador que adivine la enfermedad antes de los síntomas, según Sánchez Valle, que opina que hay que realizar tratamientos en fases más precoces, y plantea la pregunta de si hay que aplicarlos en la predemencia o en la preclínica. Adaptado por el prof. Juan Carlos Huamanca yo Ester Crespo. Los fármacos del Alzheimer son ineficaces porque se aplican tarde.
+En: Diario médico.com
+=====================PREGUNTA 1======================
+La idea principal afirma que
+=====================ALTERNATIVAS======================
+A) la demencia es una enfermedad de la senectud que duplica su frecuencia cada cinco años.
+B) el internista debe diagnosticar la demencia temprana para dar el tratamiento adecuado.
+C) para diagnosticar la demencia, el internista cuenta con el test de Pfeiffer y el minimental entre otros.
+D) existen nuevos criterios para identificar a pacientes con fases precoces previas a la demencia.
+E) el deterioro cognitivo que se produce en la demencia tiene un carácter irreversible.
+=====================ALTERNATIVA CORRECTA=====================
+B) el internista debe diagnosticar la demencia temprana para dar el tratamiento adecuado.
+=====================RAZONAMIENTO======================
+Texto sintetizante, el autor recomienda que los internistas conozcan todo lo relativo a la demencia para poder diagnosticarla antes de que se manifieste y así poder administrar el tratamiento adecuado.
+=====================PREGUNTA 2======================
+En el texto, el término ENTRESIJOS tiene el sentido de
+=====================ALTERNATIVAS======================
+A) variantes. 
+B) hipótesis. 
+C) síntomas. 
+D) dificultades.
+E) causas.
+=====================ALTERNATIVA CORRECTA=====================
+D) dificultades.
+=====================RAZONAMIENTO======================
+‘el internista debe conocer todos los entresijos de esta patología que está en aumento’ entresijo se refiere a las dificultades o enredos para diagnosticar esta enfermedad.
+=====================PREGUNTA 3======================
+Marque la alternativa que es incompatible con el texto.
+=====================ALTERNATIVAS======================
+A) El PET y el LCR son test que permiten diagnosticar fases precoces previas a la demencia.
+B) El tratamiento aplicado a un paciente con demencia avanzada no será muy eficaz.
+C) El médico debe fomentar la incorporación de habilidades en los pacientes con demencia.
+D) Para diagnosticar la demencia, el internista debe emplear el test de Pfeiffer o el minimental.
+E) Los pacientes de Alzheimer siempre muestran síntomas reconocibles para los médicos.
+=====================ALTERNATIVA CORRECTA=====================
+E) Los pacientes de Alzheimer siempre muestran síntomas reconocibles para los médicos.
+=====================RAZONAMIENTO======================
+El texto afirma que hay pacientes asintomáticos.
+=====================PREGUNTA 4======================
+Se colige que entre Alzheimer y demencia hay una relación de
+=====================ALTERNATIVAS======================
+A) equivalencia. 
+B) exclusión. 
+C) inclusión.
+D) sinonimia. 
+E) oposición.
+=====================ALTERNATIVA CORRECTA=====================
+C) inclusión.
+=====================RAZONAMIENTO======================
+En el último párrafo el texto sugiere que el Alzheimer estaría incluido dentro de la demencia, como un tipo de demencia.
+=====================PREGUNTA 5======================
+Si un sujeto con demencia es tratado después de un largo período, entonces
+=====================ALTERNATIVAS======================
+A) su demencia se habrá convertido en Alzheimer.
+B) presentará un deterioro cognitivo irreversible.
+C) los fármacos podrían mejorar su estado.
+D) el sujeto ya no presentaría cuadros de delirios.
+E) el paciente no tendría ningún tratamiento posible.
+=====================ALTERNATIVA CORRECTA=====================
+B) presentará un deterioro cognitivo irreversible.
+=====================RAZONAMIENTO======================
+Cuando hay un deterioro cognitivo leve en esta fase la demencia es irreversible, ya que hay una gran comorbilidad en pacientes tratados en forma tardía.
+
+
+
