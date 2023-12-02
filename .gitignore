@@ -6,6 +6,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-grupos
-.Estudiantes.txt
-.Profesores.txt
+Data/
+grupos/
+Estudiantes.txt
+Profesores.txt
